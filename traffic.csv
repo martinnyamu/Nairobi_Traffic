@@ -1,0 +1,3261 @@
+junction,timestamp,avg_speed,vehicle_count
+Thika Road - Muthaiga,1/1/2025 5:00,58,97
+Uhuru Highway - Haile Selassie,1/1/2025 5:00,67,119
+Waiyaki Way - Westlands,1/1/2025 5:00,48,96
+Ngong Road - Adams Arcade,1/1/2025 5:00,51,108
+Jogoo Road - City Stadium,1/1/2025 5:00,52,87
+Thika Road - Muthaiga,1/1/2025 5:15,56,83
+Uhuru Highway - Haile Selassie,1/1/2025 5:15,39,113
+Waiyaki Way - Westlands,1/1/2025 5:15,45,74
+Ngong Road - Adams Arcade,1/1/2025 5:15,47,69
+Jogoo Road - City Stadium,1/1/2025 5:15,36,81
+Thika Road - Muthaiga,1/1/2025 5:30,58,111
+Uhuru Highway - Haile Selassie,1/1/2025 5:30,43,121
+Waiyaki Way - Westlands,1/1/2025 5:30,50,91
+Ngong Road - Adams Arcade,1/1/2025 5:30,48,67
+Jogoo Road - City Stadium,1/1/2025 5:30,45,85
+Thika Road - Muthaiga,1/1/2025 5:45,74,80
+Uhuru Highway - Haile Selassie,1/1/2025 5:45,46,109
+Waiyaki Way - Westlands,1/1/2025 5:45,40,112
+Ngong Road - Adams Arcade,1/1/2025 5:45,29,88
+Jogoo Road - City Stadium,1/1/2025 5:45,49,75
+Thika Road - Muthaiga,1/1/2025 6:00,61,101
+Uhuru Highway - Haile Selassie,1/1/2025 6:00,52,108
+Waiyaki Way - Westlands,1/1/2025 6:00,44,77
+Ngong Road - Adams Arcade,1/1/2025 6:00,53,78
+Jogoo Road - City Stadium,1/1/2025 6:00,33,100
+Thika Road - Muthaiga,1/1/2025 6:15,56,94
+Uhuru Highway - Haile Selassie,1/1/2025 6:15,59,99
+Waiyaki Way - Westlands,1/1/2025 6:15,57,115
+Ngong Road - Adams Arcade,1/1/2025 6:15,42,72
+Jogoo Road - City Stadium,1/1/2025 6:15,55,99
+Thika Road - Muthaiga,1/1/2025 6:30,58,82
+Uhuru Highway - Haile Selassie,1/1/2025 6:30,45,93
+Waiyaki Way - Westlands,1/1/2025 6:30,60,112
+Ngong Road - Adams Arcade,1/1/2025 6:30,53,83
+Jogoo Road - City Stadium,1/1/2025 6:30,42,100
+Thika Road - Muthaiga,1/1/2025 6:45,72,95
+Uhuru Highway - Haile Selassie,1/1/2025 6:45,67,109
+Waiyaki Way - Westlands,1/1/2025 6:45,56,60
+Ngong Road - Adams Arcade,1/1/2025 6:45,42,86
+Jogoo Road - City Stadium,1/1/2025 6:45,32,96
+Thika Road - Muthaiga,1/1/2025 7:00,40,140
+Uhuru Highway - Haile Selassie,1/1/2025 7:00,30,198
+Waiyaki Way - Westlands,1/1/2025 7:00,27,147
+Ngong Road - Adams Arcade,1/1/2025 7:00,30,149
+Jogoo Road - City Stadium,1/1/2025 7:00,34,144
+Thika Road - Muthaiga,1/1/2025 7:15,45,145
+Uhuru Highway - Haile Selassie,1/1/2025 7:15,31,165
+Waiyaki Way - Westlands,1/1/2025 7:15,19,154
+Ngong Road - Adams Arcade,1/1/2025 7:15,30,140
+Jogoo Road - City Stadium,1/1/2025 7:15,28,152
+Thika Road - Muthaiga,1/1/2025 7:30,34,122
+Uhuru Highway - Haile Selassie,1/1/2025 7:30,27,170
+Waiyaki Way - Westlands,1/1/2025 7:30,34,157
+Ngong Road - Adams Arcade,1/1/2025 7:30,29,164
+Jogoo Road - City Stadium,1/1/2025 7:30,29,155
+Thika Road - Muthaiga,1/1/2025 7:45,37,115
+Uhuru Highway - Haile Selassie,1/1/2025 7:45,54,176
+Waiyaki Way - Westlands,1/1/2025 7:45,33,157
+Ngong Road - Adams Arcade,1/1/2025 7:45,18,135
+Jogoo Road - City Stadium,1/1/2025 7:45,36,169
+Thika Road - Muthaiga,1/1/2025 8:00,30,155
+Uhuru Highway - Haile Selassie,1/1/2025 8:00,23,197
+Waiyaki Way - Westlands,1/1/2025 8:00,48,168
+Ngong Road - Adams Arcade,1/1/2025 8:00,23,121
+Jogoo Road - City Stadium,1/1/2025 8:00,25,153
+Thika Road - Muthaiga,1/1/2025 8:15,38,120
+Uhuru Highway - Haile Selassie,1/1/2025 8:15,38,160
+Waiyaki Way - Westlands,1/1/2025 8:15,43,146
+Ngong Road - Adams Arcade,1/1/2025 8:15,25,124
+Jogoo Road - City Stadium,1/1/2025 8:15,20,164
+Thika Road - Muthaiga,1/1/2025 8:30,47,147
+Uhuru Highway - Haile Selassie,1/1/2025 8:30,35,151
+Waiyaki Way - Westlands,1/1/2025 8:30,37,163
+Ngong Road - Adams Arcade,1/1/2025 8:30,17,117
+Jogoo Road - City Stadium,1/1/2025 8:30,32,159
+Thika Road - Muthaiga,1/1/2025 8:45,40,147
+Uhuru Highway - Haile Selassie,1/1/2025 8:45,36,165
+Waiyaki Way - Westlands,1/1/2025 8:45,25,164
+Ngong Road - Adams Arcade,1/1/2025 8:45,31,163
+Jogoo Road - City Stadium,1/1/2025 8:45,35,134
+Thika Road - Muthaiga,1/1/2025 9:00,43,129
+Uhuru Highway - Haile Selassie,1/1/2025 9:00,27,193
+Waiyaki Way - Westlands,1/1/2025 9:00,34,174
+Ngong Road - Adams Arcade,1/1/2025 9:00,43,148
+Jogoo Road - City Stadium,1/1/2025 9:00,23,148
+Thika Road - Muthaiga,1/1/2025 9:15,30,130
+Uhuru Highway - Haile Selassie,1/1/2025 9:15,37,174
+Waiyaki Way - Westlands,1/1/2025 9:15,37,164
+Ngong Road - Adams Arcade,1/1/2025 9:15,39,136
+Jogoo Road - City Stadium,1/1/2025 9:15,51,148
+Thika Road - Muthaiga,1/1/2025 9:30,30,153
+Uhuru Highway - Haile Selassie,1/1/2025 9:30,38,159
+Waiyaki Way - Westlands,1/1/2025 9:30,36,156
+Ngong Road - Adams Arcade,1/1/2025 9:30,27,143
+Jogoo Road - City Stadium,1/1/2025 9:30,17,139
+Thika Road - Muthaiga,1/1/2025 9:45,44,137
+Uhuru Highway - Haile Selassie,1/1/2025 9:45,24,179
+Waiyaki Way - Westlands,1/1/2025 9:45,34,162
+Ngong Road - Adams Arcade,1/1/2025 9:45,29,122
+Jogoo Road - City Stadium,1/1/2025 9:45,20,152
+Thika Road - Muthaiga,1/1/2025 10:00,64,95
+Uhuru Highway - Haile Selassie,1/1/2025 10:00,63,126
+Waiyaki Way - Westlands,1/1/2025 10:00,42,79
+Ngong Road - Adams Arcade,1/1/2025 10:00,49,92
+Jogoo Road - City Stadium,1/1/2025 10:00,78,102
+Thika Road - Muthaiga,1/1/2025 10:15,69,98
+Uhuru Highway - Haile Selassie,1/1/2025 10:15,60,124
+Waiyaki Way - Westlands,1/1/2025 10:15,56,95
+Ngong Road - Adams Arcade,1/1/2025 10:15,43,73
+Jogoo Road - City Stadium,1/1/2025 10:15,48,87
+Thika Road - Muthaiga,1/1/2025 10:30,45,124
+Uhuru Highway - Haile Selassie,1/1/2025 10:30,42,120
+Waiyaki Way - Westlands,1/1/2025 10:30,58,92
+Ngong Road - Adams Arcade,1/1/2025 10:30,36,85
+Jogoo Road - City Stadium,1/1/2025 10:30,53,84
+Thika Road - Muthaiga,1/1/2025 10:45,61,79
+Uhuru Highway - Haile Selassie,1/1/2025 10:45,49,110
+Waiyaki Way - Westlands,1/1/2025 10:45,55,132
+Ngong Road - Adams Arcade,1/1/2025 10:45,46,54
+Jogoo Road - City Stadium,1/1/2025 10:45,54,85
+Thika Road - Muthaiga,1/1/2025 11:00,59,78
+Uhuru Highway - Haile Selassie,1/1/2025 11:00,61,117
+Waiyaki Way - Westlands,1/1/2025 11:00,47,81
+Ngong Road - Adams Arcade,1/1/2025 11:00,39,77
+Jogoo Road - City Stadium,1/1/2025 11:00,51,121
+Thika Road - Muthaiga,1/1/2025 11:15,67,71
+Uhuru Highway - Haile Selassie,1/1/2025 11:15,63,141
+Waiyaki Way - Westlands,1/1/2025 11:15,46,77
+Ngong Road - Adams Arcade,1/1/2025 11:15,39,104
+Jogoo Road - City Stadium,1/1/2025 11:15,54,101
+Thika Road - Muthaiga,1/1/2025 11:30,59,76
+Uhuru Highway - Haile Selassie,1/1/2025 11:30,46,61
+Waiyaki Way - Westlands,1/1/2025 11:30,40,96
+Ngong Road - Adams Arcade,1/1/2025 11:30,33,109
+Jogoo Road - City Stadium,1/1/2025 11:30,49,88
+Thika Road - Muthaiga,1/1/2025 11:45,48,111
+Uhuru Highway - Haile Selassie,1/1/2025 11:45,55,127
+Waiyaki Way - Westlands,1/1/2025 11:45,53,85
+Ngong Road - Adams Arcade,1/1/2025 11:45,40,87
+Jogoo Road - City Stadium,1/1/2025 11:45,44,96
+Thika Road - Muthaiga,1/1/2025 12:00,65,91
+Uhuru Highway - Haile Selassie,1/1/2025 12:00,45,133
+Waiyaki Way - Westlands,1/1/2025 12:00,34,131
+Ngong Road - Adams Arcade,1/1/2025 12:00,49,82
+Jogoo Road - City Stadium,1/1/2025 12:00,43,99
+Thika Road - Muthaiga,1/1/2025 12:15,56,86
+Uhuru Highway - Haile Selassie,1/1/2025 12:15,61,101
+Waiyaki Way - Westlands,1/1/2025 12:15,44,105
+Ngong Road - Adams Arcade,1/1/2025 12:15,47,98
+Jogoo Road - City Stadium,1/1/2025 12:15,53,107
+Thika Road - Muthaiga,1/1/2025 12:30,55,77
+Uhuru Highway - Haile Selassie,1/1/2025 12:30,59,121
+Waiyaki Way - Westlands,1/1/2025 12:30,50,99
+Ngong Road - Adams Arcade,1/1/2025 12:30,40,104
+Jogoo Road - City Stadium,1/1/2025 12:30,46,103
+Thika Road - Muthaiga,1/1/2025 12:45,68,86
+Uhuru Highway - Haile Selassie,1/1/2025 12:45,61,122
+Waiyaki Way - Westlands,1/1/2025 12:45,50,119
+Ngong Road - Adams Arcade,1/1/2025 12:45,42,95
+Jogoo Road - City Stadium,1/1/2025 12:45,46,99
+Thika Road - Muthaiga,1/1/2025 13:00,64,91
+Uhuru Highway - Haile Selassie,1/1/2025 13:00,71,97
+Waiyaki Way - Westlands,1/1/2025 13:00,40,84
+Ngong Road - Adams Arcade,1/1/2025 13:00,51,102
+Jogoo Road - City Stadium,1/1/2025 13:00,53,104
+Thika Road - Muthaiga,1/1/2025 13:15,52,89
+Uhuru Highway - Haile Selassie,1/1/2025 13:15,49,111
+Waiyaki Way - Westlands,1/1/2025 13:15,48,114
+Ngong Road - Adams Arcade,1/1/2025 13:15,42,72
+Jogoo Road - City Stadium,1/1/2025 13:15,43,101
+Thika Road - Muthaiga,1/1/2025 13:30,61,77
+Uhuru Highway - Haile Selassie,1/1/2025 13:30,50,113
+Waiyaki Way - Westlands,1/1/2025 13:30,51,92
+Ngong Road - Adams Arcade,1/1/2025 13:30,33,63
+Jogoo Road - City Stadium,1/1/2025 13:30,46,84
+Thika Road - Muthaiga,1/1/2025 13:45,71,94
+Uhuru Highway - Haile Selassie,1/1/2025 13:45,53,122
+Waiyaki Way - Westlands,1/1/2025 13:45,41,99
+Ngong Road - Adams Arcade,1/1/2025 13:45,42,84
+Jogoo Road - City Stadium,1/1/2025 13:45,41,99
+Thika Road - Muthaiga,1/1/2025 14:00,72,97
+Uhuru Highway - Haile Selassie,1/1/2025 14:00,58,108
+Waiyaki Way - Westlands,1/1/2025 14:00,46,110
+Ngong Road - Adams Arcade,1/1/2025 14:00,45,88
+Jogoo Road - City Stadium,1/1/2025 14:00,41,96
+Thika Road - Muthaiga,1/1/2025 14:15,63,90
+Uhuru Highway - Haile Selassie,1/1/2025 14:15,62,131
+Waiyaki Way - Westlands,1/1/2025 14:15,43,132
+Ngong Road - Adams Arcade,1/1/2025 14:15,46,98
+Jogoo Road - City Stadium,1/1/2025 14:15,41,127
+Thika Road - Muthaiga,1/1/2025 14:30,55,77
+Uhuru Highway - Haile Selassie,1/1/2025 14:30,50,78
+Waiyaki Way - Westlands,1/1/2025 14:30,51,88
+Ngong Road - Adams Arcade,1/1/2025 14:30,60,90
+Jogoo Road - City Stadium,1/1/2025 14:30,43,109
+Thika Road - Muthaiga,1/1/2025 14:45,63,76
+Uhuru Highway - Haile Selassie,1/1/2025 14:45,69,90
+Waiyaki Way - Westlands,1/1/2025 14:45,46,117
+Ngong Road - Adams Arcade,1/1/2025 14:45,55,59
+Jogoo Road - City Stadium,1/1/2025 14:45,57,93
+Thika Road - Muthaiga,1/1/2025 15:00,55,66
+Uhuru Highway - Haile Selassie,1/1/2025 15:00,55,110
+Waiyaki Way - Westlands,1/1/2025 15:00,54,93
+Ngong Road - Adams Arcade,1/1/2025 15:00,43,68
+Jogoo Road - City Stadium,1/1/2025 15:00,52,96
+Thika Road - Muthaiga,1/1/2025 15:15,51,100
+Uhuru Highway - Haile Selassie,1/1/2025 15:15,65,86
+Waiyaki Way - Westlands,1/1/2025 15:15,44,104
+Ngong Road - Adams Arcade,1/1/2025 15:15,45,108
+Jogoo Road - City Stadium,1/1/2025 15:15,48,112
+Thika Road - Muthaiga,1/1/2025 15:30,74,120
+Uhuru Highway - Haile Selassie,1/1/2025 15:30,62,106
+Waiyaki Way - Westlands,1/1/2025 15:30,60,109
+Ngong Road - Adams Arcade,1/1/2025 15:30,50,70
+Jogoo Road - City Stadium,1/1/2025 15:30,33,110
+Thika Road - Muthaiga,1/1/2025 15:45,43,72
+Uhuru Highway - Haile Selassie,1/1/2025 15:45,60,105
+Waiyaki Way - Westlands,1/1/2025 15:45,50,122
+Ngong Road - Adams Arcade,1/1/2025 15:45,33,109
+Jogoo Road - City Stadium,1/1/2025 15:45,47,69
+Thika Road - Muthaiga,1/1/2025 16:00,37,149
+Uhuru Highway - Haile Selassie,1/1/2025 16:00,33,144
+Waiyaki Way - Westlands,1/1/2025 16:00,36,140
+Ngong Road - Adams Arcade,1/1/2025 16:00,20,141
+Jogoo Road - City Stadium,1/1/2025 16:00,21,144
+Thika Road - Muthaiga,1/1/2025 16:15,45,143
+Uhuru Highway - Haile Selassie,1/1/2025 16:15,38,161
+Waiyaki Way - Westlands,1/1/2025 16:15,24,152
+Ngong Road - Adams Arcade,1/1/2025 16:15,19,134
+Jogoo Road - City Stadium,1/1/2025 16:15,20,143
+Thika Road - Muthaiga,1/1/2025 16:30,37,173
+Uhuru Highway - Haile Selassie,1/1/2025 16:30,36,165
+Waiyaki Way - Westlands,1/1/2025 16:30,29,158
+Ngong Road - Adams Arcade,1/1/2025 16:30,34,145
+Jogoo Road - City Stadium,1/1/2025 16:30,25,144
+Thika Road - Muthaiga,1/1/2025 16:45,19,139
+Uhuru Highway - Haile Selassie,1/1/2025 16:45,45,153
+Waiyaki Way - Westlands,1/1/2025 16:45,29,184
+Ngong Road - Adams Arcade,1/1/2025 16:45,30,144
+Jogoo Road - City Stadium,1/1/2025 16:45,38,198
+Thika Road - Muthaiga,1/1/2025 17:00,29,142
+Uhuru Highway - Haile Selassie,1/1/2025 17:00,36,151
+Waiyaki Way - Westlands,1/1/2025 17:00,19,148
+Ngong Road - Adams Arcade,1/1/2025 17:00,19,126
+Jogoo Road - City Stadium,1/1/2025 17:00,37,177
+Thika Road - Muthaiga,1/1/2025 17:15,49,143
+Uhuru Highway - Haile Selassie,1/1/2025 17:15,27,177
+Waiyaki Way - Westlands,1/1/2025 17:15,35,182
+Ngong Road - Adams Arcade,1/1/2025 17:15,26,120
+Jogoo Road - City Stadium,1/1/2025 17:15,18,138
+Thika Road - Muthaiga,1/1/2025 17:30,52,157
+Uhuru Highway - Haile Selassie,1/1/2025 17:30,38,155
+Waiyaki Way - Westlands,1/1/2025 17:30,27,150
+Ngong Road - Adams Arcade,1/1/2025 17:30,21,127
+Jogoo Road - City Stadium,1/1/2025 17:30,23,152
+Thika Road - Muthaiga,1/1/2025 17:45,37,148
+Uhuru Highway - Haile Selassie,1/1/2025 17:45,27,172
+Waiyaki Way - Westlands,1/1/2025 17:45,37,151
+Ngong Road - Adams Arcade,1/1/2025 17:45,20,143
+Jogoo Road - City Stadium,1/1/2025 17:45,36,153
+Thika Road - Muthaiga,1/1/2025 18:00,41,118
+Uhuru Highway - Haile Selassie,1/1/2025 18:00,38,166
+Waiyaki Way - Westlands,1/1/2025 18:00,16,148
+Ngong Road - Adams Arcade,1/1/2025 18:00,28,111
+Jogoo Road - City Stadium,1/1/2025 18:00,22,155
+Thika Road - Muthaiga,1/1/2025 18:15,24,153
+Uhuru Highway - Haile Selassie,1/1/2025 18:15,24,175
+Waiyaki Way - Westlands,1/1/2025 18:15,31,150
+Ngong Road - Adams Arcade,1/1/2025 18:15,25,123
+Jogoo Road - City Stadium,1/1/2025 18:15,25,167
+Thika Road - Muthaiga,1/1/2025 18:30,28,156
+Uhuru Highway - Haile Selassie,1/1/2025 18:30,45,183
+Waiyaki Way - Westlands,1/1/2025 18:30,24,122
+Ngong Road - Adams Arcade,1/1/2025 18:30,26,144
+Jogoo Road - City Stadium,1/1/2025 18:30,25,157
+Thika Road - Muthaiga,1/1/2025 18:45,36,145
+Uhuru Highway - Haile Selassie,1/1/2025 18:45,36,193
+Waiyaki Way - Westlands,1/1/2025 18:45,27,165
+Ngong Road - Adams Arcade,1/1/2025 18:45,24,128
+Jogoo Road - City Stadium,1/1/2025 18:45,26,157
+Thika Road - Muthaiga,1/1/2025 19:00,54,148
+Uhuru Highway - Haile Selassie,1/1/2025 19:00,31,189
+Waiyaki Way - Westlands,1/1/2025 19:00,27,178
+Ngong Road - Adams Arcade,1/1/2025 19:00,20,105
+Jogoo Road - City Stadium,1/1/2025 19:00,27,123
+Thika Road - Muthaiga,1/1/2025 19:15,50,144
+Uhuru Highway - Haile Selassie,1/1/2025 19:15,32,180
+Waiyaki Way - Westlands,1/1/2025 19:15,13,172
+Ngong Road - Adams Arcade,1/1/2025 19:15,34,139
+Jogoo Road - City Stadium,1/1/2025 19:15,39,129
+Thika Road - Muthaiga,1/1/2025 19:30,34,149
+Uhuru Highway - Haile Selassie,1/1/2025 19:30,52,185
+Waiyaki Way - Westlands,1/1/2025 19:30,33,162
+Ngong Road - Adams Arcade,1/1/2025 19:30,21,129
+Jogoo Road - City Stadium,1/1/2025 19:30,23,164
+Thika Road - Muthaiga,1/1/2025 19:45,33,145
+Uhuru Highway - Haile Selassie,1/1/2025 19:45,37,183
+Waiyaki Way - Westlands,1/1/2025 19:45,27,175
+Ngong Road - Adams Arcade,1/1/2025 19:45,20,131
+Jogoo Road - City Stadium,1/1/2025 19:45,33,145
+Thika Road - Muthaiga,1/1/2025 20:00,52,101
+Uhuru Highway - Haile Selassie,1/1/2025 20:00,65,123
+Waiyaki Way - Westlands,1/1/2025 20:00,65,106
+Ngong Road - Adams Arcade,1/1/2025 20:00,35,73
+Jogoo Road - City Stadium,1/1/2025 20:00,59,68
+Thika Road - Muthaiga,1/1/2025 20:15,59,99
+Uhuru Highway - Haile Selassie,1/1/2025 20:15,45,114
+Waiyaki Way - Westlands,1/1/2025 20:15,51,136
+Ngong Road - Adams Arcade,1/1/2025 20:15,50,86
+Jogoo Road - City Stadium,1/1/2025 20:15,49,102
+Thika Road - Muthaiga,1/1/2025 20:30,63,78
+Uhuru Highway - Haile Selassie,1/1/2025 20:30,65,138
+Waiyaki Way - Westlands,1/1/2025 20:30,45,123
+Ngong Road - Adams Arcade,1/1/2025 20:30,43,70
+Jogoo Road - City Stadium,1/1/2025 20:30,56,95
+Thika Road - Muthaiga,1/1/2025 20:45,72,64
+Uhuru Highway - Haile Selassie,1/1/2025 20:45,51,107
+Waiyaki Way - Westlands,1/1/2025 20:45,36,84
+Ngong Road - Adams Arcade,1/1/2025 20:45,45,97
+Jogoo Road - City Stadium,1/1/2025 20:45,37,75
+Thika Road - Muthaiga,1/1/2025 21:00,73,84
+Uhuru Highway - Haile Selassie,1/1/2025 21:00,42,106
+Waiyaki Way - Westlands,1/1/2025 21:00,47,96
+Ngong Road - Adams Arcade,1/1/2025 21:00,44,44
+Jogoo Road - City Stadium,1/1/2025 21:00,53,91
+Thika Road - Muthaiga,1/1/2025 21:15,69,117
+Uhuru Highway - Haile Selassie,1/1/2025 21:15,46,105
+Waiyaki Way - Westlands,1/1/2025 21:15,50,138
+Ngong Road - Adams Arcade,1/1/2025 21:15,44,85
+Jogoo Road - City Stadium,1/1/2025 21:15,46,97
+Thika Road - Muthaiga,1/1/2025 21:30,55,81
+Uhuru Highway - Haile Selassie,1/1/2025 21:30,50,109
+Waiyaki Way - Westlands,1/1/2025 21:30,50,89
+Ngong Road - Adams Arcade,1/1/2025 21:30,57,81
+Jogoo Road - City Stadium,1/1/2025 21:30,56,55
+Thika Road - Muthaiga,1/1/2025 21:45,43,108
+Uhuru Highway - Haile Selassie,1/1/2025 21:45,52,104
+Waiyaki Way - Westlands,1/1/2025 21:45,43,78
+Ngong Road - Adams Arcade,1/1/2025 21:45,59,68
+Jogoo Road - City Stadium,1/1/2025 21:45,58,109
+Thika Road - Muthaiga,1/1/2025 22:00,50,100
+Uhuru Highway - Haile Selassie,1/1/2025 22:00,58,102
+Waiyaki Way - Westlands,1/1/2025 22:00,55,81
+Ngong Road - Adams Arcade,1/1/2025 22:00,42,81
+Jogoo Road - City Stadium,1/1/2025 22:00,51,105
+Thika Road - Muthaiga,1/1/2025 22:15,69,84
+Uhuru Highway - Haile Selassie,1/1/2025 22:15,59,93
+Waiyaki Way - Westlands,1/1/2025 22:15,47,108
+Ngong Road - Adams Arcade,1/1/2025 22:15,34,89
+Jogoo Road - City Stadium,1/1/2025 22:15,46,108
+Thika Road - Muthaiga,1/1/2025 22:30,68,82
+Uhuru Highway - Haile Selassie,1/1/2025 22:30,43,99
+Waiyaki Way - Westlands,1/1/2025 22:30,54,76
+Ngong Road - Adams Arcade,1/1/2025 22:30,59,65
+Jogoo Road - City Stadium,1/1/2025 22:30,61,63
+Thika Road - Muthaiga,1/1/2025 22:45,59,93
+Uhuru Highway - Haile Selassie,1/1/2025 22:45,58,101
+Waiyaki Way - Westlands,1/1/2025 22:45,58,99
+Ngong Road - Adams Arcade,1/1/2025 22:45,46,86
+Jogoo Road - City Stadium,1/1/2025 22:45,47,89
+Thika Road - Muthaiga,1/1/2025 23:00,46,94
+Uhuru Highway - Haile Selassie,1/1/2025 23:00,60,89
+Waiyaki Way - Westlands,1/1/2025 23:00,48,102
+Ngong Road - Adams Arcade,1/1/2025 23:00,47,85
+Jogoo Road - City Stadium,1/1/2025 23:00,41,86
+Thika Road - Muthaiga,1/1/2025 23:15,52,92
+Uhuru Highway - Haile Selassie,1/1/2025 23:15,41,116
+Waiyaki Way - Westlands,1/1/2025 23:15,53,115
+Ngong Road - Adams Arcade,1/1/2025 23:15,52,88
+Jogoo Road - City Stadium,1/1/2025 23:15,56,119
+Thika Road - Muthaiga,1/1/2025 23:30,49,62
+Uhuru Highway - Haile Selassie,1/1/2025 23:30,55,100
+Waiyaki Way - Westlands,1/1/2025 23:30,44,107
+Ngong Road - Adams Arcade,1/1/2025 23:30,38,87
+Jogoo Road - City Stadium,1/1/2025 23:30,36,85
+Thika Road - Muthaiga,1/1/2025 23:45,49,76
+Uhuru Highway - Haile Selassie,1/1/2025 23:45,63,95
+Waiyaki Way - Westlands,1/1/2025 23:45,71,85
+Ngong Road - Adams Arcade,1/1/2025 23:45,46,92
+Jogoo Road - City Stadium,1/1/2025 23:45,53,82
+Thika Road - Muthaiga,1/2/2025 0:00,60,81
+Uhuru Highway - Haile Selassie,1/2/2025 0:00,54,148
+Waiyaki Way - Westlands,1/2/2025 0:00,44,117
+Ngong Road - Adams Arcade,1/2/2025 0:00,59,84
+Jogoo Road - City Stadium,1/2/2025 0:00,62,85
+Thika Road - Muthaiga,1/2/2025 0:15,55,100
+Uhuru Highway - Haile Selassie,1/2/2025 0:15,62,119
+Waiyaki Way - Westlands,1/2/2025 0:15,37,109
+Ngong Road - Adams Arcade,1/2/2025 0:15,43,74
+Jogoo Road - City Stadium,1/2/2025 0:15,52,93
+Thika Road - Muthaiga,1/2/2025 0:30,49,92
+Uhuru Highway - Haile Selassie,1/2/2025 0:30,59,115
+Waiyaki Way - Westlands,1/2/2025 0:30,58,108
+Ngong Road - Adams Arcade,1/2/2025 0:30,48,97
+Jogoo Road - City Stadium,1/2/2025 0:30,34,93
+Thika Road - Muthaiga,1/2/2025 0:45,61,96
+Uhuru Highway - Haile Selassie,1/2/2025 0:45,44,114
+Waiyaki Way - Westlands,1/2/2025 0:45,58,83
+Ngong Road - Adams Arcade,1/2/2025 0:45,50,84
+Jogoo Road - City Stadium,1/2/2025 0:45,48,95
+Thika Road - Muthaiga,1/2/2025 1:00,55,104
+Uhuru Highway - Haile Selassie,1/2/2025 1:00,51,111
+Waiyaki Way - Westlands,1/2/2025 1:00,47,93
+Ngong Road - Adams Arcade,1/2/2025 1:00,41,88
+Jogoo Road - City Stadium,1/2/2025 1:00,40,113
+Thika Road - Muthaiga,1/2/2025 1:15,56,87
+Uhuru Highway - Haile Selassie,1/2/2025 1:15,56,131
+Waiyaki Way - Westlands,1/2/2025 1:15,38,115
+Ngong Road - Adams Arcade,1/2/2025 1:15,52,89
+Jogoo Road - City Stadium,1/2/2025 1:15,56,96
+Thika Road - Muthaiga,1/2/2025 1:30,71,82
+Uhuru Highway - Haile Selassie,1/2/2025 1:30,52,144
+Waiyaki Way - Westlands,1/2/2025 1:30,61,93
+Ngong Road - Adams Arcade,1/2/2025 1:30,40,108
+Jogoo Road - City Stadium,1/2/2025 1:30,45,88
+Thika Road - Muthaiga,1/2/2025 1:45,52,69
+Uhuru Highway - Haile Selassie,1/2/2025 1:45,48,94
+Waiyaki Way - Westlands,1/2/2025 1:45,51,99
+Ngong Road - Adams Arcade,1/2/2025 1:45,37,108
+Jogoo Road - City Stadium,1/2/2025 1:45,46,109
+Thika Road - Muthaiga,1/2/2025 2:00,65,89
+Uhuru Highway - Haile Selassie,1/2/2025 2:00,58,93
+Waiyaki Way - Westlands,1/2/2025 2:00,53,102
+Ngong Road - Adams Arcade,1/2/2025 2:00,64,89
+Jogoo Road - City Stadium,1/2/2025 2:00,43,85
+Thika Road - Muthaiga,1/2/2025 2:15,55,80
+Uhuru Highway - Haile Selassie,1/2/2025 2:15,64,100
+Waiyaki Way - Westlands,1/2/2025 2:15,45,121
+Ngong Road - Adams Arcade,1/2/2025 2:15,48,72
+Jogoo Road - City Stadium,1/2/2025 2:15,53,86
+Thika Road - Muthaiga,1/2/2025 2:30,47,93
+Uhuru Highway - Haile Selassie,1/2/2025 2:30,69,133
+Waiyaki Way - Westlands,1/2/2025 2:30,46,90
+Ngong Road - Adams Arcade,1/2/2025 2:30,47,89
+Jogoo Road - City Stadium,1/2/2025 2:30,64,104
+Thika Road - Muthaiga,1/2/2025 2:45,53,87
+Uhuru Highway - Haile Selassie,1/2/2025 2:45,49,89
+Waiyaki Way - Westlands,1/2/2025 2:45,64,99
+Ngong Road - Adams Arcade,1/2/2025 2:45,46,77
+Jogoo Road - City Stadium,1/2/2025 2:45,57,94
+Thika Road - Muthaiga,1/2/2025 3:00,55,127
+Uhuru Highway - Haile Selassie,1/2/2025 3:00,63,102
+Waiyaki Way - Westlands,1/2/2025 3:00,64,110
+Ngong Road - Adams Arcade,1/2/2025 3:00,42,93
+Jogoo Road - City Stadium,1/2/2025 3:00,56,103
+Thika Road - Muthaiga,1/2/2025 3:15,64,102
+Uhuru Highway - Haile Selassie,1/2/2025 3:15,64,126
+Waiyaki Way - Westlands,1/2/2025 3:15,55,120
+Ngong Road - Adams Arcade,1/2/2025 3:15,46,82
+Jogoo Road - City Stadium,1/2/2025 3:15,41,113
+Thika Road - Muthaiga,1/2/2025 3:30,56,95
+Uhuru Highway - Haile Selassie,1/2/2025 3:30,65,110
+Waiyaki Way - Westlands,1/2/2025 3:30,50,102
+Ngong Road - Adams Arcade,1/2/2025 3:30,50,64
+Jogoo Road - City Stadium,1/2/2025 3:30,65,104
+Thika Road - Muthaiga,1/2/2025 3:45,61,85
+Uhuru Highway - Haile Selassie,1/2/2025 3:45,67,113
+Waiyaki Way - Westlands,1/2/2025 3:45,52,98
+Ngong Road - Adams Arcade,1/2/2025 3:45,46,94
+Jogoo Road - City Stadium,1/2/2025 3:45,49,88
+Thika Road - Muthaiga,1/2/2025 4:00,51,106
+Uhuru Highway - Haile Selassie,1/2/2025 4:00,49,111
+Waiyaki Way - Westlands,1/2/2025 4:00,37,117
+Ngong Road - Adams Arcade,1/2/2025 4:00,48,76
+Jogoo Road - City Stadium,1/2/2025 4:00,47,118
+Thika Road - Muthaiga,1/2/2025 4:15,75,81
+Uhuru Highway - Haile Selassie,1/2/2025 4:15,37,88
+Waiyaki Way - Westlands,1/2/2025 4:15,45,106
+Ngong Road - Adams Arcade,1/2/2025 4:15,50,69
+Jogoo Road - City Stadium,1/2/2025 4:15,43,98
+Thika Road - Muthaiga,1/2/2025 4:30,66,70
+Uhuru Highway - Haile Selassie,1/2/2025 4:30,54,119
+Waiyaki Way - Westlands,1/2/2025 4:30,41,127
+Ngong Road - Adams Arcade,1/2/2025 4:30,39,62
+Jogoo Road - City Stadium,1/2/2025 4:30,49,94
+Thika Road - Muthaiga,1/2/2025 4:45,62,86
+Uhuru Highway - Haile Selassie,1/2/2025 4:45,66,91
+Waiyaki Way - Westlands,1/2/2025 4:45,58,98
+Ngong Road - Adams Arcade,1/2/2025 4:45,48,90
+Jogoo Road - City Stadium,1/2/2025 4:45,51,103
+Thika Road - Muthaiga,1/2/2025 5:00,70,99
+Uhuru Highway - Haile Selassie,1/2/2025 5:00,60,112
+Waiyaki Way - Westlands,1/2/2025 5:00,61,98
+Ngong Road - Adams Arcade,1/2/2025 5:00,59,74
+Jogoo Road - City Stadium,1/2/2025 5:00,36,94
+Thika Road - Muthaiga,1/2/2025 5:15,54,91
+Uhuru Highway - Haile Selassie,1/2/2025 5:15,49,122
+Waiyaki Way - Westlands,1/2/2025 5:15,34,93
+Ngong Road - Adams Arcade,1/2/2025 5:15,25,78
+Jogoo Road - City Stadium,1/2/2025 5:15,54,71
+Thika Road - Muthaiga,1/2/2025 5:30,63,101
+Uhuru Highway - Haile Selassie,1/2/2025 5:30,54,95
+Waiyaki Way - Westlands,1/2/2025 5:30,40,99
+Ngong Road - Adams Arcade,1/2/2025 5:30,52,107
+Jogoo Road - City Stadium,1/2/2025 5:30,48,91
+Thika Road - Muthaiga,1/2/2025 5:45,43,93
+Uhuru Highway - Haile Selassie,1/2/2025 5:45,49,106
+Waiyaki Way - Westlands,1/2/2025 5:45,47,84
+Ngong Road - Adams Arcade,1/2/2025 5:45,50,111
+Jogoo Road - City Stadium,1/2/2025 5:45,52,86
+Thika Road - Muthaiga,1/2/2025 6:00,67,110
+Uhuru Highway - Haile Selassie,1/2/2025 6:00,49,110
+Waiyaki Way - Westlands,1/2/2025 6:00,53,110
+Ngong Road - Adams Arcade,1/2/2025 6:00,50,98
+Jogoo Road - City Stadium,1/2/2025 6:00,43,110
+Thika Road - Muthaiga,1/2/2025 6:15,61,109
+Uhuru Highway - Haile Selassie,1/2/2025 6:15,49,141
+Waiyaki Way - Westlands,1/2/2025 6:15,51,126
+Ngong Road - Adams Arcade,1/2/2025 6:15,41,75
+Jogoo Road - City Stadium,1/2/2025 6:15,51,90
+Thika Road - Muthaiga,1/2/2025 6:30,55,97
+Uhuru Highway - Haile Selassie,1/2/2025 6:30,72,109
+Waiyaki Way - Westlands,1/2/2025 6:30,53,125
+Ngong Road - Adams Arcade,1/2/2025 6:30,45,85
+Jogoo Road - City Stadium,1/2/2025 6:30,39,104
+Thika Road - Muthaiga,1/2/2025 6:45,46,86
+Uhuru Highway - Haile Selassie,1/2/2025 6:45,60,115
+Waiyaki Way - Westlands,1/2/2025 6:45,62,92
+Ngong Road - Adams Arcade,1/2/2025 6:45,33,66
+Jogoo Road - City Stadium,1/2/2025 6:45,56,98
+Thika Road - Muthaiga,1/2/2025 7:00,33,169
+Uhuru Highway - Haile Selassie,1/2/2025 7:00,34,192
+Waiyaki Way - Westlands,1/2/2025 7:00,38,157
+Ngong Road - Adams Arcade,1/2/2025 7:00,15,145
+Jogoo Road - City Stadium,1/2/2025 7:00,41,174
+Thika Road - Muthaiga,1/2/2025 7:15,40,134
+Uhuru Highway - Haile Selassie,1/2/2025 7:15,36,183
+Waiyaki Way - Westlands,1/2/2025 7:15,25,151
+Ngong Road - Adams Arcade,1/2/2025 7:15,37,135
+Jogoo Road - City Stadium,1/2/2025 7:15,27,160
+Thika Road - Muthaiga,1/2/2025 7:30,14,155
+Uhuru Highway - Haile Selassie,1/2/2025 7:30,20,193
+Waiyaki Way - Westlands,1/2/2025 7:30,22,154
+Ngong Road - Adams Arcade,1/2/2025 7:30,37,116
+Jogoo Road - City Stadium,1/2/2025 7:30,32,144
+Thika Road - Muthaiga,1/2/2025 7:45,41,143
+Uhuru Highway - Haile Selassie,1/2/2025 7:45,24,177
+Waiyaki Way - Westlands,1/2/2025 7:45,27,174
+Ngong Road - Adams Arcade,1/2/2025 7:45,24,112
+Jogoo Road - City Stadium,1/2/2025 7:45,36,174
+Thika Road - Muthaiga,1/2/2025 8:00,34,138
+Uhuru Highway - Haile Selassie,1/2/2025 8:00,50,171
+Waiyaki Way - Westlands,1/2/2025 8:00,34,165
+Ngong Road - Adams Arcade,1/2/2025 8:00,30,151
+Jogoo Road - City Stadium,1/2/2025 8:00,28,148
+Thika Road - Muthaiga,1/2/2025 8:15,37,142
+Uhuru Highway - Haile Selassie,1/2/2025 8:15,34,186
+Waiyaki Way - Westlands,1/2/2025 8:15,30,170
+Ngong Road - Adams Arcade,1/2/2025 8:15,12,137
+Jogoo Road - City Stadium,1/2/2025 8:15,32,165
+Thika Road - Muthaiga,1/2/2025 8:30,14,158
+Uhuru Highway - Haile Selassie,1/2/2025 8:30,33,207
+Waiyaki Way - Westlands,1/2/2025 8:30,22,176
+Ngong Road - Adams Arcade,1/2/2025 8:30,19,145
+Jogoo Road - City Stadium,1/2/2025 8:30,45,142
+Thika Road - Muthaiga,1/2/2025 8:45,39,141
+Uhuru Highway - Haile Selassie,1/2/2025 8:45,38,189
+Waiyaki Way - Westlands,1/2/2025 8:45,34,162
+Ngong Road - Adams Arcade,1/2/2025 8:45,27,172
+Jogoo Road - City Stadium,1/2/2025 8:45,38,155
+Thika Road - Muthaiga,1/2/2025 9:00,46,160
+Uhuru Highway - Haile Selassie,1/2/2025 9:00,25,185
+Waiyaki Way - Westlands,1/2/2025 9:00,22,184
+Ngong Road - Adams Arcade,1/2/2025 9:00,22,140
+Jogoo Road - City Stadium,1/2/2025 9:00,32,151
+Thika Road - Muthaiga,1/2/2025 9:15,40,148
+Uhuru Highway - Haile Selassie,1/2/2025 9:15,38,200
+Waiyaki Way - Westlands,1/2/2025 9:15,38,156
+Ngong Road - Adams Arcade,1/2/2025 9:15,18,153
+Jogoo Road - City Stadium,1/2/2025 9:15,35,160
+Thika Road - Muthaiga,1/2/2025 9:30,48,139
+Uhuru Highway - Haile Selassie,1/2/2025 9:30,35,173
+Waiyaki Way - Westlands,1/2/2025 9:30,31,157
+Ngong Road - Adams Arcade,1/2/2025 9:30,16,119
+Jogoo Road - City Stadium,1/2/2025 9:30,23,175
+Thika Road - Muthaiga,1/2/2025 9:45,20,129
+Uhuru Highway - Haile Selassie,1/2/2025 9:45,23,166
+Waiyaki Way - Westlands,1/2/2025 9:45,39,184
+Ngong Road - Adams Arcade,1/2/2025 9:45,46,125
+Jogoo Road - City Stadium,1/2/2025 9:45,27,166
+Thika Road - Muthaiga,1/2/2025 10:00,78,52
+Uhuru Highway - Haile Selassie,1/2/2025 10:00,41,89
+Waiyaki Way - Westlands,1/2/2025 10:00,69,115
+Ngong Road - Adams Arcade,1/2/2025 10:00,49,105
+Jogoo Road - City Stadium,1/2/2025 10:00,54,103
+Thika Road - Muthaiga,1/2/2025 10:15,62,101
+Uhuru Highway - Haile Selassie,1/2/2025 10:15,54,111
+Waiyaki Way - Westlands,1/2/2025 10:15,47,88
+Ngong Road - Adams Arcade,1/2/2025 10:15,44,59
+Jogoo Road - City Stadium,1/2/2025 10:15,39,80
+Thika Road - Muthaiga,1/2/2025 10:30,71,92
+Uhuru Highway - Haile Selassie,1/2/2025 10:30,42,123
+Waiyaki Way - Westlands,1/2/2025 10:30,57,85
+Ngong Road - Adams Arcade,1/2/2025 10:30,43,70
+Jogoo Road - City Stadium,1/2/2025 10:30,40,103
+Thika Road - Muthaiga,1/2/2025 10:45,49,91
+Uhuru Highway - Haile Selassie,1/2/2025 10:45,57,100
+Waiyaki Way - Westlands,1/2/2025 10:45,53,76
+Ngong Road - Adams Arcade,1/2/2025 10:45,49,84
+Jogoo Road - City Stadium,1/2/2025 10:45,58,98
+Thika Road - Muthaiga,1/2/2025 11:00,56,91
+Uhuru Highway - Haile Selassie,1/2/2025 11:00,59,111
+Waiyaki Way - Westlands,1/2/2025 11:00,50,100
+Ngong Road - Adams Arcade,1/2/2025 11:00,39,74
+Jogoo Road - City Stadium,1/2/2025 11:00,61,73
+Thika Road - Muthaiga,1/2/2025 11:15,54,71
+Uhuru Highway - Haile Selassie,1/2/2025 11:15,62,99
+Waiyaki Way - Westlands,1/2/2025 11:15,59,95
+Ngong Road - Adams Arcade,1/2/2025 11:15,47,74
+Jogoo Road - City Stadium,1/2/2025 11:15,65,82
+Thika Road - Muthaiga,1/2/2025 11:30,62,72
+Uhuru Highway - Haile Selassie,1/2/2025 11:30,58,119
+Waiyaki Way - Westlands,1/2/2025 11:30,48,97
+Ngong Road - Adams Arcade,1/2/2025 11:30,43,85
+Jogoo Road - City Stadium,1/2/2025 11:30,65,109
+Thika Road - Muthaiga,1/2/2025 11:45,49,81
+Uhuru Highway - Haile Selassie,1/2/2025 11:45,75,108
+Waiyaki Way - Westlands,1/2/2025 11:45,63,87
+Ngong Road - Adams Arcade,1/2/2025 11:45,40,110
+Jogoo Road - City Stadium,1/2/2025 11:45,61,103
+Thika Road - Muthaiga,1/2/2025 12:00,58,84
+Uhuru Highway - Haile Selassie,1/2/2025 12:00,46,101
+Waiyaki Way - Westlands,1/2/2025 12:00,40,90
+Ngong Road - Adams Arcade,1/2/2025 12:00,38,85
+Jogoo Road - City Stadium,1/2/2025 12:00,35,98
+Thika Road - Muthaiga,1/2/2025 12:15,66,94
+Uhuru Highway - Haile Selassie,1/2/2025 12:15,57,80
+Waiyaki Way - Westlands,1/2/2025 12:15,40,118
+Ngong Road - Adams Arcade,1/2/2025 12:15,48,110
+Jogoo Road - City Stadium,1/2/2025 12:15,47,84
+Thika Road - Muthaiga,1/2/2025 12:30,60,98
+Uhuru Highway - Haile Selassie,1/2/2025 12:30,47,118
+Waiyaki Way - Westlands,1/2/2025 12:30,38,102
+Ngong Road - Adams Arcade,1/2/2025 12:30,37,83
+Jogoo Road - City Stadium,1/2/2025 12:30,57,83
+Thika Road - Muthaiga,1/2/2025 12:45,64,106
+Uhuru Highway - Haile Selassie,1/2/2025 12:45,52,93
+Waiyaki Way - Westlands,1/2/2025 12:45,51,118
+Ngong Road - Adams Arcade,1/2/2025 12:45,48,119
+Jogoo Road - City Stadium,1/2/2025 12:45,45,97
+Thika Road - Muthaiga,1/2/2025 13:00,58,92
+Uhuru Highway - Haile Selassie,1/2/2025 13:00,62,120
+Waiyaki Way - Westlands,1/2/2025 13:00,39,88
+Ngong Road - Adams Arcade,1/2/2025 13:00,49,57
+Jogoo Road - City Stadium,1/2/2025 13:00,30,78
+Thika Road - Muthaiga,1/2/2025 13:15,79,95
+Uhuru Highway - Haile Selassie,1/2/2025 13:15,61,109
+Waiyaki Way - Westlands,1/2/2025 13:15,49,101
+Ngong Road - Adams Arcade,1/2/2025 13:15,42,98
+Jogoo Road - City Stadium,1/2/2025 13:15,50,99
+Thika Road - Muthaiga,1/2/2025 13:30,67,79
+Uhuru Highway - Haile Selassie,1/2/2025 13:30,48,107
+Waiyaki Way - Westlands,1/2/2025 13:30,42,108
+Ngong Road - Adams Arcade,1/2/2025 13:30,44,85
+Jogoo Road - City Stadium,1/2/2025 13:30,51,111
+Thika Road - Muthaiga,1/2/2025 13:45,66,89
+Uhuru Highway - Haile Selassie,1/2/2025 13:45,59,130
+Waiyaki Way - Westlands,1/2/2025 13:45,39,100
+Ngong Road - Adams Arcade,1/2/2025 13:45,42,69
+Jogoo Road - City Stadium,1/2/2025 13:45,46,85
+Thika Road - Muthaiga,1/2/2025 14:00,64,90
+Uhuru Highway - Haile Selassie,1/2/2025 14:00,58,108
+Waiyaki Way - Westlands,1/2/2025 14:00,34,100
+Ngong Road - Adams Arcade,1/2/2025 14:00,43,70
+Jogoo Road - City Stadium,1/2/2025 14:00,52,76
+Thika Road - Muthaiga,1/2/2025 14:15,69,112
+Uhuru Highway - Haile Selassie,1/2/2025 14:15,66,106
+Waiyaki Way - Westlands,1/2/2025 14:15,47,102
+Ngong Road - Adams Arcade,1/2/2025 14:15,42,75
+Jogoo Road - City Stadium,1/2/2025 14:15,49,89
+Thika Road - Muthaiga,1/2/2025 14:30,60,92
+Uhuru Highway - Haile Selassie,1/2/2025 14:30,64,116
+Waiyaki Way - Westlands,1/2/2025 14:30,38,114
+Ngong Road - Adams Arcade,1/2/2025 14:30,52,46
+Jogoo Road - City Stadium,1/2/2025 14:30,46,74
+Thika Road - Muthaiga,1/2/2025 14:45,45,72
+Uhuru Highway - Haile Selassie,1/2/2025 14:45,61,118
+Waiyaki Way - Westlands,1/2/2025 14:45,29,91
+Ngong Road - Adams Arcade,1/2/2025 14:45,48,76
+Jogoo Road - City Stadium,1/2/2025 14:45,49,72
+Thika Road - Muthaiga,1/2/2025 15:00,64,89
+Uhuru Highway - Haile Selassie,1/2/2025 15:00,47,111
+Waiyaki Way - Westlands,1/2/2025 15:00,48,117
+Ngong Road - Adams Arcade,1/2/2025 15:00,37,84
+Jogoo Road - City Stadium,1/2/2025 15:00,40,88
+Thika Road - Muthaiga,1/2/2025 15:15,73,87
+Uhuru Highway - Haile Selassie,1/2/2025 15:15,42,89
+Waiyaki Way - Westlands,1/2/2025 15:15,48,122
+Ngong Road - Adams Arcade,1/2/2025 15:15,53,74
+Jogoo Road - City Stadium,1/2/2025 15:15,62,85
+Thika Road - Muthaiga,1/2/2025 15:30,56,100
+Uhuru Highway - Haile Selassie,1/2/2025 15:30,50,142
+Waiyaki Way - Westlands,1/2/2025 15:30,52,111
+Ngong Road - Adams Arcade,1/2/2025 15:30,57,104
+Jogoo Road - City Stadium,1/2/2025 15:30,41,95
+Thika Road - Muthaiga,1/2/2025 15:45,54,96
+Uhuru Highway - Haile Selassie,1/2/2025 15:45,56,140
+Waiyaki Way - Westlands,1/2/2025 15:45,51,94
+Ngong Road - Adams Arcade,1/2/2025 15:45,37,64
+Jogoo Road - City Stadium,1/2/2025 15:45,42,113
+Thika Road - Muthaiga,1/2/2025 16:00,41,128
+Uhuru Highway - Haile Selassie,1/2/2025 16:00,40,193
+Waiyaki Way - Westlands,1/2/2025 16:00,25,174
+Ngong Road - Adams Arcade,1/2/2025 16:00,40,114
+Jogoo Road - City Stadium,1/2/2025 16:00,27,147
+Thika Road - Muthaiga,1/2/2025 16:15,41,163
+Uhuru Highway - Haile Selassie,1/2/2025 16:15,51,182
+Waiyaki Way - Westlands,1/2/2025 16:15,38,150
+Ngong Road - Adams Arcade,1/2/2025 16:15,30,136
+Jogoo Road - City Stadium,1/2/2025 16:15,34,174
+Thika Road - Muthaiga,1/2/2025 16:30,46,152
+Uhuru Highway - Haile Selassie,1/2/2025 16:30,27,170
+Waiyaki Way - Westlands,1/2/2025 16:30,15,144
+Ngong Road - Adams Arcade,1/2/2025 16:30,19,166
+Jogoo Road - City Stadium,1/2/2025 16:30,27,148
+Thika Road - Muthaiga,1/2/2025 16:45,44,148
+Uhuru Highway - Haile Selassie,1/2/2025 16:45,29,188
+Waiyaki Way - Westlands,1/2/2025 16:45,33,157
+Ngong Road - Adams Arcade,1/2/2025 16:45,40,132
+Jogoo Road - City Stadium,1/2/2025 16:45,35,159
+Thika Road - Muthaiga,1/2/2025 17:00,46,153
+Uhuru Highway - Haile Selassie,1/2/2025 17:00,24,178
+Waiyaki Way - Westlands,1/2/2025 17:00,26,165
+Ngong Road - Adams Arcade,1/2/2025 17:00,32,128
+Jogoo Road - City Stadium,1/2/2025 17:00,30,170
+Thika Road - Muthaiga,1/2/2025 17:15,51,148
+Uhuru Highway - Haile Selassie,1/2/2025 17:15,55,179
+Waiyaki Way - Westlands,1/2/2025 17:15,17,168
+Ngong Road - Adams Arcade,1/2/2025 17:15,31,147
+Jogoo Road - City Stadium,1/2/2025 17:15,35,171
+Thika Road - Muthaiga,1/2/2025 17:30,27,141
+Uhuru Highway - Haile Selassie,1/2/2025 17:30,27,172
+Waiyaki Way - Westlands,1/2/2025 17:30,35,151
+Ngong Road - Adams Arcade,1/2/2025 17:30,31,161
+Jogoo Road - City Stadium,1/2/2025 17:30,33,134
+Thika Road - Muthaiga,1/2/2025 17:45,32,161
+Uhuru Highway - Haile Selassie,1/2/2025 17:45,34,173
+Waiyaki Way - Westlands,1/2/2025 17:45,36,148
+Ngong Road - Adams Arcade,1/2/2025 17:45,31,134
+Jogoo Road - City Stadium,1/2/2025 17:45,26,138
+Thika Road - Muthaiga,1/2/2025 18:00,34,154
+Uhuru Highway - Haile Selassie,1/2/2025 18:00,31,201
+Waiyaki Way - Westlands,1/2/2025 18:00,38,163
+Ngong Road - Adams Arcade,1/2/2025 18:00,14,114
+Jogoo Road - City Stadium,1/2/2025 18:00,40,129
+Thika Road - Muthaiga,1/2/2025 18:15,57,135
+Uhuru Highway - Haile Selassie,1/2/2025 18:15,35,167
+Waiyaki Way - Westlands,1/2/2025 18:15,47,183
+Ngong Road - Adams Arcade,1/2/2025 18:15,37,166
+Jogoo Road - City Stadium,1/2/2025 18:15,34,167
+Thika Road - Muthaiga,1/2/2025 18:30,33,155
+Uhuru Highway - Haile Selassie,1/2/2025 18:30,34,163
+Waiyaki Way - Westlands,1/2/2025 18:30,27,157
+Ngong Road - Adams Arcade,1/2/2025 18:30,35,146
+Jogoo Road - City Stadium,1/2/2025 18:30,41,153
+Thika Road - Muthaiga,1/2/2025 18:45,35,126
+Uhuru Highway - Haile Selassie,1/2/2025 18:45,19,165
+Waiyaki Way - Westlands,1/2/2025 18:45,30,158
+Ngong Road - Adams Arcade,1/2/2025 18:45,33,158
+Jogoo Road - City Stadium,1/2/2025 18:45,44,136
+Thika Road - Muthaiga,1/2/2025 19:00,42,162
+Uhuru Highway - Haile Selassie,1/2/2025 19:00,26,172
+Waiyaki Way - Westlands,1/2/2025 19:00,39,154
+Ngong Road - Adams Arcade,1/2/2025 19:00,40,164
+Jogoo Road - City Stadium,1/2/2025 19:00,21,144
+Thika Road - Muthaiga,1/2/2025 19:15,23,146
+Uhuru Highway - Haile Selassie,1/2/2025 19:15,33,180
+Waiyaki Way - Westlands,1/2/2025 19:15,18,153
+Ngong Road - Adams Arcade,1/2/2025 19:15,23,143
+Jogoo Road - City Stadium,1/2/2025 19:15,7,134
+Thika Road - Muthaiga,1/2/2025 19:30,51,143
+Uhuru Highway - Haile Selassie,1/2/2025 19:30,30,200
+Waiyaki Way - Westlands,1/2/2025 19:30,35,150
+Ngong Road - Adams Arcade,1/2/2025 19:30,30,121
+Jogoo Road - City Stadium,1/2/2025 19:30,39,163
+Thika Road - Muthaiga,1/2/2025 19:45,35,142
+Uhuru Highway - Haile Selassie,1/2/2025 19:45,27,162
+Waiyaki Way - Westlands,1/2/2025 19:45,34,156
+Ngong Road - Adams Arcade,1/2/2025 19:45,21,149
+Jogoo Road - City Stadium,1/2/2025 19:45,27,174
+Thika Road - Muthaiga,1/2/2025 20:00,54,89
+Uhuru Highway - Haile Selassie,1/2/2025 20:00,62,73
+Waiyaki Way - Westlands,1/2/2025 20:00,47,111
+Ngong Road - Adams Arcade,1/2/2025 20:00,49,86
+Jogoo Road - City Stadium,1/2/2025 20:00,43,71
+Thika Road - Muthaiga,1/2/2025 20:15,49,101
+Uhuru Highway - Haile Selassie,1/2/2025 20:15,44,114
+Waiyaki Way - Westlands,1/2/2025 20:15,49,106
+Ngong Road - Adams Arcade,1/2/2025 20:15,54,60
+Jogoo Road - City Stadium,1/2/2025 20:15,41,83
+Thika Road - Muthaiga,1/2/2025 20:30,69,93
+Uhuru Highway - Haile Selassie,1/2/2025 20:30,55,94
+Waiyaki Way - Westlands,1/2/2025 20:30,55,106
+Ngong Road - Adams Arcade,1/2/2025 20:30,42,87
+Jogoo Road - City Stadium,1/2/2025 20:30,48,82
+Thika Road - Muthaiga,1/2/2025 20:45,36,73
+Uhuru Highway - Haile Selassie,1/2/2025 20:45,62,116
+Waiyaki Way - Westlands,1/2/2025 20:45,41,64
+Ngong Road - Adams Arcade,1/2/2025 20:45,61,94
+Jogoo Road - City Stadium,1/2/2025 20:45,42,95
+Thika Road - Muthaiga,1/2/2025 21:00,70,87
+Uhuru Highway - Haile Selassie,1/2/2025 21:00,48,100
+Waiyaki Way - Westlands,1/2/2025 21:00,42,92
+Ngong Road - Adams Arcade,1/2/2025 21:00,57,86
+Jogoo Road - City Stadium,1/2/2025 21:00,45,99
+Thika Road - Muthaiga,1/2/2025 21:15,47,85
+Uhuru Highway - Haile Selassie,1/2/2025 21:15,54,123
+Waiyaki Way - Westlands,1/2/2025 21:15,75,97
+Ngong Road - Adams Arcade,1/2/2025 21:15,38,89
+Jogoo Road - City Stadium,1/2/2025 21:15,57,88
+Thika Road - Muthaiga,1/2/2025 21:30,48,91
+Uhuru Highway - Haile Selassie,1/2/2025 21:30,49,123
+Waiyaki Way - Westlands,1/2/2025 21:30,58,128
+Ngong Road - Adams Arcade,1/2/2025 21:30,55,78
+Jogoo Road - City Stadium,1/2/2025 21:30,54,96
+Thika Road - Muthaiga,1/2/2025 21:45,53,97
+Uhuru Highway - Haile Selassie,1/2/2025 21:45,63,100
+Waiyaki Way - Westlands,1/2/2025 21:45,46,94
+Ngong Road - Adams Arcade,1/2/2025 21:45,48,70
+Jogoo Road - City Stadium,1/2/2025 21:45,39,125
+Thika Road - Muthaiga,1/2/2025 22:00,71,90
+Uhuru Highway - Haile Selassie,1/2/2025 22:00,58,108
+Waiyaki Way - Westlands,1/2/2025 22:00,53,84
+Ngong Road - Adams Arcade,1/2/2025 22:00,52,82
+Jogoo Road - City Stadium,1/2/2025 22:00,68,112
+Thika Road - Muthaiga,1/2/2025 22:15,62,98
+Uhuru Highway - Haile Selassie,1/2/2025 22:15,52,112
+Waiyaki Way - Westlands,1/2/2025 22:15,47,105
+Ngong Road - Adams Arcade,1/2/2025 22:15,55,87
+Jogoo Road - City Stadium,1/2/2025 22:15,57,79
+Thika Road - Muthaiga,1/2/2025 22:30,59,109
+Uhuru Highway - Haile Selassie,1/2/2025 22:30,50,78
+Waiyaki Way - Westlands,1/2/2025 22:30,49,119
+Ngong Road - Adams Arcade,1/2/2025 22:30,40,70
+Jogoo Road - City Stadium,1/2/2025 22:30,52,107
+Thika Road - Muthaiga,1/2/2025 22:45,57,86
+Uhuru Highway - Haile Selassie,1/2/2025 22:45,47,104
+Waiyaki Way - Westlands,1/2/2025 22:45,47,124
+Ngong Road - Adams Arcade,1/2/2025 22:45,57,103
+Jogoo Road - City Stadium,1/2/2025 22:45,44,109
+Thika Road - Muthaiga,1/2/2025 23:00,59,96
+Uhuru Highway - Haile Selassie,1/2/2025 23:00,57,96
+Waiyaki Way - Westlands,1/2/2025 23:00,59,82
+Ngong Road - Adams Arcade,1/2/2025 23:00,46,78
+Jogoo Road - City Stadium,1/2/2025 23:00,45,99
+Thika Road - Muthaiga,1/2/2025 23:15,56,98
+Uhuru Highway - Haile Selassie,1/2/2025 23:15,44,123
+Waiyaki Way - Westlands,1/2/2025 23:15,65,101
+Ngong Road - Adams Arcade,1/2/2025 23:15,39,69
+Jogoo Road - City Stadium,1/2/2025 23:15,49,102
+Thika Road - Muthaiga,1/2/2025 23:30,63,95
+Uhuru Highway - Haile Selassie,1/2/2025 23:30,63,119
+Waiyaki Way - Westlands,1/2/2025 23:30,48,106
+Ngong Road - Adams Arcade,1/2/2025 23:30,60,95
+Jogoo Road - City Stadium,1/2/2025 23:30,40,93
+Thika Road - Muthaiga,1/2/2025 23:45,59,106
+Uhuru Highway - Haile Selassie,1/2/2025 23:45,61,77
+Waiyaki Way - Westlands,1/2/2025 23:45,49,91
+Ngong Road - Adams Arcade,1/2/2025 23:45,46,89
+Jogoo Road - City Stadium,1/2/2025 23:45,44,105
+Thika Road - Muthaiga,1/3/2025 0:00,57,97
+Uhuru Highway - Haile Selassie,1/3/2025 0:00,59,121
+Waiyaki Way - Westlands,1/3/2025 0:00,58,85
+Ngong Road - Adams Arcade,1/3/2025 0:00,51,76
+Jogoo Road - City Stadium,1/3/2025 0:00,62,100
+Thika Road - Muthaiga,1/3/2025 0:15,57,86
+Uhuru Highway - Haile Selassie,1/3/2025 0:15,52,109
+Waiyaki Way - Westlands,1/3/2025 0:15,37,111
+Ngong Road - Adams Arcade,1/3/2025 0:15,36,69
+Jogoo Road - City Stadium,1/3/2025 0:15,61,109
+Thika Road - Muthaiga,1/3/2025 0:30,58,88
+Uhuru Highway - Haile Selassie,1/3/2025 0:30,64,111
+Waiyaki Way - Westlands,1/3/2025 0:30,51,86
+Ngong Road - Adams Arcade,1/3/2025 0:30,49,99
+Jogoo Road - City Stadium,1/3/2025 0:30,56,97
+Thika Road - Muthaiga,1/3/2025 0:45,65,49
+Uhuru Highway - Haile Selassie,1/3/2025 0:45,40,100
+Waiyaki Way - Westlands,1/3/2025 0:45,60,107
+Ngong Road - Adams Arcade,1/3/2025 0:45,52,82
+Jogoo Road - City Stadium,1/3/2025 0:45,58,119
+Thika Road - Muthaiga,1/3/2025 1:00,65,114
+Uhuru Highway - Haile Selassie,1/3/2025 1:00,42,111
+Waiyaki Way - Westlands,1/3/2025 1:00,43,96
+Ngong Road - Adams Arcade,1/3/2025 1:00,43,117
+Jogoo Road - City Stadium,1/3/2025 1:00,52,96
+Thika Road - Muthaiga,1/3/2025 1:15,73,90
+Uhuru Highway - Haile Selassie,1/3/2025 1:15,56,100
+Waiyaki Way - Westlands,1/3/2025 1:15,39,88
+Ngong Road - Adams Arcade,1/3/2025 1:15,44,75
+Jogoo Road - City Stadium,1/3/2025 1:15,42,88
+Thika Road - Muthaiga,1/3/2025 1:30,59,68
+Uhuru Highway - Haile Selassie,1/3/2025 1:30,61,87
+Waiyaki Way - Westlands,1/3/2025 1:30,38,101
+Ngong Road - Adams Arcade,1/3/2025 1:30,38,80
+Jogoo Road - City Stadium,1/3/2025 1:30,58,99
+Thika Road - Muthaiga,1/3/2025 1:45,60,61
+Uhuru Highway - Haile Selassie,1/3/2025 1:45,60,107
+Waiyaki Way - Westlands,1/3/2025 1:45,43,103
+Ngong Road - Adams Arcade,1/3/2025 1:45,38,80
+Jogoo Road - City Stadium,1/3/2025 1:45,48,111
+Thika Road - Muthaiga,1/3/2025 2:00,59,118
+Uhuru Highway - Haile Selassie,1/3/2025 2:00,42,99
+Waiyaki Way - Westlands,1/3/2025 2:00,37,72
+Ngong Road - Adams Arcade,1/3/2025 2:00,49,89
+Jogoo Road - City Stadium,1/3/2025 2:00,55,71
+Thika Road - Muthaiga,1/3/2025 2:15,61,82
+Uhuru Highway - Haile Selassie,1/3/2025 2:15,62,134
+Waiyaki Way - Westlands,1/3/2025 2:15,42,95
+Ngong Road - Adams Arcade,1/3/2025 2:15,39,52
+Jogoo Road - City Stadium,1/3/2025 2:15,40,91
+Thika Road - Muthaiga,1/3/2025 2:30,60,88
+Uhuru Highway - Haile Selassie,1/3/2025 2:30,49,106
+Waiyaki Way - Westlands,1/3/2025 2:30,53,102
+Ngong Road - Adams Arcade,1/3/2025 2:30,56,68
+Jogoo Road - City Stadium,1/3/2025 2:30,48,93
+Thika Road - Muthaiga,1/3/2025 2:45,61,100
+Uhuru Highway - Haile Selassie,1/3/2025 2:45,57,124
+Waiyaki Way - Westlands,1/3/2025 2:45,52,90
+Ngong Road - Adams Arcade,1/3/2025 2:45,45,67
+Jogoo Road - City Stadium,1/3/2025 2:45,46,94
+Thika Road - Muthaiga,1/3/2025 3:00,44,88
+Uhuru Highway - Haile Selassie,1/3/2025 3:00,55,101
+Waiyaki Way - Westlands,1/3/2025 3:00,41,102
+Ngong Road - Adams Arcade,1/3/2025 3:00,38,103
+Jogoo Road - City Stadium,1/3/2025 3:00,51,109
+Thika Road - Muthaiga,1/3/2025 3:15,74,80
+Uhuru Highway - Haile Selassie,1/3/2025 3:15,62,92
+Waiyaki Way - Westlands,1/3/2025 3:15,44,115
+Ngong Road - Adams Arcade,1/3/2025 3:15,42,105
+Jogoo Road - City Stadium,1/3/2025 3:15,50,99
+Thika Road - Muthaiga,1/3/2025 3:30,66,87
+Uhuru Highway - Haile Selassie,1/3/2025 3:30,41,121
+Waiyaki Way - Westlands,1/3/2025 3:30,36,119
+Ngong Road - Adams Arcade,1/3/2025 3:30,54,100
+Jogoo Road - City Stadium,1/3/2025 3:30,44,78
+Thika Road - Muthaiga,1/3/2025 3:45,58,73
+Uhuru Highway - Haile Selassie,1/3/2025 3:45,61,105
+Waiyaki Way - Westlands,1/3/2025 3:45,61,119
+Ngong Road - Adams Arcade,1/3/2025 3:45,43,76
+Jogoo Road - City Stadium,1/3/2025 3:45,41,69
+Thika Road - Muthaiga,1/3/2025 4:00,72,104
+Uhuru Highway - Haile Selassie,1/3/2025 4:00,50,91
+Waiyaki Way - Westlands,1/3/2025 4:00,52,99
+Ngong Road - Adams Arcade,1/3/2025 4:00,48,72
+Jogoo Road - City Stadium,1/3/2025 4:00,47,87
+Thika Road - Muthaiga,1/3/2025 4:15,60,98
+Uhuru Highway - Haile Selassie,1/3/2025 4:15,54,103
+Waiyaki Way - Westlands,1/3/2025 4:15,47,98
+Ngong Road - Adams Arcade,1/3/2025 4:15,57,81
+Jogoo Road - City Stadium,1/3/2025 4:15,45,103
+Thika Road - Muthaiga,1/3/2025 4:30,57,100
+Uhuru Highway - Haile Selassie,1/3/2025 4:30,57,127
+Waiyaki Way - Westlands,1/3/2025 4:30,53,98
+Ngong Road - Adams Arcade,1/3/2025 4:30,35,61
+Jogoo Road - City Stadium,1/3/2025 4:30,49,77
+Thika Road - Muthaiga,1/3/2025 4:45,77,115
+Uhuru Highway - Haile Selassie,1/3/2025 4:45,59,119
+Waiyaki Way - Westlands,1/3/2025 4:45,45,72
+Ngong Road - Adams Arcade,1/3/2025 4:45,40,73
+Jogoo Road - City Stadium,1/3/2025 4:45,44,92
+Thika Road - Muthaiga,1/3/2025 5:00,65,60
+Uhuru Highway - Haile Selassie,1/3/2025 5:00,56,93
+Waiyaki Way - Westlands,1/3/2025 5:00,42,131
+Ngong Road - Adams Arcade,1/3/2025 5:00,42,47
+Jogoo Road - City Stadium,1/3/2025 5:00,63,111
+Thika Road - Muthaiga,1/3/2025 5:15,63,71
+Uhuru Highway - Haile Selassie,1/3/2025 5:15,54,103
+Waiyaki Way - Westlands,1/3/2025 5:15,37,139
+Ngong Road - Adams Arcade,1/3/2025 5:15,48,88
+Jogoo Road - City Stadium,1/3/2025 5:15,48,111
+Thika Road - Muthaiga,1/3/2025 5:30,56,94
+Uhuru Highway - Haile Selassie,1/3/2025 5:30,52,114
+Waiyaki Way - Westlands,1/3/2025 5:30,47,109
+Ngong Road - Adams Arcade,1/3/2025 5:30,44,90
+Jogoo Road - City Stadium,1/3/2025 5:30,47,111
+Thika Road - Muthaiga,1/3/2025 5:45,70,63
+Uhuru Highway - Haile Selassie,1/3/2025 5:45,49,96
+Waiyaki Way - Westlands,1/3/2025 5:45,60,91
+Ngong Road - Adams Arcade,1/3/2025 5:45,70,52
+Jogoo Road - City Stadium,1/3/2025 5:45,49,110
+Thika Road - Muthaiga,1/3/2025 6:00,62,89
+Uhuru Highway - Haile Selassie,1/3/2025 6:00,60,117
+Waiyaki Way - Westlands,1/3/2025 6:00,50,108
+Ngong Road - Adams Arcade,1/3/2025 6:00,43,82
+Jogoo Road - City Stadium,1/3/2025 6:00,57,92
+Thika Road - Muthaiga,1/3/2025 6:15,36,98
+Uhuru Highway - Haile Selassie,1/3/2025 6:15,56,119
+Waiyaki Way - Westlands,1/3/2025 6:15,46,99
+Ngong Road - Adams Arcade,1/3/2025 6:15,52,101
+Jogoo Road - City Stadium,1/3/2025 6:15,51,83
+Thika Road - Muthaiga,1/3/2025 6:30,48,75
+Uhuru Highway - Haile Selassie,1/3/2025 6:30,61,100
+Waiyaki Way - Westlands,1/3/2025 6:30,54,114
+Ngong Road - Adams Arcade,1/3/2025 6:30,49,95
+Jogoo Road - City Stadium,1/3/2025 6:30,51,85
+Thika Road - Muthaiga,1/3/2025 6:45,66,102
+Uhuru Highway - Haile Selassie,1/3/2025 6:45,60,127
+Waiyaki Way - Westlands,1/3/2025 6:45,58,105
+Ngong Road - Adams Arcade,1/3/2025 6:45,37,84
+Jogoo Road - City Stadium,1/3/2025 6:45,42,92
+Thika Road - Muthaiga,1/3/2025 7:00,36,133
+Uhuru Highway - Haile Selassie,1/3/2025 7:00,31,164
+Waiyaki Way - Westlands,1/3/2025 7:00,32,131
+Ngong Road - Adams Arcade,1/3/2025 7:00,21,136
+Jogoo Road - City Stadium,1/3/2025 7:00,37,161
+Thika Road - Muthaiga,1/3/2025 7:15,31,119
+Uhuru Highway - Haile Selassie,1/3/2025 7:15,26,164
+Waiyaki Way - Westlands,1/3/2025 7:15,29,172
+Ngong Road - Adams Arcade,1/3/2025 7:15,12,132
+Jogoo Road - City Stadium,1/3/2025 7:15,20,161
+Thika Road - Muthaiga,1/3/2025 7:30,39,144
+Uhuru Highway - Haile Selassie,1/3/2025 7:30,23,196
+Waiyaki Way - Westlands,1/3/2025 7:30,32,114
+Ngong Road - Adams Arcade,1/3/2025 7:30,38,163
+Jogoo Road - City Stadium,1/3/2025 7:30,26,155
+Thika Road - Muthaiga,1/3/2025 7:45,29,156
+Uhuru Highway - Haile Selassie,1/3/2025 7:45,38,183
+Waiyaki Way - Westlands,1/3/2025 7:45,53,175
+Ngong Road - Adams Arcade,1/3/2025 7:45,24,141
+Jogoo Road - City Stadium,1/3/2025 7:45,15,151
+Thika Road - Muthaiga,1/3/2025 8:00,34,133
+Uhuru Highway - Haile Selassie,1/3/2025 8:00,35,168
+Waiyaki Way - Westlands,1/3/2025 8:00,40,147
+Ngong Road - Adams Arcade,1/3/2025 8:00,28,136
+Jogoo Road - City Stadium,1/3/2025 8:00,31,147
+Thika Road - Muthaiga,1/3/2025 8:15,30,156
+Uhuru Highway - Haile Selassie,1/3/2025 8:15,31,166
+Waiyaki Way - Westlands,1/3/2025 8:15,24,139
+Ngong Road - Adams Arcade,1/3/2025 8:15,35,128
+Jogoo Road - City Stadium,1/3/2025 8:15,31,155
+Thika Road - Muthaiga,1/3/2025 8:30,36,156
+Uhuru Highway - Haile Selassie,1/3/2025 8:30,33,181
+Waiyaki Way - Westlands,1/3/2025 8:30,26,163
+Ngong Road - Adams Arcade,1/3/2025 8:30,27,99
+Jogoo Road - City Stadium,1/3/2025 8:30,37,173
+Thika Road - Muthaiga,1/3/2025 8:45,47,158
+Uhuru Highway - Haile Selassie,1/3/2025 8:45,35,177
+Waiyaki Way - Westlands,1/3/2025 8:45,28,150
+Ngong Road - Adams Arcade,1/3/2025 8:45,37,145
+Jogoo Road - City Stadium,1/3/2025 8:45,26,149
+Thika Road - Muthaiga,1/3/2025 9:00,42,144
+Uhuru Highway - Haile Selassie,1/3/2025 9:00,16,154
+Waiyaki Way - Westlands,1/3/2025 9:00,21,151
+Ngong Road - Adams Arcade,1/3/2025 9:00,26,128
+Jogoo Road - City Stadium,1/3/2025 9:00,41,145
+Thika Road - Muthaiga,1/3/2025 9:15,39,148
+Uhuru Highway - Haile Selassie,1/3/2025 9:15,25,185
+Waiyaki Way - Westlands,1/3/2025 9:15,30,175
+Ngong Road - Adams Arcade,1/3/2025 9:15,19,146
+Jogoo Road - City Stadium,1/3/2025 9:15,36,128
+Thika Road - Muthaiga,1/3/2025 9:30,30,149
+Uhuru Highway - Haile Selassie,1/3/2025 9:30,43,162
+Waiyaki Way - Westlands,1/3/2025 9:30,44,142
+Ngong Road - Adams Arcade,1/3/2025 9:30,33,122
+Jogoo Road - City Stadium,1/3/2025 9:30,34,147
+Thika Road - Muthaiga,1/3/2025 9:45,36,135
+Uhuru Highway - Haile Selassie,1/3/2025 9:45,26,176
+Waiyaki Way - Westlands,1/3/2025 9:45,27,171
+Ngong Road - Adams Arcade,1/3/2025 9:45,20,132
+Jogoo Road - City Stadium,1/3/2025 9:45,28,113
+Thika Road - Muthaiga,1/3/2025 10:00,66,126
+Uhuru Highway - Haile Selassie,1/3/2025 10:00,52,109
+Waiyaki Way - Westlands,1/3/2025 10:00,54,100
+Ngong Road - Adams Arcade,1/3/2025 10:00,53,67
+Jogoo Road - City Stadium,1/3/2025 10:00,53,105
+Thika Road - Muthaiga,1/3/2025 10:15,60,96
+Uhuru Highway - Haile Selassie,1/3/2025 10:15,59,120
+Waiyaki Way - Westlands,1/3/2025 10:15,45,94
+Ngong Road - Adams Arcade,1/3/2025 10:15,57,86
+Jogoo Road - City Stadium,1/3/2025 10:15,36,76
+Thika Road - Muthaiga,1/3/2025 10:30,60,92
+Uhuru Highway - Haile Selassie,1/3/2025 10:30,56,112
+Waiyaki Way - Westlands,1/3/2025 10:30,61,96
+Ngong Road - Adams Arcade,1/3/2025 10:30,38,60
+Jogoo Road - City Stadium,1/3/2025 10:30,34,93
+Thika Road - Muthaiga,1/3/2025 10:45,73,87
+Uhuru Highway - Haile Selassie,1/3/2025 10:45,56,110
+Waiyaki Way - Westlands,1/3/2025 10:45,45,81
+Ngong Road - Adams Arcade,1/3/2025 10:45,42,79
+Jogoo Road - City Stadium,1/3/2025 10:45,52,114
+Thika Road - Muthaiga,1/3/2025 11:00,61,73
+Uhuru Highway - Haile Selassie,1/3/2025 11:00,64,117
+Waiyaki Way - Westlands,1/3/2025 11:00,41,123
+Ngong Road - Adams Arcade,1/3/2025 11:00,34,72
+Jogoo Road - City Stadium,1/3/2025 11:00,51,91
+Thika Road - Muthaiga,1/3/2025 11:15,59,104
+Uhuru Highway - Haile Selassie,1/3/2025 11:15,56,105
+Waiyaki Way - Westlands,1/3/2025 11:15,66,87
+Ngong Road - Adams Arcade,1/3/2025 11:15,46,60
+Jogoo Road - City Stadium,1/3/2025 11:15,48,125
+Thika Road - Muthaiga,1/3/2025 11:30,57,87
+Uhuru Highway - Haile Selassie,1/3/2025 11:30,65,107
+Waiyaki Way - Westlands,1/3/2025 11:30,62,66
+Ngong Road - Adams Arcade,1/3/2025 11:30,42,63
+Jogoo Road - City Stadium,1/3/2025 11:30,52,88
+Thika Road - Muthaiga,1/3/2025 11:45,63,66
+Uhuru Highway - Haile Selassie,1/3/2025 11:45,44,140
+Waiyaki Way - Westlands,1/3/2025 11:45,44,102
+Ngong Road - Adams Arcade,1/3/2025 11:45,45,91
+Jogoo Road - City Stadium,1/3/2025 11:45,51,85
+Thika Road - Muthaiga,1/3/2025 12:00,58,117
+Uhuru Highway - Haile Selassie,1/3/2025 12:00,44,120
+Waiyaki Way - Westlands,1/3/2025 12:00,53,85
+Ngong Road - Adams Arcade,1/3/2025 12:00,47,107
+Jogoo Road - City Stadium,1/3/2025 12:00,47,90
+Thika Road - Muthaiga,1/3/2025 12:15,64,71
+Uhuru Highway - Haile Selassie,1/3/2025 12:15,51,123
+Waiyaki Way - Westlands,1/3/2025 12:15,52,92
+Ngong Road - Adams Arcade,1/3/2025 12:15,44,78
+Jogoo Road - City Stadium,1/3/2025 12:15,46,126
+Thika Road - Muthaiga,1/3/2025 12:30,54,84
+Uhuru Highway - Haile Selassie,1/3/2025 12:30,53,121
+Waiyaki Way - Westlands,1/3/2025 12:30,60,90
+Ngong Road - Adams Arcade,1/3/2025 12:30,40,106
+Jogoo Road - City Stadium,1/3/2025 12:30,56,67
+Thika Road - Muthaiga,1/3/2025 12:45,66,79
+Uhuru Highway - Haile Selassie,1/3/2025 12:45,62,80
+Waiyaki Way - Westlands,1/3/2025 12:45,55,81
+Ngong Road - Adams Arcade,1/3/2025 12:45,37,85
+Jogoo Road - City Stadium,1/3/2025 12:45,53,88
+Thika Road - Muthaiga,1/3/2025 13:00,64,91
+Uhuru Highway - Haile Selassie,1/3/2025 13:00,42,139
+Waiyaki Way - Westlands,1/3/2025 13:00,50,124
+Ngong Road - Adams Arcade,1/3/2025 13:00,34,71
+Jogoo Road - City Stadium,1/3/2025 13:00,55,92
+Thika Road - Muthaiga,1/3/2025 13:15,72,88
+Uhuru Highway - Haile Selassie,1/3/2025 13:15,54,88
+Waiyaki Way - Westlands,1/3/2025 13:15,52,81
+Ngong Road - Adams Arcade,1/3/2025 13:15,41,98
+Jogoo Road - City Stadium,1/3/2025 13:15,49,55
+Thika Road - Muthaiga,1/3/2025 13:30,63,96
+Uhuru Highway - Haile Selassie,1/3/2025 13:30,46,128
+Waiyaki Way - Westlands,1/3/2025 13:30,59,110
+Ngong Road - Adams Arcade,1/3/2025 13:30,47,58
+Jogoo Road - City Stadium,1/3/2025 13:30,47,87
+Thika Road - Muthaiga,1/3/2025 13:45,56,95
+Uhuru Highway - Haile Selassie,1/3/2025 13:45,55,99
+Waiyaki Way - Westlands,1/3/2025 13:45,41,83
+Ngong Road - Adams Arcade,1/3/2025 13:45,35,95
+Jogoo Road - City Stadium,1/3/2025 13:45,51,104
+Thika Road - Muthaiga,1/3/2025 14:00,54,64
+Uhuru Highway - Haile Selassie,1/3/2025 14:00,47,127
+Waiyaki Way - Westlands,1/3/2025 14:00,53,93
+Ngong Road - Adams Arcade,1/3/2025 14:00,42,96
+Jogoo Road - City Stadium,1/3/2025 14:00,59,86
+Thika Road - Muthaiga,1/3/2025 14:15,67,116
+Uhuru Highway - Haile Selassie,1/3/2025 14:15,48,111
+Waiyaki Way - Westlands,1/3/2025 14:15,54,87
+Ngong Road - Adams Arcade,1/3/2025 14:15,56,91
+Jogoo Road - City Stadium,1/3/2025 14:15,35,104
+Thika Road - Muthaiga,1/3/2025 14:30,52,105
+Uhuru Highway - Haile Selassie,1/3/2025 14:30,57,104
+Waiyaki Way - Westlands,1/3/2025 14:30,74,129
+Ngong Road - Adams Arcade,1/3/2025 14:30,43,94
+Jogoo Road - City Stadium,1/3/2025 14:30,55,103
+Thika Road - Muthaiga,1/3/2025 14:45,74,85
+Uhuru Highway - Haile Selassie,1/3/2025 14:45,58,113
+Waiyaki Way - Westlands,1/3/2025 14:45,53,109
+Ngong Road - Adams Arcade,1/3/2025 14:45,40,97
+Jogoo Road - City Stadium,1/3/2025 14:45,39,86
+Thika Road - Muthaiga,1/3/2025 15:00,66,96
+Uhuru Highway - Haile Selassie,1/3/2025 15:00,68,116
+Waiyaki Way - Westlands,1/3/2025 15:00,55,99
+Ngong Road - Adams Arcade,1/3/2025 15:00,41,68
+Jogoo Road - City Stadium,1/3/2025 15:00,54,105
+Thika Road - Muthaiga,1/3/2025 15:15,59,85
+Uhuru Highway - Haile Selassie,1/3/2025 15:15,52,87
+Waiyaki Way - Westlands,1/3/2025 15:15,54,113
+Ngong Road - Adams Arcade,1/3/2025 15:15,45,92
+Jogoo Road - City Stadium,1/3/2025 15:15,42,95
+Thika Road - Muthaiga,1/3/2025 15:30,63,100
+Uhuru Highway - Haile Selassie,1/3/2025 15:30,50,117
+Waiyaki Way - Westlands,1/3/2025 15:30,58,67
+Ngong Road - Adams Arcade,1/3/2025 15:30,38,77
+Jogoo Road - City Stadium,1/3/2025 15:30,44,105
+Thika Road - Muthaiga,1/3/2025 15:45,64,105
+Uhuru Highway - Haile Selassie,1/3/2025 15:45,44,120
+Waiyaki Way - Westlands,1/3/2025 15:45,52,118
+Ngong Road - Adams Arcade,1/3/2025 15:45,46,79
+Jogoo Road - City Stadium,1/3/2025 15:45,51,68
+Thika Road - Muthaiga,1/3/2025 16:00,26,128
+Uhuru Highway - Haile Selassie,1/3/2025 16:00,43,153
+Waiyaki Way - Westlands,1/3/2025 16:00,43,150
+Ngong Road - Adams Arcade,1/3/2025 16:00,14,127
+Jogoo Road - City Stadium,1/3/2025 16:00,39,135
+Thika Road - Muthaiga,1/3/2025 16:15,33,141
+Uhuru Highway - Haile Selassie,1/3/2025 16:15,38,178
+Waiyaki Way - Westlands,1/3/2025 16:15,42,176
+Ngong Road - Adams Arcade,1/3/2025 16:15,17,130
+Jogoo Road - City Stadium,1/3/2025 16:15,32,145
+Thika Road - Muthaiga,1/3/2025 16:30,29,129
+Uhuru Highway - Haile Selassie,1/3/2025 16:30,33,181
+Waiyaki Way - Westlands,1/3/2025 16:30,25,160
+Ngong Road - Adams Arcade,1/3/2025 16:30,20,132
+Jogoo Road - City Stadium,1/3/2025 16:30,38,165
+Thika Road - Muthaiga,1/3/2025 16:45,30,116
+Uhuru Highway - Haile Selassie,1/3/2025 16:45,29,153
+Waiyaki Way - Westlands,1/3/2025 16:45,19,158
+Ngong Road - Adams Arcade,1/3/2025 16:45,20,122
+Jogoo Road - City Stadium,1/3/2025 16:45,30,155
+Thika Road - Muthaiga,1/3/2025 17:00,38,133
+Uhuru Highway - Haile Selassie,1/3/2025 17:00,32,167
+Waiyaki Way - Westlands,1/3/2025 17:00,41,185
+Ngong Road - Adams Arcade,1/3/2025 17:00,34,116
+Jogoo Road - City Stadium,1/3/2025 17:00,20,164
+Thika Road - Muthaiga,1/3/2025 17:15,49,156
+Uhuru Highway - Haile Selassie,1/3/2025 17:15,27,159
+Waiyaki Way - Westlands,1/3/2025 17:15,33,175
+Ngong Road - Adams Arcade,1/3/2025 17:15,30,144
+Jogoo Road - City Stadium,1/3/2025 17:15,19,157
+Thika Road - Muthaiga,1/3/2025 17:30,46,159
+Uhuru Highway - Haile Selassie,1/3/2025 17:30,34,172
+Waiyaki Way - Westlands,1/3/2025 17:30,35,137
+Ngong Road - Adams Arcade,1/3/2025 17:30,27,144
+Jogoo Road - City Stadium,1/3/2025 17:30,27,168
+Thika Road - Muthaiga,1/3/2025 17:45,29,152
+Uhuru Highway - Haile Selassie,1/3/2025 17:45,32,175
+Waiyaki Way - Westlands,1/3/2025 17:45,28,163
+Ngong Road - Adams Arcade,1/3/2025 17:45,34,134
+Jogoo Road - City Stadium,1/3/2025 17:45,17,145
+Thika Road - Muthaiga,1/3/2025 18:00,48,170
+Uhuru Highway - Haile Selassie,1/3/2025 18:00,39,156
+Waiyaki Way - Westlands,1/3/2025 18:00,33,152
+Ngong Road - Adams Arcade,1/3/2025 18:00,26,140
+Jogoo Road - City Stadium,1/3/2025 18:00,24,140
+Thika Road - Muthaiga,1/3/2025 18:15,30,130
+Uhuru Highway - Haile Selassie,1/3/2025 18:15,28,174
+Waiyaki Way - Westlands,1/3/2025 18:15,43,170
+Ngong Road - Adams Arcade,1/3/2025 18:15,30,127
+Jogoo Road - City Stadium,1/3/2025 18:15,33,159
+Thika Road - Muthaiga,1/3/2025 18:30,43,145
+Uhuru Highway - Haile Selassie,1/3/2025 18:30,24,183
+Waiyaki Way - Westlands,1/3/2025 18:30,38,173
+Ngong Road - Adams Arcade,1/3/2025 18:30,28,124
+Jogoo Road - City Stadium,1/3/2025 18:30,28,162
+Thika Road - Muthaiga,1/3/2025 18:45,56,160
+Uhuru Highway - Haile Selassie,1/3/2025 18:45,23,164
+Waiyaki Way - Westlands,1/3/2025 18:45,37,164
+Ngong Road - Adams Arcade,1/3/2025 18:45,39,132
+Jogoo Road - City Stadium,1/3/2025 18:45,35,131
+Thika Road - Muthaiga,1/3/2025 19:00,51,134
+Uhuru Highway - Haile Selassie,1/3/2025 19:00,28,205
+Waiyaki Way - Westlands,1/3/2025 19:00,38,151
+Ngong Road - Adams Arcade,1/3/2025 19:00,27,130
+Jogoo Road - City Stadium,1/3/2025 19:00,14,152
+Thika Road - Muthaiga,1/3/2025 19:15,31,143
+Uhuru Highway - Haile Selassie,1/3/2025 19:15,45,168
+Waiyaki Way - Westlands,1/3/2025 19:15,37,141
+Ngong Road - Adams Arcade,1/3/2025 19:15,25,131
+Jogoo Road - City Stadium,1/3/2025 19:15,32,163
+Thika Road - Muthaiga,1/3/2025 19:30,45,152
+Uhuru Highway - Haile Selassie,1/3/2025 19:30,29,171
+Waiyaki Way - Westlands,1/3/2025 19:30,24,143
+Ngong Road - Adams Arcade,1/3/2025 19:30,38,180
+Jogoo Road - City Stadium,1/3/2025 19:30,19,131
+Thika Road - Muthaiga,1/3/2025 19:45,41,151
+Uhuru Highway - Haile Selassie,1/3/2025 19:45,32,184
+Waiyaki Way - Westlands,1/3/2025 19:45,33,158
+Ngong Road - Adams Arcade,1/3/2025 19:45,10,137
+Jogoo Road - City Stadium,1/3/2025 19:45,23,148
+Thika Road - Muthaiga,1/3/2025 20:00,80,92
+Uhuru Highway - Haile Selassie,1/3/2025 20:00,52,115
+Waiyaki Way - Westlands,1/3/2025 20:00,53,113
+Ngong Road - Adams Arcade,1/3/2025 20:00,49,91
+Jogoo Road - City Stadium,1/3/2025 20:00,38,125
+Thika Road - Muthaiga,1/3/2025 20:15,52,97
+Uhuru Highway - Haile Selassie,1/3/2025 20:15,47,118
+Waiyaki Way - Westlands,1/3/2025 20:15,47,93
+Ngong Road - Adams Arcade,1/3/2025 20:15,52,99
+Jogoo Road - City Stadium,1/3/2025 20:15,48,76
+Thika Road - Muthaiga,1/3/2025 20:30,49,79
+Uhuru Highway - Haile Selassie,1/3/2025 20:30,52,106
+Waiyaki Way - Westlands,1/3/2025 20:30,53,136
+Ngong Road - Adams Arcade,1/3/2025 20:30,40,64
+Jogoo Road - City Stadium,1/3/2025 20:30,64,110
+Thika Road - Muthaiga,1/3/2025 20:45,44,66
+Uhuru Highway - Haile Selassie,1/3/2025 20:45,58,138
+Waiyaki Way - Westlands,1/3/2025 20:45,54,86
+Ngong Road - Adams Arcade,1/3/2025 20:45,45,45
+Jogoo Road - City Stadium,1/3/2025 20:45,55,99
+Thika Road - Muthaiga,1/3/2025 21:00,60,74
+Uhuru Highway - Haile Selassie,1/3/2025 21:00,57,96
+Waiyaki Way - Westlands,1/3/2025 21:00,46,86
+Ngong Road - Adams Arcade,1/3/2025 21:00,50,70
+Jogoo Road - City Stadium,1/3/2025 21:00,46,107
+Thika Road - Muthaiga,1/3/2025 21:15,48,90
+Uhuru Highway - Haile Selassie,1/3/2025 21:15,54,105
+Waiyaki Way - Westlands,1/3/2025 21:15,41,139
+Ngong Road - Adams Arcade,1/3/2025 21:15,52,106
+Jogoo Road - City Stadium,1/3/2025 21:15,62,99
+Thika Road - Muthaiga,1/3/2025 21:30,63,95
+Uhuru Highway - Haile Selassie,1/3/2025 21:30,64,109
+Waiyaki Way - Westlands,1/3/2025 21:30,44,116
+Ngong Road - Adams Arcade,1/3/2025 21:30,43,65
+Jogoo Road - City Stadium,1/3/2025 21:30,47,82
+Thika Road - Muthaiga,1/3/2025 21:45,56,108
+Uhuru Highway - Haile Selassie,1/3/2025 21:45,55,109
+Waiyaki Way - Westlands,1/3/2025 21:45,32,112
+Ngong Road - Adams Arcade,1/3/2025 21:45,46,75
+Jogoo Road - City Stadium,1/3/2025 21:45,44,113
+Thika Road - Muthaiga,1/3/2025 22:00,64,61
+Uhuru Highway - Haile Selassie,1/3/2025 22:00,45,100
+Waiyaki Way - Westlands,1/3/2025 22:00,48,90
+Ngong Road - Adams Arcade,1/3/2025 22:00,27,75
+Jogoo Road - City Stadium,1/3/2025 22:00,58,108
+Thika Road - Muthaiga,1/3/2025 22:15,50,99
+Uhuru Highway - Haile Selassie,1/3/2025 22:15,54,106
+Waiyaki Way - Westlands,1/3/2025 22:15,55,108
+Ngong Road - Adams Arcade,1/3/2025 22:15,45,73
+Jogoo Road - City Stadium,1/3/2025 22:15,59,101
+Thika Road - Muthaiga,1/3/2025 22:30,66,100
+Uhuru Highway - Haile Selassie,1/3/2025 22:30,66,111
+Waiyaki Way - Westlands,1/3/2025 22:30,43,106
+Ngong Road - Adams Arcade,1/3/2025 22:30,50,106
+Jogoo Road - City Stadium,1/3/2025 22:30,44,88
+Thika Road - Muthaiga,1/3/2025 22:45,63,94
+Uhuru Highway - Haile Selassie,1/3/2025 22:45,57,112
+Waiyaki Way - Westlands,1/3/2025 22:45,58,125
+Ngong Road - Adams Arcade,1/3/2025 22:45,52,87
+Jogoo Road - City Stadium,1/3/2025 22:45,51,79
+Thika Road - Muthaiga,1/3/2025 23:00,58,117
+Uhuru Highway - Haile Selassie,1/3/2025 23:00,49,97
+Waiyaki Way - Westlands,1/3/2025 23:00,43,83
+Ngong Road - Adams Arcade,1/3/2025 23:00,33,79
+Jogoo Road - City Stadium,1/3/2025 23:00,55,95
+Thika Road - Muthaiga,1/3/2025 23:15,72,76
+Uhuru Highway - Haile Selassie,1/3/2025 23:15,63,117
+Waiyaki Way - Westlands,1/3/2025 23:15,56,90
+Ngong Road - Adams Arcade,1/3/2025 23:15,52,68
+Jogoo Road - City Stadium,1/3/2025 23:15,52,97
+Thika Road - Muthaiga,1/3/2025 23:30,52,72
+Uhuru Highway - Haile Selassie,1/3/2025 23:30,47,118
+Waiyaki Way - Westlands,1/3/2025 23:30,39,106
+Ngong Road - Adams Arcade,1/3/2025 23:30,35,97
+Jogoo Road - City Stadium,1/3/2025 23:30,53,103
+Thika Road - Muthaiga,1/3/2025 23:45,64,79
+Uhuru Highway - Haile Selassie,1/3/2025 23:45,50,113
+Waiyaki Way - Westlands,1/3/2025 23:45,34,84
+Ngong Road - Adams Arcade,1/3/2025 23:45,32,90
+Jogoo Road - City Stadium,1/3/2025 23:45,45,96
+Thika Road - Muthaiga,1/4/2025 0:00,57,100
+Uhuru Highway - Haile Selassie,1/4/2025 0:00,60,105
+Waiyaki Way - Westlands,1/4/2025 0:00,52,105
+Ngong Road - Adams Arcade,1/4/2025 0:00,32,92
+Jogoo Road - City Stadium,1/4/2025 0:00,52,106
+Thika Road - Muthaiga,1/4/2025 0:15,58,74
+Uhuru Highway - Haile Selassie,1/4/2025 0:15,53,109
+Waiyaki Way - Westlands,1/4/2025 0:15,61,105
+Ngong Road - Adams Arcade,1/4/2025 0:15,34,101
+Jogoo Road - City Stadium,1/4/2025 0:15,58,104
+Thika Road - Muthaiga,1/4/2025 0:30,68,95
+Uhuru Highway - Haile Selassie,1/4/2025 0:30,63,140
+Waiyaki Way - Westlands,1/4/2025 0:30,58,103
+Ngong Road - Adams Arcade,1/4/2025 0:30,45,87
+Jogoo Road - City Stadium,1/4/2025 0:30,60,89
+Thika Road - Muthaiga,1/4/2025 0:45,72,77
+Uhuru Highway - Haile Selassie,1/4/2025 0:45,43,117
+Waiyaki Way - Westlands,1/4/2025 0:45,33,105
+Ngong Road - Adams Arcade,1/4/2025 0:45,52,94
+Jogoo Road - City Stadium,1/4/2025 0:45,48,86
+Thika Road - Muthaiga,1/4/2025 1:00,55,119
+Uhuru Highway - Haile Selassie,1/4/2025 1:00,66,94
+Waiyaki Way - Westlands,1/4/2025 1:00,50,129
+Ngong Road - Adams Arcade,1/4/2025 1:00,55,100
+Jogoo Road - City Stadium,1/4/2025 1:00,44,83
+Thika Road - Muthaiga,1/4/2025 1:15,73,108
+Uhuru Highway - Haile Selassie,1/4/2025 1:15,47,118
+Waiyaki Way - Westlands,1/4/2025 1:15,45,129
+Ngong Road - Adams Arcade,1/4/2025 1:15,47,79
+Jogoo Road - City Stadium,1/4/2025 1:15,54,118
+Thika Road - Muthaiga,1/4/2025 1:30,63,96
+Uhuru Highway - Haile Selassie,1/4/2025 1:30,59,110
+Waiyaki Way - Westlands,1/4/2025 1:30,47,62
+Ngong Road - Adams Arcade,1/4/2025 1:30,35,88
+Jogoo Road - City Stadium,1/4/2025 1:30,46,100
+Thika Road - Muthaiga,1/4/2025 1:45,72,116
+Uhuru Highway - Haile Selassie,1/4/2025 1:45,53,103
+Waiyaki Way - Westlands,1/4/2025 1:45,46,98
+Ngong Road - Adams Arcade,1/4/2025 1:45,38,87
+Jogoo Road - City Stadium,1/4/2025 1:45,52,78
+Thika Road - Muthaiga,1/4/2025 2:00,53,99
+Uhuru Highway - Haile Selassie,1/4/2025 2:00,49,123
+Waiyaki Way - Westlands,1/4/2025 2:00,56,103
+Ngong Road - Adams Arcade,1/4/2025 2:00,48,84
+Jogoo Road - City Stadium,1/4/2025 2:00,46,87
+Thika Road - Muthaiga,1/4/2025 2:15,54,86
+Uhuru Highway - Haile Selassie,1/4/2025 2:15,42,107
+Waiyaki Way - Westlands,1/4/2025 2:15,47,92
+Ngong Road - Adams Arcade,1/4/2025 2:15,43,81
+Jogoo Road - City Stadium,1/4/2025 2:15,51,94
+Thika Road - Muthaiga,1/4/2025 2:30,54,103
+Uhuru Highway - Haile Selassie,1/4/2025 2:30,46,91
+Waiyaki Way - Westlands,1/4/2025 2:30,47,92
+Ngong Road - Adams Arcade,1/4/2025 2:30,34,73
+Jogoo Road - City Stadium,1/4/2025 2:30,49,88
+Thika Road - Muthaiga,1/4/2025 2:45,55,98
+Uhuru Highway - Haile Selassie,1/4/2025 2:45,47,103
+Waiyaki Way - Westlands,1/4/2025 2:45,43,99
+Ngong Road - Adams Arcade,1/4/2025 2:45,30,93
+Jogoo Road - City Stadium,1/4/2025 2:45,50,89
+Thika Road - Muthaiga,1/4/2025 3:00,80,92
+Uhuru Highway - Haile Selassie,1/4/2025 3:00,46,115
+Waiyaki Way - Westlands,1/4/2025 3:00,35,98
+Ngong Road - Adams Arcade,1/4/2025 3:00,38,83
+Jogoo Road - City Stadium,1/4/2025 3:00,43,108
+Thika Road - Muthaiga,1/4/2025 3:15,54,88
+Uhuru Highway - Haile Selassie,1/4/2025 3:15,52,136
+Waiyaki Way - Westlands,1/4/2025 3:15,56,127
+Ngong Road - Adams Arcade,1/4/2025 3:15,47,92
+Jogoo Road - City Stadium,1/4/2025 3:15,32,100
+Thika Road - Muthaiga,1/4/2025 3:30,66,85
+Uhuru Highway - Haile Selassie,1/4/2025 3:30,43,109
+Waiyaki Way - Westlands,1/4/2025 3:30,63,99
+Ngong Road - Adams Arcade,1/4/2025 3:30,44,103
+Jogoo Road - City Stadium,1/4/2025 3:30,45,109
+Thika Road - Muthaiga,1/4/2025 3:45,52,64
+Uhuru Highway - Haile Selassie,1/4/2025 3:45,52,133
+Waiyaki Way - Westlands,1/4/2025 3:45,47,96
+Ngong Road - Adams Arcade,1/4/2025 3:45,58,113
+Jogoo Road - City Stadium,1/4/2025 3:45,46,128
+Thika Road - Muthaiga,1/4/2025 4:00,47,94
+Uhuru Highway - Haile Selassie,1/4/2025 4:00,45,132
+Waiyaki Way - Westlands,1/4/2025 4:00,41,103
+Ngong Road - Adams Arcade,1/4/2025 4:00,38,76
+Jogoo Road - City Stadium,1/4/2025 4:00,43,85
+Thika Road - Muthaiga,1/4/2025 4:15,66,81
+Uhuru Highway - Haile Selassie,1/4/2025 4:15,56,93
+Waiyaki Way - Westlands,1/4/2025 4:15,45,118
+Ngong Road - Adams Arcade,1/4/2025 4:15,43,74
+Jogoo Road - City Stadium,1/4/2025 4:15,49,112
+Thika Road - Muthaiga,1/4/2025 4:30,63,82
+Uhuru Highway - Haile Selassie,1/4/2025 4:30,60,93
+Waiyaki Way - Westlands,1/4/2025 4:30,47,106
+Ngong Road - Adams Arcade,1/4/2025 4:30,37,72
+Jogoo Road - City Stadium,1/4/2025 4:30,57,103
+Thika Road - Muthaiga,1/4/2025 4:45,63,80
+Uhuru Highway - Haile Selassie,1/4/2025 4:45,50,78
+Waiyaki Way - Westlands,1/4/2025 4:45,42,99
+Ngong Road - Adams Arcade,1/4/2025 4:45,39,70
+Jogoo Road - City Stadium,1/4/2025 4:45,46,99
+Thika Road - Muthaiga,1/4/2025 5:00,43,56
+Uhuru Highway - Haile Selassie,1/4/2025 5:00,58,100
+Waiyaki Way - Westlands,1/4/2025 5:00,46,58
+Ngong Road - Adams Arcade,1/4/2025 5:00,56,77
+Jogoo Road - City Stadium,1/4/2025 5:00,51,89
+Thika Road - Muthaiga,1/4/2025 5:15,42,92
+Uhuru Highway - Haile Selassie,1/4/2025 5:15,56,121
+Waiyaki Way - Westlands,1/4/2025 5:15,80,107
+Ngong Road - Adams Arcade,1/4/2025 5:15,58,53
+Jogoo Road - City Stadium,1/4/2025 5:15,50,90
+Thika Road - Muthaiga,1/4/2025 5:30,56,89
+Uhuru Highway - Haile Selassie,1/4/2025 5:30,57,101
+Waiyaki Way - Westlands,1/4/2025 5:30,56,77
+Ngong Road - Adams Arcade,1/4/2025 5:30,35,78
+Jogoo Road - City Stadium,1/4/2025 5:30,58,88
+Thika Road - Muthaiga,1/4/2025 5:45,62,81
+Uhuru Highway - Haile Selassie,1/4/2025 5:45,61,99
+Waiyaki Way - Westlands,1/4/2025 5:45,64,110
+Ngong Road - Adams Arcade,1/4/2025 5:45,50,82
+Jogoo Road - City Stadium,1/4/2025 5:45,58,96
+Thika Road - Muthaiga,1/4/2025 6:00,65,79
+Uhuru Highway - Haile Selassie,1/4/2025 6:00,54,107
+Waiyaki Way - Westlands,1/4/2025 6:00,52,101
+Ngong Road - Adams Arcade,1/4/2025 6:00,46,83
+Jogoo Road - City Stadium,1/4/2025 6:00,55,118
+Thika Road - Muthaiga,1/4/2025 6:15,56,103
+Uhuru Highway - Haile Selassie,1/4/2025 6:15,62,96
+Waiyaki Way - Westlands,1/4/2025 6:15,61,113
+Ngong Road - Adams Arcade,1/4/2025 6:15,43,75
+Jogoo Road - City Stadium,1/4/2025 6:15,44,70
+Thika Road - Muthaiga,1/4/2025 6:30,56,104
+Uhuru Highway - Haile Selassie,1/4/2025 6:30,53,119
+Waiyaki Way - Westlands,1/4/2025 6:30,40,104
+Ngong Road - Adams Arcade,1/4/2025 6:30,21,86
+Jogoo Road - City Stadium,1/4/2025 6:30,34,92
+Thika Road - Muthaiga,1/4/2025 6:45,66,108
+Uhuru Highway - Haile Selassie,1/4/2025 6:45,67,117
+Waiyaki Way - Westlands,1/4/2025 6:45,63,85
+Ngong Road - Adams Arcade,1/4/2025 6:45,43,98
+Jogoo Road - City Stadium,1/4/2025 6:45,39,112
+Thika Road - Muthaiga,1/4/2025 7:00,32,131
+Uhuru Highway - Haile Selassie,1/4/2025 7:00,25,168
+Waiyaki Way - Westlands,1/4/2025 7:00,29,178
+Ngong Road - Adams Arcade,1/4/2025 7:00,23,141
+Jogoo Road - City Stadium,1/4/2025 7:00,32,124
+Thika Road - Muthaiga,1/4/2025 7:15,36,115
+Uhuru Highway - Haile Selassie,1/4/2025 7:15,50,155
+Waiyaki Way - Westlands,1/4/2025 7:15,32,173
+Ngong Road - Adams Arcade,1/4/2025 7:15,21,154
+Jogoo Road - City Stadium,1/4/2025 7:15,31,160
+Thika Road - Muthaiga,1/4/2025 7:30,47,147
+Uhuru Highway - Haile Selassie,1/4/2025 7:30,36,186
+Waiyaki Way - Westlands,1/4/2025 7:30,23,135
+Ngong Road - Adams Arcade,1/4/2025 7:30,28,134
+Jogoo Road - City Stadium,1/4/2025 7:30,49,135
+Thika Road - Muthaiga,1/4/2025 7:45,42,166
+Uhuru Highway - Haile Selassie,1/4/2025 7:45,32,177
+Waiyaki Way - Westlands,1/4/2025 7:45,31,145
+Ngong Road - Adams Arcade,1/4/2025 7:45,18,139
+Jogoo Road - City Stadium,1/4/2025 7:45,28,157
+Thika Road - Muthaiga,1/4/2025 8:00,30,115
+Uhuru Highway - Haile Selassie,1/4/2025 8:00,49,169
+Waiyaki Way - Westlands,1/4/2025 8:00,20,168
+Ngong Road - Adams Arcade,1/4/2025 8:00,15,143
+Jogoo Road - City Stadium,1/4/2025 8:00,26,168
+Thika Road - Muthaiga,1/4/2025 8:15,48,142
+Uhuru Highway - Haile Selassie,1/4/2025 8:15,23,156
+Waiyaki Way - Westlands,1/4/2025 8:15,39,151
+Ngong Road - Adams Arcade,1/4/2025 8:15,5,113
+Jogoo Road - City Stadium,1/4/2025 8:15,34,145
+Thika Road - Muthaiga,1/4/2025 8:30,33,162
+Uhuru Highway - Haile Selassie,1/4/2025 8:30,43,169
+Waiyaki Way - Westlands,1/4/2025 8:30,28,131
+Ngong Road - Adams Arcade,1/4/2025 8:30,31,138
+Jogoo Road - City Stadium,1/4/2025 8:30,30,144
+Thika Road - Muthaiga,1/4/2025 8:45,32,106
+Uhuru Highway - Haile Selassie,1/4/2025 8:45,26,182
+Waiyaki Way - Westlands,1/4/2025 8:45,34,160
+Ngong Road - Adams Arcade,1/4/2025 8:45,29,130
+Jogoo Road - City Stadium,1/4/2025 8:45,28,137
+Thika Road - Muthaiga,1/4/2025 9:00,38,153
+Uhuru Highway - Haile Selassie,1/4/2025 9:00,36,167
+Waiyaki Way - Westlands,1/4/2025 9:00,14,170
+Ngong Road - Adams Arcade,1/4/2025 9:00,25,153
+Jogoo Road - City Stadium,1/4/2025 9:00,39,158
+Thika Road - Muthaiga,1/4/2025 9:15,31,123
+Uhuru Highway - Haile Selassie,1/4/2025 9:15,28,171
+Waiyaki Way - Westlands,1/4/2025 9:15,24,186
+Ngong Road - Adams Arcade,1/4/2025 9:15,29,127
+Jogoo Road - City Stadium,1/4/2025 9:15,26,133
+Thika Road - Muthaiga,1/4/2025 9:30,34,148
+Uhuru Highway - Haile Selassie,1/4/2025 9:30,30,174
+Waiyaki Way - Westlands,1/4/2025 9:30,33,137
+Ngong Road - Adams Arcade,1/4/2025 9:30,28,162
+Jogoo Road - City Stadium,1/4/2025 9:30,35,155
+Thika Road - Muthaiga,1/4/2025 9:45,51,124
+Uhuru Highway - Haile Selassie,1/4/2025 9:45,47,179
+Waiyaki Way - Westlands,1/4/2025 9:45,45,149
+Ngong Road - Adams Arcade,1/4/2025 9:45,32,147
+Jogoo Road - City Stadium,1/4/2025 9:45,28,155
+Thika Road - Muthaiga,1/4/2025 10:00,61,108
+Uhuru Highway - Haile Selassie,1/4/2025 10:00,46,80
+Waiyaki Way - Westlands,1/4/2025 10:00,52,97
+Ngong Road - Adams Arcade,1/4/2025 10:00,54,84
+Jogoo Road - City Stadium,1/4/2025 10:00,49,65
+Thika Road - Muthaiga,1/4/2025 10:15,66,62
+Uhuru Highway - Haile Selassie,1/4/2025 10:15,58,108
+Waiyaki Way - Westlands,1/4/2025 10:15,60,87
+Ngong Road - Adams Arcade,1/4/2025 10:15,49,100
+Jogoo Road - City Stadium,1/4/2025 10:15,52,93
+Thika Road - Muthaiga,1/4/2025 10:30,66,79
+Uhuru Highway - Haile Selassie,1/4/2025 10:30,63,134
+Waiyaki Way - Westlands,1/4/2025 10:30,52,89
+Ngong Road - Adams Arcade,1/4/2025 10:30,49,65
+Jogoo Road - City Stadium,1/4/2025 10:30,33,101
+Thika Road - Muthaiga,1/4/2025 10:45,57,72
+Uhuru Highway - Haile Selassie,1/4/2025 10:45,45,105
+Waiyaki Way - Westlands,1/4/2025 10:45,52,105
+Ngong Road - Adams Arcade,1/4/2025 10:45,38,82
+Jogoo Road - City Stadium,1/4/2025 10:45,61,110
+Thika Road - Muthaiga,1/4/2025 11:00,55,82
+Uhuru Highway - Haile Selassie,1/4/2025 11:00,52,117
+Waiyaki Way - Westlands,1/4/2025 11:00,55,97
+Ngong Road - Adams Arcade,1/4/2025 11:00,55,56
+Jogoo Road - City Stadium,1/4/2025 11:00,44,96
+Thika Road - Muthaiga,1/4/2025 11:15,59,88
+Uhuru Highway - Haile Selassie,1/4/2025 11:15,66,84
+Waiyaki Way - Westlands,1/4/2025 11:15,53,100
+Ngong Road - Adams Arcade,1/4/2025 11:15,36,99
+Jogoo Road - City Stadium,1/4/2025 11:15,45,102
+Thika Road - Muthaiga,1/4/2025 11:30,42,102
+Uhuru Highway - Haile Selassie,1/4/2025 11:30,50,108
+Waiyaki Way - Westlands,1/4/2025 11:30,53,106
+Ngong Road - Adams Arcade,1/4/2025 11:30,39,74
+Jogoo Road - City Stadium,1/4/2025 11:30,40,93
+Thika Road - Muthaiga,1/4/2025 11:45,57,102
+Uhuru Highway - Haile Selassie,1/4/2025 11:45,52,66
+Waiyaki Way - Westlands,1/4/2025 11:45,36,84
+Ngong Road - Adams Arcade,1/4/2025 11:45,45,66
+Jogoo Road - City Stadium,1/4/2025 11:45,50,114
+Thika Road - Muthaiga,1/4/2025 12:00,63,80
+Uhuru Highway - Haile Selassie,1/4/2025 12:00,49,103
+Waiyaki Way - Westlands,1/4/2025 12:00,35,82
+Ngong Road - Adams Arcade,1/4/2025 12:00,46,79
+Jogoo Road - City Stadium,1/4/2025 12:00,44,93
+Thika Road - Muthaiga,1/4/2025 12:15,64,75
+Uhuru Highway - Haile Selassie,1/4/2025 12:15,61,90
+Waiyaki Way - Westlands,1/4/2025 12:15,43,84
+Ngong Road - Adams Arcade,1/4/2025 12:15,40,62
+Jogoo Road - City Stadium,1/4/2025 12:15,52,109
+Thika Road - Muthaiga,1/4/2025 12:30,64,104
+Uhuru Highway - Haile Selassie,1/4/2025 12:30,52,93
+Waiyaki Way - Westlands,1/4/2025 12:30,60,88
+Ngong Road - Adams Arcade,1/4/2025 12:30,52,67
+Jogoo Road - City Stadium,1/4/2025 12:30,62,108
+Thika Road - Muthaiga,1/4/2025 12:45,65,83
+Uhuru Highway - Haile Selassie,1/4/2025 12:45,50,144
+Waiyaki Way - Westlands,1/4/2025 12:45,34,76
+Ngong Road - Adams Arcade,1/4/2025 12:45,29,95
+Jogoo Road - City Stadium,1/4/2025 12:45,51,89
+Thika Road - Muthaiga,1/4/2025 13:00,63,92
+Uhuru Highway - Haile Selassie,1/4/2025 13:00,65,113
+Waiyaki Way - Westlands,1/4/2025 13:00,44,85
+Ngong Road - Adams Arcade,1/4/2025 13:00,51,73
+Jogoo Road - City Stadium,1/4/2025 13:00,51,108
+Thika Road - Muthaiga,1/4/2025 13:15,50,107
+Uhuru Highway - Haile Selassie,1/4/2025 13:15,67,135
+Waiyaki Way - Westlands,1/4/2025 13:15,64,111
+Ngong Road - Adams Arcade,1/4/2025 13:15,40,60
+Jogoo Road - City Stadium,1/4/2025 13:15,53,83
+Thika Road - Muthaiga,1/4/2025 13:30,66,74
+Uhuru Highway - Haile Selassie,1/4/2025 13:30,60,130
+Waiyaki Way - Westlands,1/4/2025 13:30,42,104
+Ngong Road - Adams Arcade,1/4/2025 13:30,54,72
+Jogoo Road - City Stadium,1/4/2025 13:30,47,106
+Thika Road - Muthaiga,1/4/2025 13:45,43,83
+Uhuru Highway - Haile Selassie,1/4/2025 13:45,70,93
+Waiyaki Way - Westlands,1/4/2025 13:45,51,80
+Ngong Road - Adams Arcade,1/4/2025 13:45,34,100
+Jogoo Road - City Stadium,1/4/2025 13:45,55,97
+Thika Road - Muthaiga,1/4/2025 14:00,80,90
+Uhuru Highway - Haile Selassie,1/4/2025 14:00,63,84
+Waiyaki Way - Westlands,1/4/2025 14:00,56,97
+Ngong Road - Adams Arcade,1/4/2025 14:00,39,91
+Jogoo Road - City Stadium,1/4/2025 14:00,33,98
+Thika Road - Muthaiga,1/4/2025 14:15,62,99
+Uhuru Highway - Haile Selassie,1/4/2025 14:15,63,119
+Waiyaki Way - Westlands,1/4/2025 14:15,51,105
+Ngong Road - Adams Arcade,1/4/2025 14:15,39,71
+Jogoo Road - City Stadium,1/4/2025 14:15,59,112
+Thika Road - Muthaiga,1/4/2025 14:30,60,86
+Uhuru Highway - Haile Selassie,1/4/2025 14:30,64,96
+Waiyaki Way - Westlands,1/4/2025 14:30,65,109
+Ngong Road - Adams Arcade,1/4/2025 14:30,41,71
+Jogoo Road - City Stadium,1/4/2025 14:30,53,98
+Thika Road - Muthaiga,1/4/2025 14:45,53,86
+Uhuru Highway - Haile Selassie,1/4/2025 14:45,60,123
+Waiyaki Way - Westlands,1/4/2025 14:45,60,86
+Ngong Road - Adams Arcade,1/4/2025 14:45,46,102
+Jogoo Road - City Stadium,1/4/2025 14:45,52,96
+Thika Road - Muthaiga,1/4/2025 15:00,60,77
+Uhuru Highway - Haile Selassie,1/4/2025 15:00,62,77
+Waiyaki Way - Westlands,1/4/2025 15:00,62,76
+Ngong Road - Adams Arcade,1/4/2025 15:00,43,80
+Jogoo Road - City Stadium,1/4/2025 15:00,45,85
+Thika Road - Muthaiga,1/4/2025 15:15,40,111
+Uhuru Highway - Haile Selassie,1/4/2025 15:15,57,129
+Waiyaki Way - Westlands,1/4/2025 15:15,41,81
+Ngong Road - Adams Arcade,1/4/2025 15:15,37,110
+Jogoo Road - City Stadium,1/4/2025 15:15,57,77
+Thika Road - Muthaiga,1/4/2025 15:30,52,95
+Uhuru Highway - Haile Selassie,1/4/2025 15:30,46,113
+Waiyaki Way - Westlands,1/4/2025 15:30,58,116
+Ngong Road - Adams Arcade,1/4/2025 15:30,47,92
+Jogoo Road - City Stadium,1/4/2025 15:30,47,121
+Thika Road - Muthaiga,1/4/2025 15:45,63,72
+Uhuru Highway - Haile Selassie,1/4/2025 15:45,46,141
+Waiyaki Way - Westlands,1/4/2025 15:45,53,94
+Ngong Road - Adams Arcade,1/4/2025 15:45,37,84
+Jogoo Road - City Stadium,1/4/2025 15:45,66,111
+Thika Road - Muthaiga,1/4/2025 16:00,30,146
+Uhuru Highway - Haile Selassie,1/4/2025 16:00,36,152
+Waiyaki Way - Westlands,1/4/2025 16:00,35,176
+Ngong Road - Adams Arcade,1/4/2025 16:00,23,135
+Jogoo Road - City Stadium,1/4/2025 16:00,36,135
+Thika Road - Muthaiga,1/4/2025 16:15,25,157
+Uhuru Highway - Haile Selassie,1/4/2025 16:15,38,199
+Waiyaki Way - Westlands,1/4/2025 16:15,20,180
+Ngong Road - Adams Arcade,1/4/2025 16:15,26,115
+Jogoo Road - City Stadium,1/4/2025 16:15,44,159
+Thika Road - Muthaiga,1/4/2025 16:30,35,154
+Uhuru Highway - Haile Selassie,1/4/2025 16:30,44,160
+Waiyaki Way - Westlands,1/4/2025 16:30,44,145
+Ngong Road - Adams Arcade,1/4/2025 16:30,40,131
+Jogoo Road - City Stadium,1/4/2025 16:30,28,162
+Thika Road - Muthaiga,1/4/2025 16:45,34,136
+Uhuru Highway - Haile Selassie,1/4/2025 16:45,34,182
+Waiyaki Way - Westlands,1/4/2025 16:45,29,151
+Ngong Road - Adams Arcade,1/4/2025 16:45,11,137
+Jogoo Road - City Stadium,1/4/2025 16:45,22,158
+Thika Road - Muthaiga,1/4/2025 17:00,24,126
+Uhuru Highway - Haile Selassie,1/4/2025 17:00,23,149
+Waiyaki Way - Westlands,1/4/2025 17:00,46,149
+Ngong Road - Adams Arcade,1/4/2025 17:00,29,128
+Jogoo Road - City Stadium,1/4/2025 17:00,31,158
+Thika Road - Muthaiga,1/4/2025 17:15,27,142
+Uhuru Highway - Haile Selassie,1/4/2025 17:15,48,197
+Waiyaki Way - Westlands,1/4/2025 17:15,23,134
+Ngong Road - Adams Arcade,1/4/2025 17:15,20,131
+Jogoo Road - City Stadium,1/4/2025 17:15,24,159
+Thika Road - Muthaiga,1/4/2025 17:30,47,176
+Uhuru Highway - Haile Selassie,1/4/2025 17:30,42,179
+Waiyaki Way - Westlands,1/4/2025 17:30,26,176
+Ngong Road - Adams Arcade,1/4/2025 17:30,28,123
+Jogoo Road - City Stadium,1/4/2025 17:30,31,164
+Thika Road - Muthaiga,1/4/2025 17:45,31,120
+Uhuru Highway - Haile Selassie,1/4/2025 17:45,33,174
+Waiyaki Way - Westlands,1/4/2025 17:45,20,189
+Ngong Road - Adams Arcade,1/4/2025 17:45,40,143
+Jogoo Road - City Stadium,1/4/2025 17:45,26,186
+Thika Road - Muthaiga,1/4/2025 18:00,42,151
+Uhuru Highway - Haile Selassie,1/4/2025 18:00,33,178
+Waiyaki Way - Westlands,1/4/2025 18:00,10,166
+Ngong Road - Adams Arcade,1/4/2025 18:00,29,146
+Jogoo Road - City Stadium,1/4/2025 18:00,46,148
+Thika Road - Muthaiga,1/4/2025 18:15,34,133
+Uhuru Highway - Haile Selassie,1/4/2025 18:15,27,205
+Waiyaki Way - Westlands,1/4/2025 18:15,30,151
+Ngong Road - Adams Arcade,1/4/2025 18:15,29,148
+Jogoo Road - City Stadium,1/4/2025 18:15,25,132
+Thika Road - Muthaiga,1/4/2025 18:30,36,134
+Uhuru Highway - Haile Selassie,1/4/2025 18:30,37,182
+Waiyaki Way - Westlands,1/4/2025 18:30,39,133
+Ngong Road - Adams Arcade,1/4/2025 18:30,39,139
+Jogoo Road - City Stadium,1/4/2025 18:30,38,158
+Thika Road - Muthaiga,1/4/2025 18:45,48,150
+Uhuru Highway - Haile Selassie,1/4/2025 18:45,33,183
+Waiyaki Way - Westlands,1/4/2025 18:45,38,194
+Ngong Road - Adams Arcade,1/4/2025 18:45,17,144
+Jogoo Road - City Stadium,1/4/2025 18:45,32,132
+Thika Road - Muthaiga,1/4/2025 19:00,32,146
+Uhuru Highway - Haile Selassie,1/4/2025 19:00,47,178
+Waiyaki Way - Westlands,1/4/2025 19:00,22,170
+Ngong Road - Adams Arcade,1/4/2025 19:00,21,134
+Jogoo Road - City Stadium,1/4/2025 19:00,26,146
+Thika Road - Muthaiga,1/4/2025 19:15,27,136
+Uhuru Highway - Haile Selassie,1/4/2025 19:15,29,174
+Waiyaki Way - Westlands,1/4/2025 19:15,47,116
+Ngong Road - Adams Arcade,1/4/2025 19:15,25,152
+Jogoo Road - City Stadium,1/4/2025 19:15,20,152
+Thika Road - Muthaiga,1/4/2025 19:30,52,169
+Uhuru Highway - Haile Selassie,1/4/2025 19:30,42,178
+Waiyaki Way - Westlands,1/4/2025 19:30,20,162
+Ngong Road - Adams Arcade,1/4/2025 19:30,29,129
+Jogoo Road - City Stadium,1/4/2025 19:30,28,145
+Thika Road - Muthaiga,1/4/2025 19:45,36,142
+Uhuru Highway - Haile Selassie,1/4/2025 19:45,25,176
+Waiyaki Way - Westlands,1/4/2025 19:45,20,149
+Ngong Road - Adams Arcade,1/4/2025 19:45,11,150
+Jogoo Road - City Stadium,1/4/2025 19:45,41,169
+Thika Road - Muthaiga,1/4/2025 20:00,39,85
+Uhuru Highway - Haile Selassie,1/4/2025 20:00,54,104
+Waiyaki Way - Westlands,1/4/2025 20:00,45,84
+Ngong Road - Adams Arcade,1/4/2025 20:00,50,107
+Jogoo Road - City Stadium,1/4/2025 20:00,35,81
+Thika Road - Muthaiga,1/4/2025 20:15,58,85
+Uhuru Highway - Haile Selassie,1/4/2025 20:15,50,117
+Waiyaki Way - Westlands,1/4/2025 20:15,65,107
+Ngong Road - Adams Arcade,1/4/2025 20:15,44,97
+Jogoo Road - City Stadium,1/4/2025 20:15,45,92
+Thika Road - Muthaiga,1/4/2025 20:30,54,107
+Uhuru Highway - Haile Selassie,1/4/2025 20:30,55,110
+Waiyaki Way - Westlands,1/4/2025 20:30,39,92
+Ngong Road - Adams Arcade,1/4/2025 20:30,44,89
+Jogoo Road - City Stadium,1/4/2025 20:30,43,102
+Thika Road - Muthaiga,1/4/2025 20:45,52,108
+Uhuru Highway - Haile Selassie,1/4/2025 20:45,41,135
+Waiyaki Way - Westlands,1/4/2025 20:45,53,106
+Ngong Road - Adams Arcade,1/4/2025 20:45,48,73
+Jogoo Road - City Stadium,1/4/2025 20:45,30,114
+Thika Road - Muthaiga,1/4/2025 21:00,40,97
+Uhuru Highway - Haile Selassie,1/4/2025 21:00,68,95
+Waiyaki Way - Westlands,1/4/2025 21:00,40,91
+Ngong Road - Adams Arcade,1/4/2025 21:00,61,82
+Jogoo Road - City Stadium,1/4/2025 21:00,39,67
+Thika Road - Muthaiga,1/4/2025 21:15,74,112
+Uhuru Highway - Haile Selassie,1/4/2025 21:15,45,108
+Waiyaki Way - Westlands,1/4/2025 21:15,62,131
+Ngong Road - Adams Arcade,1/4/2025 21:15,38,95
+Jogoo Road - City Stadium,1/4/2025 21:15,46,94
+Thika Road - Muthaiga,1/4/2025 21:30,71,94
+Uhuru Highway - Haile Selassie,1/4/2025 21:30,46,123
+Waiyaki Way - Westlands,1/4/2025 21:30,52,120
+Ngong Road - Adams Arcade,1/4/2025 21:30,56,95
+Jogoo Road - City Stadium,1/4/2025 21:30,47,78
+Thika Road - Muthaiga,1/4/2025 21:45,47,82
+Uhuru Highway - Haile Selassie,1/4/2025 21:45,75,115
+Waiyaki Way - Westlands,1/4/2025 21:45,49,72
+Ngong Road - Adams Arcade,1/4/2025 21:45,45,94
+Jogoo Road - City Stadium,1/4/2025 21:45,37,93
+Thika Road - Muthaiga,1/4/2025 22:00,53,93
+Uhuru Highway - Haile Selassie,1/4/2025 22:00,64,77
+Waiyaki Way - Westlands,1/4/2025 22:00,50,114
+Ngong Road - Adams Arcade,1/4/2025 22:00,53,88
+Jogoo Road - City Stadium,1/4/2025 22:00,55,98
+Thika Road - Muthaiga,1/4/2025 22:15,70,85
+Uhuru Highway - Haile Selassie,1/4/2025 22:15,56,114
+Waiyaki Way - Westlands,1/4/2025 22:15,52,80
+Ngong Road - Adams Arcade,1/4/2025 22:15,39,72
+Jogoo Road - City Stadium,1/4/2025 22:15,39,82
+Thika Road - Muthaiga,1/4/2025 22:30,70,121
+Uhuru Highway - Haile Selassie,1/4/2025 22:30,45,138
+Waiyaki Way - Westlands,1/4/2025 22:30,39,101
+Ngong Road - Adams Arcade,1/4/2025 22:30,37,74
+Jogoo Road - City Stadium,1/4/2025 22:30,44,113
+Thika Road - Muthaiga,1/4/2025 22:45,64,106
+Uhuru Highway - Haile Selassie,1/4/2025 22:45,43,144
+Waiyaki Way - Westlands,1/4/2025 22:45,59,118
+Ngong Road - Adams Arcade,1/4/2025 22:45,53,70
+Jogoo Road - City Stadium,1/4/2025 22:45,46,100
+Thika Road - Muthaiga,1/4/2025 23:00,54,77
+Uhuru Highway - Haile Selassie,1/4/2025 23:00,55,140
+Waiyaki Way - Westlands,1/4/2025 23:00,43,111
+Ngong Road - Adams Arcade,1/4/2025 23:00,53,73
+Jogoo Road - City Stadium,1/4/2025 23:00,44,74
+Thika Road - Muthaiga,1/4/2025 23:15,60,90
+Uhuru Highway - Haile Selassie,1/4/2025 23:15,58,107
+Waiyaki Way - Westlands,1/4/2025 23:15,55,110
+Ngong Road - Adams Arcade,1/4/2025 23:15,42,70
+Jogoo Road - City Stadium,1/4/2025 23:15,55,112
+Thika Road - Muthaiga,1/4/2025 23:30,62,69
+Uhuru Highway - Haile Selassie,1/4/2025 23:30,55,80
+Waiyaki Way - Westlands,1/4/2025 23:30,42,128
+Ngong Road - Adams Arcade,1/4/2025 23:30,51,72
+Jogoo Road - City Stadium,1/4/2025 23:30,42,71
+Thika Road - Muthaiga,1/4/2025 23:45,54,98
+Uhuru Highway - Haile Selassie,1/4/2025 23:45,60,106
+Waiyaki Way - Westlands,1/4/2025 23:45,52,106
+Ngong Road - Adams Arcade,1/4/2025 23:45,47,79
+Jogoo Road - City Stadium,1/4/2025 23:45,51,93
+Thika Road - Muthaiga,1/5/2025 0:00,58,82
+Uhuru Highway - Haile Selassie,1/5/2025 0:00,54,95
+Waiyaki Way - Westlands,1/5/2025 0:00,41,87
+Ngong Road - Adams Arcade,1/5/2025 0:00,46,88
+Jogoo Road - City Stadium,1/5/2025 0:00,44,106
+Thika Road - Muthaiga,1/5/2025 0:15,64,96
+Uhuru Highway - Haile Selassie,1/5/2025 0:15,48,116
+Waiyaki Way - Westlands,1/5/2025 0:15,52,102
+Ngong Road - Adams Arcade,1/5/2025 0:15,28,85
+Jogoo Road - City Stadium,1/5/2025 0:15,65,97
+Thika Road - Muthaiga,1/5/2025 0:30,54,84
+Uhuru Highway - Haile Selassie,1/5/2025 0:30,57,115
+Waiyaki Way - Westlands,1/5/2025 0:30,39,117
+Ngong Road - Adams Arcade,1/5/2025 0:30,49,95
+Jogoo Road - City Stadium,1/5/2025 0:30,50,92
+Thika Road - Muthaiga,1/5/2025 0:45,66,105
+Uhuru Highway - Haile Selassie,1/5/2025 0:45,61,92
+Waiyaki Way - Westlands,1/5/2025 0:45,50,99
+Ngong Road - Adams Arcade,1/5/2025 0:45,43,86
+Jogoo Road - City Stadium,1/5/2025 0:45,47,112
+Thika Road - Muthaiga,1/5/2025 1:00,56,73
+Uhuru Highway - Haile Selassie,1/5/2025 1:00,64,112
+Waiyaki Way - Westlands,1/5/2025 1:00,43,109
+Ngong Road - Adams Arcade,1/5/2025 1:00,47,122
+Jogoo Road - City Stadium,1/5/2025 1:00,46,114
+Thika Road - Muthaiga,1/5/2025 1:15,66,98
+Uhuru Highway - Haile Selassie,1/5/2025 1:15,63,128
+Waiyaki Way - Westlands,1/5/2025 1:15,47,113
+Ngong Road - Adams Arcade,1/5/2025 1:15,47,76
+Jogoo Road - City Stadium,1/5/2025 1:15,46,108
+Thika Road - Muthaiga,1/5/2025 1:30,71,105
+Uhuru Highway - Haile Selassie,1/5/2025 1:30,48,96
+Waiyaki Way - Westlands,1/5/2025 1:30,52,97
+Ngong Road - Adams Arcade,1/5/2025 1:30,55,77
+Jogoo Road - City Stadium,1/5/2025 1:30,48,101
+Thika Road - Muthaiga,1/5/2025 1:45,49,68
+Uhuru Highway - Haile Selassie,1/5/2025 1:45,37,114
+Waiyaki Way - Westlands,1/5/2025 1:45,48,115
+Ngong Road - Adams Arcade,1/5/2025 1:45,63,133
+Jogoo Road - City Stadium,1/5/2025 1:45,47,92
+Thika Road - Muthaiga,1/5/2025 2:00,73,104
+Uhuru Highway - Haile Selassie,1/5/2025 2:00,40,85
+Waiyaki Way - Westlands,1/5/2025 2:00,54,90
+Ngong Road - Adams Arcade,1/5/2025 2:00,53,92
+Jogoo Road - City Stadium,1/5/2025 2:00,29,77
+Thika Road - Muthaiga,1/5/2025 2:15,53,102
+Uhuru Highway - Haile Selassie,1/5/2025 2:15,56,79
+Waiyaki Way - Westlands,1/5/2025 2:15,49,111
+Ngong Road - Adams Arcade,1/5/2025 2:15,43,78
+Jogoo Road - City Stadium,1/5/2025 2:15,37,89
+Thika Road - Muthaiga,1/5/2025 2:30,64,79
+Uhuru Highway - Haile Selassie,1/5/2025 2:30,56,114
+Waiyaki Way - Westlands,1/5/2025 2:30,48,85
+Ngong Road - Adams Arcade,1/5/2025 2:30,46,52
+Jogoo Road - City Stadium,1/5/2025 2:30,36,116
+Thika Road - Muthaiga,1/5/2025 2:45,62,81
+Uhuru Highway - Haile Selassie,1/5/2025 2:45,51,128
+Waiyaki Way - Westlands,1/5/2025 2:45,34,89
+Ngong Road - Adams Arcade,1/5/2025 2:45,61,86
+Jogoo Road - City Stadium,1/5/2025 2:45,47,99
+Thika Road - Muthaiga,1/5/2025 3:00,59,94
+Uhuru Highway - Haile Selassie,1/5/2025 3:00,61,97
+Waiyaki Way - Westlands,1/5/2025 3:00,50,103
+Ngong Road - Adams Arcade,1/5/2025 3:00,55,70
+Jogoo Road - City Stadium,1/5/2025 3:00,43,104
+Thika Road - Muthaiga,1/5/2025 3:15,56,105
+Uhuru Highway - Haile Selassie,1/5/2025 3:15,48,98
+Waiyaki Way - Westlands,1/5/2025 3:15,53,73
+Ngong Road - Adams Arcade,1/5/2025 3:15,35,57
+Jogoo Road - City Stadium,1/5/2025 3:15,47,63
+Thika Road - Muthaiga,1/5/2025 3:30,57,87
+Uhuru Highway - Haile Selassie,1/5/2025 3:30,45,94
+Waiyaki Way - Westlands,1/5/2025 3:30,45,106
+Ngong Road - Adams Arcade,1/5/2025 3:30,37,89
+Jogoo Road - City Stadium,1/5/2025 3:30,58,97
+Thika Road - Muthaiga,1/5/2025 3:45,56,98
+Uhuru Highway - Haile Selassie,1/5/2025 3:45,53,113
+Waiyaki Way - Westlands,1/5/2025 3:45,47,100
+Ngong Road - Adams Arcade,1/5/2025 3:45,46,82
+Jogoo Road - City Stadium,1/5/2025 3:45,39,80
+Thika Road - Muthaiga,1/5/2025 4:00,47,69
+Uhuru Highway - Haile Selassie,1/5/2025 4:00,56,91
+Waiyaki Way - Westlands,1/5/2025 4:00,54,86
+Ngong Road - Adams Arcade,1/5/2025 4:00,29,85
+Jogoo Road - City Stadium,1/5/2025 4:00,54,104
+Thika Road - Muthaiga,1/5/2025 4:15,63,75
+Uhuru Highway - Haile Selassie,1/5/2025 4:15,55,97
+Waiyaki Way - Westlands,1/5/2025 4:15,35,81
+Ngong Road - Adams Arcade,1/5/2025 4:15,44,79
+Jogoo Road - City Stadium,1/5/2025 4:15,38,89
+Thika Road - Muthaiga,1/5/2025 4:30,62,84
+Uhuru Highway - Haile Selassie,1/5/2025 4:30,56,109
+Waiyaki Way - Westlands,1/5/2025 4:30,59,89
+Ngong Road - Adams Arcade,1/5/2025 4:30,48,67
+Jogoo Road - City Stadium,1/5/2025 4:30,51,112
+Thika Road - Muthaiga,1/5/2025 4:45,55,86
+Uhuru Highway - Haile Selassie,1/5/2025 4:45,43,125
+Waiyaki Way - Westlands,1/5/2025 4:45,46,85
+Ngong Road - Adams Arcade,1/5/2025 4:45,48,103
+Jogoo Road - City Stadium,1/5/2025 4:45,45,80
+Thika Road - Muthaiga,1/5/2025 5:00,54,80
+Uhuru Highway - Haile Selassie,1/5/2025 5:00,44,124
+Waiyaki Way - Westlands,1/5/2025 5:00,56,124
+Ngong Road - Adams Arcade,1/5/2025 5:00,41,101
+Jogoo Road - City Stadium,1/5/2025 5:00,36,92
+Thika Road - Muthaiga,1/5/2025 5:15,63,82
+Uhuru Highway - Haile Selassie,1/5/2025 5:15,46,129
+Waiyaki Way - Westlands,1/5/2025 5:15,48,94
+Ngong Road - Adams Arcade,1/5/2025 5:15,49,64
+Jogoo Road - City Stadium,1/5/2025 5:15,46,84
+Thika Road - Muthaiga,1/5/2025 5:30,53,83
+Uhuru Highway - Haile Selassie,1/5/2025 5:30,53,109
+Waiyaki Way - Westlands,1/5/2025 5:30,44,94
+Ngong Road - Adams Arcade,1/5/2025 5:30,58,89
+Jogoo Road - City Stadium,1/5/2025 5:30,55,97
+Thika Road - Muthaiga,1/5/2025 5:45,61,69
+Uhuru Highway - Haile Selassie,1/5/2025 5:45,43,93
+Waiyaki Way - Westlands,1/5/2025 5:45,59,88
+Ngong Road - Adams Arcade,1/5/2025 5:45,46,99
+Jogoo Road - City Stadium,1/5/2025 5:45,46,72
+Thika Road - Muthaiga,1/5/2025 6:00,61,94
+Uhuru Highway - Haile Selassie,1/5/2025 6:00,47,82
+Waiyaki Way - Westlands,1/5/2025 6:00,54,99
+Ngong Road - Adams Arcade,1/5/2025 6:00,43,52
+Jogoo Road - City Stadium,1/5/2025 6:00,54,97
+Thika Road - Muthaiga,1/5/2025 6:15,64,100
+Uhuru Highway - Haile Selassie,1/5/2025 6:15,39,98
+Waiyaki Way - Westlands,1/5/2025 6:15,58,94
+Ngong Road - Adams Arcade,1/5/2025 6:15,50,105
+Jogoo Road - City Stadium,1/5/2025 6:15,51,101
+Thika Road - Muthaiga,1/5/2025 6:30,58,81
+Uhuru Highway - Haile Selassie,1/5/2025 6:30,47,135
+Waiyaki Way - Westlands,1/5/2025 6:30,47,124
+Ngong Road - Adams Arcade,1/5/2025 6:30,33,104
+Jogoo Road - City Stadium,1/5/2025 6:30,42,103
+Thika Road - Muthaiga,1/5/2025 6:45,61,68
+Uhuru Highway - Haile Selassie,1/5/2025 6:45,48,125
+Waiyaki Way - Westlands,1/5/2025 6:45,49,77
+Ngong Road - Adams Arcade,1/5/2025 6:45,49,83
+Jogoo Road - City Stadium,1/5/2025 6:45,47,109
+Thika Road - Muthaiga,1/5/2025 7:00,39,171
+Uhuru Highway - Haile Selassie,1/5/2025 7:00,21,170
+Waiyaki Way - Westlands,1/5/2025 7:00,28,156
+Ngong Road - Adams Arcade,1/5/2025 7:00,31,150
+Jogoo Road - City Stadium,1/5/2025 7:00,31,134
+Thika Road - Muthaiga,1/5/2025 7:15,49,154
+Uhuru Highway - Haile Selassie,1/5/2025 7:15,40,189
+Waiyaki Way - Westlands,1/5/2025 7:15,34,160
+Ngong Road - Adams Arcade,1/5/2025 7:15,17,154
+Jogoo Road - City Stadium,1/5/2025 7:15,23,146
+Thika Road - Muthaiga,1/5/2025 7:30,47,149
+Uhuru Highway - Haile Selassie,1/5/2025 7:30,15,167
+Waiyaki Way - Westlands,1/5/2025 7:30,38,153
+Ngong Road - Adams Arcade,1/5/2025 7:30,31,144
+Jogoo Road - City Stadium,1/5/2025 7:30,19,147
+Thika Road - Muthaiga,1/5/2025 7:45,30,151
+Uhuru Highway - Haile Selassie,1/5/2025 7:45,38,208
+Waiyaki Way - Westlands,1/5/2025 7:45,26,151
+Ngong Road - Adams Arcade,1/5/2025 7:45,26,134
+Jogoo Road - City Stadium,1/5/2025 7:45,31,168
+Thika Road - Muthaiga,1/5/2025 8:00,52,133
+Uhuru Highway - Haile Selassie,1/5/2025 8:00,40,176
+Waiyaki Way - Westlands,1/5/2025 8:00,34,150
+Ngong Road - Adams Arcade,1/5/2025 8:00,13,140
+Jogoo Road - City Stadium,1/5/2025 8:00,40,182
+Thika Road - Muthaiga,1/5/2025 8:15,28,138
+Uhuru Highway - Haile Selassie,1/5/2025 8:15,35,181
+Waiyaki Way - Westlands,1/5/2025 8:15,32,165
+Ngong Road - Adams Arcade,1/5/2025 8:15,39,143
+Jogoo Road - City Stadium,1/5/2025 8:15,21,160
+Thika Road - Muthaiga,1/5/2025 8:30,50,164
+Uhuru Highway - Haile Selassie,1/5/2025 8:30,25,223
+Waiyaki Way - Westlands,1/5/2025 8:30,14,163
+Ngong Road - Adams Arcade,1/5/2025 8:30,23,144
+Jogoo Road - City Stadium,1/5/2025 8:30,23,180
+Thika Road - Muthaiga,1/5/2025 8:45,33,118
+Uhuru Highway - Haile Selassie,1/5/2025 8:45,40,146
+Waiyaki Way - Westlands,1/5/2025 8:45,31,129
+Ngong Road - Adams Arcade,1/5/2025 8:45,25,104
+Jogoo Road - City Stadium,1/5/2025 8:45,32,176
+Thika Road - Muthaiga,1/5/2025 9:00,37,131
+Uhuru Highway - Haile Selassie,1/5/2025 9:00,38,176
+Waiyaki Way - Westlands,1/5/2025 9:00,35,139
+Ngong Road - Adams Arcade,1/5/2025 9:00,23,95
+Jogoo Road - City Stadium,1/5/2025 9:00,35,144
+Thika Road - Muthaiga,1/5/2025 9:15,26,144
+Uhuru Highway - Haile Selassie,1/5/2025 9:15,35,161
+Waiyaki Way - Westlands,1/5/2025 9:15,26,158
+Ngong Road - Adams Arcade,1/5/2025 9:15,33,128
+Jogoo Road - City Stadium,1/5/2025 9:15,29,144
+Thika Road - Muthaiga,1/5/2025 9:30,26,176
+Uhuru Highway - Haile Selassie,1/5/2025 9:30,40,148
+Waiyaki Way - Westlands,1/5/2025 9:30,28,149
+Ngong Road - Adams Arcade,1/5/2025 9:30,26,124
+Jogoo Road - City Stadium,1/5/2025 9:30,36,175
+Thika Road - Muthaiga,1/5/2025 9:45,26,156
+Uhuru Highway - Haile Selassie,1/5/2025 9:45,11,158
+Waiyaki Way - Westlands,1/5/2025 9:45,38,147
+Ngong Road - Adams Arcade,1/5/2025 9:45,26,143
+Jogoo Road - City Stadium,1/5/2025 9:45,24,151
+Thika Road - Muthaiga,1/5/2025 10:00,66,93
+Uhuru Highway - Haile Selassie,1/5/2025 10:00,57,85
+Waiyaki Way - Westlands,1/5/2025 10:00,46,113
+Ngong Road - Adams Arcade,1/5/2025 10:00,67,95
+Jogoo Road - City Stadium,1/5/2025 10:00,51,93
+Thika Road - Muthaiga,1/5/2025 10:15,61,78
+Uhuru Highway - Haile Selassie,1/5/2025 10:15,56,116
+Waiyaki Way - Westlands,1/5/2025 10:15,51,84
+Ngong Road - Adams Arcade,1/5/2025 10:15,48,106
+Jogoo Road - City Stadium,1/5/2025 10:15,46,109
+Thika Road - Muthaiga,1/5/2025 10:30,62,101
+Uhuru Highway - Haile Selassie,1/5/2025 10:30,57,95
+Waiyaki Way - Westlands,1/5/2025 10:30,44,85
+Ngong Road - Adams Arcade,1/5/2025 10:30,47,87
+Jogoo Road - City Stadium,1/5/2025 10:30,56,77
+Thika Road - Muthaiga,1/5/2025 10:45,54,98
+Uhuru Highway - Haile Selassie,1/5/2025 10:45,53,86
+Waiyaki Way - Westlands,1/5/2025 10:45,50,93
+Ngong Road - Adams Arcade,1/5/2025 10:45,28,79
+Jogoo Road - City Stadium,1/5/2025 10:45,45,89
+Thika Road - Muthaiga,1/5/2025 11:00,54,99
+Uhuru Highway - Haile Selassie,1/5/2025 11:00,39,135
+Waiyaki Way - Westlands,1/5/2025 11:00,48,119
+Ngong Road - Adams Arcade,1/5/2025 11:00,45,97
+Jogoo Road - City Stadium,1/5/2025 11:00,44,112
+Thika Road - Muthaiga,1/5/2025 11:15,71,73
+Uhuru Highway - Haile Selassie,1/5/2025 11:15,56,108
+Waiyaki Way - Westlands,1/5/2025 11:15,41,118
+Ngong Road - Adams Arcade,1/5/2025 11:15,40,93
+Jogoo Road - City Stadium,1/5/2025 11:15,48,93
+Thika Road - Muthaiga,1/5/2025 11:30,53,67
+Uhuru Highway - Haile Selassie,1/5/2025 11:30,62,130
+Waiyaki Way - Westlands,1/5/2025 11:30,51,99
+Ngong Road - Adams Arcade,1/5/2025 11:30,55,80
+Jogoo Road - City Stadium,1/5/2025 11:30,49,91
+Thika Road - Muthaiga,1/5/2025 11:45,53,107
+Uhuru Highway - Haile Selassie,1/5/2025 11:45,42,133
+Waiyaki Way - Westlands,1/5/2025 11:45,47,124
+Ngong Road - Adams Arcade,1/5/2025 11:45,29,81
+Jogoo Road - City Stadium,1/5/2025 11:45,39,88
+Thika Road - Muthaiga,1/5/2025 12:00,58,80
+Uhuru Highway - Haile Selassie,1/5/2025 12:00,56,124
+Waiyaki Way - Westlands,1/5/2025 12:00,41,104
+Ngong Road - Adams Arcade,1/5/2025 12:00,59,71
+Jogoo Road - City Stadium,1/5/2025 12:00,61,83
+Thika Road - Muthaiga,1/5/2025 12:15,60,86
+Uhuru Highway - Haile Selassie,1/5/2025 12:15,65,126
+Waiyaki Way - Westlands,1/5/2025 12:15,46,98
+Ngong Road - Adams Arcade,1/5/2025 12:15,47,84
+Jogoo Road - City Stadium,1/5/2025 12:15,48,108
+Thika Road - Muthaiga,1/5/2025 12:30,73,99
+Uhuru Highway - Haile Selassie,1/5/2025 12:30,57,115
+Waiyaki Way - Westlands,1/5/2025 12:30,28,77
+Ngong Road - Adams Arcade,1/5/2025 12:30,44,90
+Jogoo Road - City Stadium,1/5/2025 12:30,49,87
+Thika Road - Muthaiga,1/5/2025 12:45,69,89
+Uhuru Highway - Haile Selassie,1/5/2025 12:45,49,111
+Waiyaki Way - Westlands,1/5/2025 12:45,48,114
+Ngong Road - Adams Arcade,1/5/2025 12:45,41,92
+Jogoo Road - City Stadium,1/5/2025 12:45,48,85
+Thika Road - Muthaiga,1/5/2025 13:00,63,90
+Uhuru Highway - Haile Selassie,1/5/2025 13:00,40,105
+Waiyaki Way - Westlands,1/5/2025 13:00,56,93
+Ngong Road - Adams Arcade,1/5/2025 13:00,43,80
+Jogoo Road - City Stadium,1/5/2025 13:00,42,109
+Thika Road - Muthaiga,1/5/2025 13:15,58,66
+Uhuru Highway - Haile Selassie,1/5/2025 13:15,47,102
+Waiyaki Way - Westlands,1/5/2025 13:15,53,97
+Ngong Road - Adams Arcade,1/5/2025 13:15,47,84
+Jogoo Road - City Stadium,1/5/2025 13:15,45,122
+Thika Road - Muthaiga,1/5/2025 13:30,55,94
+Uhuru Highway - Haile Selassie,1/5/2025 13:30,50,97
+Waiyaki Way - Westlands,1/5/2025 13:30,52,92
+Ngong Road - Adams Arcade,1/5/2025 13:30,39,120
+Jogoo Road - City Stadium,1/5/2025 13:30,47,88
+Thika Road - Muthaiga,1/5/2025 13:45,62,95
+Uhuru Highway - Haile Selassie,1/5/2025 13:45,35,129
+Waiyaki Way - Westlands,1/5/2025 13:45,46,64
+Ngong Road - Adams Arcade,1/5/2025 13:45,32,101
+Jogoo Road - City Stadium,1/5/2025 13:45,52,49
+Thika Road - Muthaiga,1/5/2025 14:00,51,93
+Uhuru Highway - Haile Selassie,1/5/2025 14:00,47,95
+Waiyaki Way - Westlands,1/5/2025 14:00,44,101
+Ngong Road - Adams Arcade,1/5/2025 14:00,22,92
+Jogoo Road - City Stadium,1/5/2025 14:00,38,82
+Thika Road - Muthaiga,1/5/2025 14:15,55,86
+Uhuru Highway - Haile Selassie,1/5/2025 14:15,40,121
+Waiyaki Way - Westlands,1/5/2025 14:15,54,100
+Ngong Road - Adams Arcade,1/5/2025 14:15,41,112
+Jogoo Road - City Stadium,1/5/2025 14:15,33,99
+Thika Road - Muthaiga,1/5/2025 14:30,66,54
+Uhuru Highway - Haile Selassie,1/5/2025 14:30,64,109
+Waiyaki Way - Westlands,1/5/2025 14:30,54,79
+Ngong Road - Adams Arcade,1/5/2025 14:30,48,113
+Jogoo Road - City Stadium,1/5/2025 14:30,48,99
+Thika Road - Muthaiga,1/5/2025 14:45,70,66
+Uhuru Highway - Haile Selassie,1/5/2025 14:45,59,100
+Waiyaki Way - Westlands,1/5/2025 14:45,40,76
+Ngong Road - Adams Arcade,1/5/2025 14:45,42,106
+Jogoo Road - City Stadium,1/5/2025 14:45,47,116
+Thika Road - Muthaiga,1/5/2025 15:00,67,62
+Uhuru Highway - Haile Selassie,1/5/2025 15:00,60,101
+Waiyaki Way - Westlands,1/5/2025 15:00,37,100
+Ngong Road - Adams Arcade,1/5/2025 15:00,62,87
+Jogoo Road - City Stadium,1/5/2025 15:00,47,102
+Thika Road - Muthaiga,1/5/2025 15:15,61,106
+Uhuru Highway - Haile Selassie,1/5/2025 15:15,46,113
+Waiyaki Way - Westlands,1/5/2025 15:15,58,103
+Ngong Road - Adams Arcade,1/5/2025 15:15,56,72
+Jogoo Road - City Stadium,1/5/2025 15:15,40,93
+Thika Road - Muthaiga,1/5/2025 15:30,57,104
+Uhuru Highway - Haile Selassie,1/5/2025 15:30,52,121
+Waiyaki Way - Westlands,1/5/2025 15:30,53,99
+Ngong Road - Adams Arcade,1/5/2025 15:30,29,89
+Jogoo Road - City Stadium,1/5/2025 15:30,55,78
+Thika Road - Muthaiga,1/5/2025 15:45,55,88
+Uhuru Highway - Haile Selassie,1/5/2025 15:45,46,89
+Waiyaki Way - Westlands,1/5/2025 15:45,49,69
+Ngong Road - Adams Arcade,1/5/2025 15:45,37,76
+Jogoo Road - City Stadium,1/5/2025 15:45,50,93
+Thika Road - Muthaiga,1/5/2025 16:00,25,175
+Uhuru Highway - Haile Selassie,1/5/2025 16:00,42,193
+Waiyaki Way - Westlands,1/5/2025 16:00,32,148
+Ngong Road - Adams Arcade,1/5/2025 16:00,29,129
+Jogoo Road - City Stadium,1/5/2025 16:00,34,174
+Thika Road - Muthaiga,1/5/2025 16:15,34,151
+Uhuru Highway - Haile Selassie,1/5/2025 16:15,32,153
+Waiyaki Way - Westlands,1/5/2025 16:15,19,178
+Ngong Road - Adams Arcade,1/5/2025 16:15,29,120
+Jogoo Road - City Stadium,1/5/2025 16:15,23,137
+Thika Road - Muthaiga,1/5/2025 16:30,26,137
+Uhuru Highway - Haile Selassie,1/5/2025 16:30,40,161
+Waiyaki Way - Westlands,1/5/2025 16:30,18,140
+Ngong Road - Adams Arcade,1/5/2025 16:30,33,126
+Jogoo Road - City Stadium,1/5/2025 16:30,26,149
+Thika Road - Muthaiga,1/5/2025 16:45,23,144
+Uhuru Highway - Haile Selassie,1/5/2025 16:45,37,183
+Waiyaki Way - Westlands,1/5/2025 16:45,39,153
+Ngong Road - Adams Arcade,1/5/2025 16:45,37,119
+Jogoo Road - City Stadium,1/5/2025 16:45,27,154
+Thika Road - Muthaiga,1/5/2025 17:00,36,143
+Uhuru Highway - Haile Selassie,1/5/2025 17:00,25,194
+Waiyaki Way - Westlands,1/5/2025 17:00,39,148
+Ngong Road - Adams Arcade,1/5/2025 17:00,35,127
+Jogoo Road - City Stadium,1/5/2025 17:00,26,177
+Thika Road - Muthaiga,1/5/2025 17:15,28,154
+Uhuru Highway - Haile Selassie,1/5/2025 17:15,35,187
+Waiyaki Way - Westlands,1/5/2025 17:15,26,167
+Ngong Road - Adams Arcade,1/5/2025 17:15,32,111
+Jogoo Road - City Stadium,1/5/2025 17:15,27,121
+Thika Road - Muthaiga,1/5/2025 17:30,39,158
+Uhuru Highway - Haile Selassie,1/5/2025 17:30,42,205
+Waiyaki Way - Westlands,1/5/2025 17:30,31,150
+Ngong Road - Adams Arcade,1/5/2025 17:30,15,135
+Jogoo Road - City Stadium,1/5/2025 17:30,25,137
+Thika Road - Muthaiga,1/5/2025 17:45,37,113
+Uhuru Highway - Haile Selassie,1/5/2025 17:45,20,172
+Waiyaki Way - Westlands,1/5/2025 17:45,36,166
+Ngong Road - Adams Arcade,1/5/2025 17:45,25,139
+Jogoo Road - City Stadium,1/5/2025 17:45,35,160
+Thika Road - Muthaiga,1/5/2025 18:00,30,148
+Uhuru Highway - Haile Selassie,1/5/2025 18:00,43,180
+Waiyaki Way - Westlands,1/5/2025 18:00,48,151
+Ngong Road - Adams Arcade,1/5/2025 18:00,28,128
+Jogoo Road - City Stadium,1/5/2025 18:00,31,141
+Thika Road - Muthaiga,1/5/2025 18:15,33,117
+Uhuru Highway - Haile Selassie,1/5/2025 18:15,35,159
+Waiyaki Way - Westlands,1/5/2025 18:15,36,174
+Ngong Road - Adams Arcade,1/5/2025 18:15,44,100
+Jogoo Road - City Stadium,1/5/2025 18:15,23,156
+Thika Road - Muthaiga,1/5/2025 18:30,38,146
+Uhuru Highway - Haile Selassie,1/5/2025 18:30,35,165
+Waiyaki Way - Westlands,1/5/2025 18:30,28,150
+Ngong Road - Adams Arcade,1/5/2025 18:30,16,125
+Jogoo Road - City Stadium,1/5/2025 18:30,34,154
+Thika Road - Muthaiga,1/5/2025 18:45,44,151
+Uhuru Highway - Haile Selassie,1/5/2025 18:45,30,180
+Waiyaki Way - Westlands,1/5/2025 18:45,20,172
+Ngong Road - Adams Arcade,1/5/2025 18:45,20,122
+Jogoo Road - City Stadium,1/5/2025 18:45,37,168
+Thika Road - Muthaiga,1/5/2025 19:00,46,151
+Uhuru Highway - Haile Selassie,1/5/2025 19:00,37,162
+Waiyaki Way - Westlands,1/5/2025 19:00,38,158
+Ngong Road - Adams Arcade,1/5/2025 19:00,25,134
+Jogoo Road - City Stadium,1/5/2025 19:00,37,160
+Thika Road - Muthaiga,1/5/2025 19:15,37,133
+Uhuru Highway - Haile Selassie,1/5/2025 19:15,14,160
+Waiyaki Way - Westlands,1/5/2025 19:15,36,163
+Ngong Road - Adams Arcade,1/5/2025 19:15,12,139
+Jogoo Road - City Stadium,1/5/2025 19:15,12,146
+Thika Road - Muthaiga,1/5/2025 19:30,28,164
+Uhuru Highway - Haile Selassie,1/5/2025 19:30,41,194
+Waiyaki Way - Westlands,1/5/2025 19:30,22,146
+Ngong Road - Adams Arcade,1/5/2025 19:30,21,141
+Jogoo Road - City Stadium,1/5/2025 19:30,26,153
+Thika Road - Muthaiga,1/5/2025 19:45,19,117
+Uhuru Highway - Haile Selassie,1/5/2025 19:45,29,179
+Waiyaki Way - Westlands,1/5/2025 19:45,36,151
+Ngong Road - Adams Arcade,1/5/2025 19:45,25,153
+Jogoo Road - City Stadium,1/5/2025 19:45,34,146
+Thika Road - Muthaiga,1/5/2025 20:00,61,69
+Uhuru Highway - Haile Selassie,1/5/2025 20:00,60,118
+Waiyaki Way - Westlands,1/5/2025 20:00,43,70
+Ngong Road - Adams Arcade,1/5/2025 20:00,45,71
+Jogoo Road - City Stadium,1/5/2025 20:00,59,102
+Thika Road - Muthaiga,1/5/2025 20:15,56,82
+Uhuru Highway - Haile Selassie,1/5/2025 20:15,57,127
+Waiyaki Way - Westlands,1/5/2025 20:15,52,119
+Ngong Road - Adams Arcade,1/5/2025 20:15,34,67
+Jogoo Road - City Stadium,1/5/2025 20:15,53,71
+Thika Road - Muthaiga,1/5/2025 20:30,74,107
+Uhuru Highway - Haile Selassie,1/5/2025 20:30,64,122
+Waiyaki Way - Westlands,1/5/2025 20:30,40,91
+Ngong Road - Adams Arcade,1/5/2025 20:30,48,97
+Jogoo Road - City Stadium,1/5/2025 20:30,51,96
+Thika Road - Muthaiga,1/5/2025 20:45,70,94
+Uhuru Highway - Haile Selassie,1/5/2025 20:45,59,129
+Waiyaki Way - Westlands,1/5/2025 20:45,54,112
+Ngong Road - Adams Arcade,1/5/2025 20:45,51,78
+Jogoo Road - City Stadium,1/5/2025 20:45,56,74
+Thika Road - Muthaiga,1/5/2025 21:00,62,72
+Uhuru Highway - Haile Selassie,1/5/2025 21:00,59,97
+Waiyaki Way - Westlands,1/5/2025 21:00,37,99
+Ngong Road - Adams Arcade,1/5/2025 21:00,40,91
+Jogoo Road - City Stadium,1/5/2025 21:00,48,108
+Thika Road - Muthaiga,1/5/2025 21:15,52,95
+Uhuru Highway - Haile Selassie,1/5/2025 21:15,51,101
+Waiyaki Way - Westlands,1/5/2025 21:15,63,112
+Ngong Road - Adams Arcade,1/5/2025 21:15,53,72
+Jogoo Road - City Stadium,1/5/2025 21:15,38,62
+Thika Road - Muthaiga,1/5/2025 21:30,49,75
+Uhuru Highway - Haile Selassie,1/5/2025 21:30,58,86
+Waiyaki Way - Westlands,1/5/2025 21:30,53,96
+Ngong Road - Adams Arcade,1/5/2025 21:30,47,95
+Jogoo Road - City Stadium,1/5/2025 21:30,47,104
+Thika Road - Muthaiga,1/5/2025 21:45,68,72
+Uhuru Highway - Haile Selassie,1/5/2025 21:45,47,101
+Waiyaki Way - Westlands,1/5/2025 21:45,42,97
+Ngong Road - Adams Arcade,1/5/2025 21:45,47,78
+Jogoo Road - City Stadium,1/5/2025 21:45,40,100
+Thika Road - Muthaiga,1/5/2025 22:00,68,82
+Uhuru Highway - Haile Selassie,1/5/2025 22:00,71,117
+Waiyaki Way - Westlands,1/5/2025 22:00,59,117
+Ngong Road - Adams Arcade,1/5/2025 22:00,51,64
+Jogoo Road - City Stadium,1/5/2025 22:00,43,94
+Thika Road - Muthaiga,1/5/2025 22:15,67,92
+Uhuru Highway - Haile Selassie,1/5/2025 22:15,47,117
+Waiyaki Way - Westlands,1/5/2025 22:15,44,111
+Ngong Road - Adams Arcade,1/5/2025 22:15,42,88
+Jogoo Road - City Stadium,1/5/2025 22:15,54,91
+Thika Road - Muthaiga,1/5/2025 22:30,75,74
+Uhuru Highway - Haile Selassie,1/5/2025 22:30,50,82
+Waiyaki Way - Westlands,1/5/2025 22:30,54,105
+Ngong Road - Adams Arcade,1/5/2025 22:30,44,83
+Jogoo Road - City Stadium,1/5/2025 22:30,46,101
+Thika Road - Muthaiga,1/5/2025 22:45,66,110
+Uhuru Highway - Haile Selassie,1/5/2025 22:45,47,123
+Waiyaki Way - Westlands,1/5/2025 22:45,47,98
+Ngong Road - Adams Arcade,1/5/2025 22:45,47,69
+Jogoo Road - City Stadium,1/5/2025 22:45,53,86
+Thika Road - Muthaiga,1/5/2025 23:00,73,73
+Uhuru Highway - Haile Selassie,1/5/2025 23:00,56,96
+Waiyaki Way - Westlands,1/5/2025 23:00,45,111
+Ngong Road - Adams Arcade,1/5/2025 23:00,35,97
+Jogoo Road - City Stadium,1/5/2025 23:00,48,116
+Thika Road - Muthaiga,1/5/2025 23:15,57,81
+Uhuru Highway - Haile Selassie,1/5/2025 23:15,50,122
+Waiyaki Way - Westlands,1/5/2025 23:15,48,88
+Ngong Road - Adams Arcade,1/5/2025 23:15,59,67
+Jogoo Road - City Stadium,1/5/2025 23:15,54,86
+Thika Road - Muthaiga,1/5/2025 23:30,52,93
+Uhuru Highway - Haile Selassie,1/5/2025 23:30,61,109
+Waiyaki Way - Westlands,1/5/2025 23:30,59,97
+Ngong Road - Adams Arcade,1/5/2025 23:30,52,100
+Jogoo Road - City Stadium,1/5/2025 23:30,39,88
+Thika Road - Muthaiga,1/5/2025 23:45,61,80
+Uhuru Highway - Haile Selassie,1/5/2025 23:45,37,118
+Waiyaki Way - Westlands,1/5/2025 23:45,51,99
+Ngong Road - Adams Arcade,1/5/2025 23:45,55,80
+Jogoo Road - City Stadium,1/5/2025 23:45,58,101
+Thika Road - Muthaiga,1/6/2025 0:00,67,86
+Uhuru Highway - Haile Selassie,1/6/2025 0:00,65,134
+Waiyaki Way - Westlands,1/6/2025 0:00,47,83
+Ngong Road - Adams Arcade,1/6/2025 0:00,48,79
+Jogoo Road - City Stadium,1/6/2025 0:00,41,105
+Thika Road - Muthaiga,1/6/2025 0:15,43,91
+Uhuru Highway - Haile Selassie,1/6/2025 0:15,50,131
+Waiyaki Way - Westlands,1/6/2025 0:15,47,100
+Ngong Road - Adams Arcade,1/6/2025 0:15,22,102
+Jogoo Road - City Stadium,1/6/2025 0:15,47,94
+Thika Road - Muthaiga,1/6/2025 0:30,73,83
+Uhuru Highway - Haile Selassie,1/6/2025 0:30,61,96
+Waiyaki Way - Westlands,1/6/2025 0:30,60,105
+Ngong Road - Adams Arcade,1/6/2025 0:30,39,74
+Jogoo Road - City Stadium,1/6/2025 0:30,51,111
+Thika Road - Muthaiga,1/6/2025 0:45,55,66
+Uhuru Highway - Haile Selassie,1/6/2025 0:45,61,115
+Waiyaki Way - Westlands,1/6/2025 0:45,26,89
+Ngong Road - Adams Arcade,1/6/2025 0:45,35,92
+Jogoo Road - City Stadium,1/6/2025 0:45,25,64
+Thika Road - Muthaiga,1/6/2025 1:00,61,102
+Uhuru Highway - Haile Selassie,1/6/2025 1:00,66,106
+Waiyaki Way - Westlands,1/6/2025 1:00,62,109
+Ngong Road - Adams Arcade,1/6/2025 1:00,44,64
+Jogoo Road - City Stadium,1/6/2025 1:00,46,70
+Thika Road - Muthaiga,1/6/2025 1:15,65,86
+Uhuru Highway - Haile Selassie,1/6/2025 1:15,59,110
+Waiyaki Way - Westlands,1/6/2025 1:15,67,110
+Ngong Road - Adams Arcade,1/6/2025 1:15,37,80
+Jogoo Road - City Stadium,1/6/2025 1:15,41,98
+Thika Road - Muthaiga,1/6/2025 1:30,57,112
+Uhuru Highway - Haile Selassie,1/6/2025 1:30,51,101
+Waiyaki Way - Westlands,1/6/2025 1:30,48,110
+Ngong Road - Adams Arcade,1/6/2025 1:30,58,75
+Jogoo Road - City Stadium,1/6/2025 1:30,48,82
+Thika Road - Muthaiga,1/6/2025 1:45,46,99
+Uhuru Highway - Haile Selassie,1/6/2025 1:45,46,117
+Waiyaki Way - Westlands,1/6/2025 1:45,42,112
+Ngong Road - Adams Arcade,1/6/2025 1:45,53,95
+Jogoo Road - City Stadium,1/6/2025 1:45,50,107
+Thika Road - Muthaiga,1/6/2025 2:00,55,86
+Uhuru Highway - Haile Selassie,1/6/2025 2:00,49,132
+Waiyaki Way - Westlands,1/6/2025 2:00,55,84
+Ngong Road - Adams Arcade,1/6/2025 2:00,37,73
+Jogoo Road - City Stadium,1/6/2025 2:00,44,73
+Thika Road - Muthaiga,1/6/2025 2:15,61,88
+Uhuru Highway - Haile Selassie,1/6/2025 2:15,59,124
+Waiyaki Way - Westlands,1/6/2025 2:15,48,97
+Ngong Road - Adams Arcade,1/6/2025 2:15,55,92
+Jogoo Road - City Stadium,1/6/2025 2:15,44,96
+Thika Road - Muthaiga,1/6/2025 2:30,48,75
+Uhuru Highway - Haile Selassie,1/6/2025 2:30,59,119
+Waiyaki Way - Westlands,1/6/2025 2:30,48,108
+Ngong Road - Adams Arcade,1/6/2025 2:30,41,106
+Jogoo Road - City Stadium,1/6/2025 2:30,47,109
+Thika Road - Muthaiga,1/6/2025 2:45,64,80
+Uhuru Highway - Haile Selassie,1/6/2025 2:45,57,116
+Waiyaki Way - Westlands,1/6/2025 2:45,49,101
+Ngong Road - Adams Arcade,1/6/2025 2:45,54,120
+Jogoo Road - City Stadium,1/6/2025 2:45,48,105
+Thika Road - Muthaiga,1/6/2025 3:00,64,105
+Uhuru Highway - Haile Selassie,1/6/2025 3:00,52,110
+Waiyaki Way - Westlands,1/6/2025 3:00,24,98
+Ngong Road - Adams Arcade,1/6/2025 3:00,41,88
+Jogoo Road - City Stadium,1/6/2025 3:00,48,118
+Thika Road - Muthaiga,1/6/2025 3:15,59,72
+Uhuru Highway - Haile Selassie,1/6/2025 3:15,58,94
+Waiyaki Way - Westlands,1/6/2025 3:15,57,104
+Ngong Road - Adams Arcade,1/6/2025 3:15,45,73
+Jogoo Road - City Stadium,1/6/2025 3:15,53,74
+Thika Road - Muthaiga,1/6/2025 3:30,63,97
+Uhuru Highway - Haile Selassie,1/6/2025 3:30,58,110
+Waiyaki Way - Westlands,1/6/2025 3:30,47,124
+Ngong Road - Adams Arcade,1/6/2025 3:30,36,87
+Jogoo Road - City Stadium,1/6/2025 3:30,48,81
+Thika Road - Muthaiga,1/6/2025 3:45,57,106
+Uhuru Highway - Haile Selassie,1/6/2025 3:45,51,106
+Waiyaki Way - Westlands,1/6/2025 3:45,52,91
+Ngong Road - Adams Arcade,1/6/2025 3:45,55,62
+Jogoo Road - City Stadium,1/6/2025 3:45,53,85
+Thika Road - Muthaiga,1/6/2025 4:00,65,70
+Uhuru Highway - Haile Selassie,1/6/2025 4:00,58,120
+Waiyaki Way - Westlands,1/6/2025 4:00,51,85
+Ngong Road - Adams Arcade,1/6/2025 4:00,42,67
+Jogoo Road - City Stadium,1/6/2025 4:00,54,110
+Thika Road - Muthaiga,1/6/2025 4:15,52,90
+Uhuru Highway - Haile Selassie,1/6/2025 4:15,55,119
+Waiyaki Way - Westlands,1/6/2025 4:15,56,65
+Ngong Road - Adams Arcade,1/6/2025 4:15,54,84
+Jogoo Road - City Stadium,1/6/2025 4:15,22,78
+Thika Road - Muthaiga,1/6/2025 4:30,62,94
+Uhuru Highway - Haile Selassie,1/6/2025 4:30,47,84
+Waiyaki Way - Westlands,1/6/2025 4:30,47,141
+Ngong Road - Adams Arcade,1/6/2025 4:30,39,95
+Jogoo Road - City Stadium,1/6/2025 4:30,46,63
+Thika Road - Muthaiga,1/6/2025 4:45,56,86
+Uhuru Highway - Haile Selassie,1/6/2025 4:45,57,108
+Waiyaki Way - Westlands,1/6/2025 4:45,39,97
+Ngong Road - Adams Arcade,1/6/2025 4:45,29,92
+Jogoo Road - City Stadium,1/6/2025 4:45,53,64
+Thika Road - Muthaiga,1/6/2025 5:00,59,97
+Uhuru Highway - Haile Selassie,1/6/2025 5:00,49,89
+Waiyaki Way - Westlands,1/6/2025 5:00,37,96
+Ngong Road - Adams Arcade,1/6/2025 5:00,50,73
+Jogoo Road - City Stadium,1/6/2025 5:00,44,116
+Thika Road - Muthaiga,1/6/2025 5:15,44,101
+Uhuru Highway - Haile Selassie,1/6/2025 5:15,48,119
+Waiyaki Way - Westlands,1/6/2025 5:15,48,104
+Ngong Road - Adams Arcade,1/6/2025 5:15,38,104
+Jogoo Road - City Stadium,1/6/2025 5:15,45,104
+Thika Road - Muthaiga,1/6/2025 5:30,58,87
+Uhuru Highway - Haile Selassie,1/6/2025 5:30,54,97
+Waiyaki Way - Westlands,1/6/2025 5:30,51,99
+Ngong Road - Adams Arcade,1/6/2025 5:30,51,86
+Jogoo Road - City Stadium,1/6/2025 5:30,39,108
+Thika Road - Muthaiga,1/6/2025 5:45,50,103
+Uhuru Highway - Haile Selassie,1/6/2025 5:45,59,118
+Waiyaki Way - Westlands,1/6/2025 5:45,50,71
+Ngong Road - Adams Arcade,1/6/2025 5:45,38,77
+Jogoo Road - City Stadium,1/6/2025 5:45,42,115
+Thika Road - Muthaiga,1/6/2025 6:00,60,77
+Uhuru Highway - Haile Selassie,1/6/2025 6:00,53,120
+Waiyaki Way - Westlands,1/6/2025 6:00,54,117
+Ngong Road - Adams Arcade,1/6/2025 6:00,40,52
+Jogoo Road - City Stadium,1/6/2025 6:00,51,86
+Thika Road - Muthaiga,1/6/2025 6:15,80,50
+Uhuru Highway - Haile Selassie,1/6/2025 6:15,56,117
+Waiyaki Way - Westlands,1/6/2025 6:15,68,117
+Ngong Road - Adams Arcade,1/6/2025 6:15,52,98
+Jogoo Road - City Stadium,1/6/2025 6:15,46,96
+Thika Road - Muthaiga,1/6/2025 6:30,53,82
+Uhuru Highway - Haile Selassie,1/6/2025 6:30,44,99
+Waiyaki Way - Westlands,1/6/2025 6:30,36,98
+Ngong Road - Adams Arcade,1/6/2025 6:30,44,87
+Jogoo Road - City Stadium,1/6/2025 6:30,43,97
+Thika Road - Muthaiga,1/6/2025 6:45,70,136
+Uhuru Highway - Haile Selassie,1/6/2025 6:45,56,91
+Waiyaki Way - Westlands,1/6/2025 6:45,41,90
+Ngong Road - Adams Arcade,1/6/2025 6:45,48,64
+Jogoo Road - City Stadium,1/6/2025 6:45,55,84
+Thika Road - Muthaiga,1/6/2025 7:00,48,158
+Uhuru Highway - Haile Selassie,1/6/2025 7:00,38,163
+Waiyaki Way - Westlands,1/6/2025 7:00,27,169
+Ngong Road - Adams Arcade,1/6/2025 7:00,41,124
+Jogoo Road - City Stadium,1/6/2025 7:00,35,155
+Thika Road - Muthaiga,1/6/2025 7:15,27,131
+Uhuru Highway - Haile Selassie,1/6/2025 7:15,33,167
+Waiyaki Way - Westlands,1/6/2025 7:15,31,144
+Ngong Road - Adams Arcade,1/6/2025 7:15,19,110
+Jogoo Road - City Stadium,1/6/2025 7:15,34,162
+Thika Road - Muthaiga,1/6/2025 7:30,29,138
+Uhuru Highway - Haile Selassie,1/6/2025 7:30,31,160
+Waiyaki Way - Westlands,1/6/2025 7:30,38,169
+Ngong Road - Adams Arcade,1/6/2025 7:30,18,128
+Jogoo Road - City Stadium,1/6/2025 7:30,23,156
+Thika Road - Muthaiga,1/6/2025 7:45,48,136
+Uhuru Highway - Haile Selassie,1/6/2025 7:45,35,188
+Waiyaki Way - Westlands,1/6/2025 7:45,32,140
+Ngong Road - Adams Arcade,1/6/2025 7:45,25,151
+Jogoo Road - City Stadium,1/6/2025 7:45,40,172
+Thika Road - Muthaiga,1/6/2025 8:00,39,168
+Uhuru Highway - Haile Selassie,1/6/2025 8:00,45,184
+Waiyaki Way - Westlands,1/6/2025 8:00,27,166
+Ngong Road - Adams Arcade,1/6/2025 8:00,30,129
+Jogoo Road - City Stadium,1/6/2025 8:00,28,132
+Thika Road - Muthaiga,1/6/2025 8:15,19,160
+Uhuru Highway - Haile Selassie,1/6/2025 8:15,43,199
+Waiyaki Way - Westlands,1/6/2025 8:15,35,153
+Ngong Road - Adams Arcade,1/6/2025 8:15,37,136
+Jogoo Road - City Stadium,1/6/2025 8:15,18,166
+Thika Road - Muthaiga,1/6/2025 8:30,35,152
+Uhuru Highway - Haile Selassie,1/6/2025 8:30,28,177
+Waiyaki Way - Westlands,1/6/2025 8:30,39,186
+Ngong Road - Adams Arcade,1/6/2025 8:30,17,124
+Jogoo Road - City Stadium,1/6/2025 8:30,33,146
+Thika Road - Muthaiga,1/6/2025 8:45,47,147
+Uhuru Highway - Haile Selassie,1/6/2025 8:45,42,187
+Waiyaki Way - Westlands,1/6/2025 8:45,20,164
+Ngong Road - Adams Arcade,1/6/2025 8:45,36,133
+Jogoo Road - City Stadium,1/6/2025 8:45,34,151
+Thika Road - Muthaiga,1/6/2025 9:00,29,139
+Uhuru Highway - Haile Selassie,1/6/2025 9:00,36,174
+Waiyaki Way - Westlands,1/6/2025 9:00,29,150
+Ngong Road - Adams Arcade,1/6/2025 9:00,37,121
+Jogoo Road - City Stadium,1/6/2025 9:00,41,147
+Thika Road - Muthaiga,1/6/2025 9:15,36,166
+Uhuru Highway - Haile Selassie,1/6/2025 9:15,17,160
+Waiyaki Way - Westlands,1/6/2025 9:15,20,137
+Ngong Road - Adams Arcade,1/6/2025 9:15,29,156
+Jogoo Road - City Stadium,1/6/2025 9:15,12,157
+Thika Road - Muthaiga,1/6/2025 9:30,44,126
+Uhuru Highway - Haile Selassie,1/6/2025 9:30,33,180
+Waiyaki Way - Westlands,1/6/2025 9:30,44,168
+Ngong Road - Adams Arcade,1/6/2025 9:30,28,132
+Jogoo Road - City Stadium,1/6/2025 9:30,49,154
+Thika Road - Muthaiga,1/6/2025 9:45,42,112
+Uhuru Highway - Haile Selassie,1/6/2025 9:45,38,174
+Waiyaki Way - Westlands,1/6/2025 9:45,30,150
+Ngong Road - Adams Arcade,1/6/2025 9:45,53,146
+Jogoo Road - City Stadium,1/6/2025 9:45,23,164
+Thika Road - Muthaiga,1/6/2025 10:00,56,83
+Uhuru Highway - Haile Selassie,1/6/2025 10:00,52,83
+Waiyaki Way - Westlands,1/6/2025 10:00,39,110
+Ngong Road - Adams Arcade,1/6/2025 10:00,48,100
+Jogoo Road - City Stadium,1/6/2025 10:00,46,83
+Thika Road - Muthaiga,1/6/2025 10:15,65,113
+Uhuru Highway - Haile Selassie,1/6/2025 10:15,53,110
+Waiyaki Way - Westlands,1/6/2025 10:15,45,101
+Ngong Road - Adams Arcade,1/6/2025 10:15,61,53
+Jogoo Road - City Stadium,1/6/2025 10:15,51,97
+Thika Road - Muthaiga,1/6/2025 10:30,54,89
+Uhuru Highway - Haile Selassie,1/6/2025 10:30,42,107
+Waiyaki Way - Westlands,1/6/2025 10:30,40,134
+Ngong Road - Adams Arcade,1/6/2025 10:30,41,69
+Jogoo Road - City Stadium,1/6/2025 10:30,48,114
+Thika Road - Muthaiga,1/6/2025 10:45,70,71
+Uhuru Highway - Haile Selassie,1/6/2025 10:45,59,120
+Waiyaki Way - Westlands,1/6/2025 10:45,69,110
+Ngong Road - Adams Arcade,1/6/2025 10:45,39,117
+Jogoo Road - City Stadium,1/6/2025 10:45,51,119
+Thika Road - Muthaiga,1/6/2025 11:00,46,97
+Uhuru Highway - Haile Selassie,1/6/2025 11:00,48,107
+Waiyaki Way - Westlands,1/6/2025 11:00,58,112
+Ngong Road - Adams Arcade,1/6/2025 11:00,44,53
+Jogoo Road - City Stadium,1/6/2025 11:00,46,111
+Thika Road - Muthaiga,1/6/2025 11:15,62,100
+Uhuru Highway - Haile Selassie,1/6/2025 11:15,52,115
+Waiyaki Way - Westlands,1/6/2025 11:15,41,81
+Ngong Road - Adams Arcade,1/6/2025 11:15,45,95
+Jogoo Road - City Stadium,1/6/2025 11:15,44,92
+Thika Road - Muthaiga,1/6/2025 11:30,68,85
+Uhuru Highway - Haile Selassie,1/6/2025 11:30,44,104
+Waiyaki Way - Westlands,1/6/2025 11:30,48,111
+Ngong Road - Adams Arcade,1/6/2025 11:30,57,85
+Jogoo Road - City Stadium,1/6/2025 11:30,50,94
+Thika Road - Muthaiga,1/6/2025 11:45,58,72
+Uhuru Highway - Haile Selassie,1/6/2025 11:45,42,119
+Waiyaki Way - Westlands,1/6/2025 11:45,50,103
+Ngong Road - Adams Arcade,1/6/2025 11:45,53,85
+Jogoo Road - City Stadium,1/6/2025 11:45,59,100
+Thika Road - Muthaiga,1/6/2025 12:00,61,75
+Uhuru Highway - Haile Selassie,1/6/2025 12:00,46,111
+Waiyaki Way - Westlands,1/6/2025 12:00,68,114
+Ngong Road - Adams Arcade,1/6/2025 12:00,49,84
+Jogoo Road - City Stadium,1/6/2025 12:00,42,96
+Thika Road - Muthaiga,1/6/2025 12:15,54,62
+Uhuru Highway - Haile Selassie,1/6/2025 12:15,68,89
+Waiyaki Way - Westlands,1/6/2025 12:15,47,98
+Ngong Road - Adams Arcade,1/6/2025 12:15,36,98
+Jogoo Road - City Stadium,1/6/2025 12:15,48,83
+Thika Road - Muthaiga,1/6/2025 12:30,64,105
+Uhuru Highway - Haile Selassie,1/6/2025 12:30,55,113
+Waiyaki Way - Westlands,1/6/2025 12:30,51,106
+Ngong Road - Adams Arcade,1/6/2025 12:30,45,69
+Jogoo Road - City Stadium,1/6/2025 12:30,48,78
+Thika Road - Muthaiga,1/6/2025 12:45,80,82
+Uhuru Highway - Haile Selassie,1/6/2025 12:45,43,109
+Waiyaki Way - Westlands,1/6/2025 12:45,54,97
+Ngong Road - Adams Arcade,1/6/2025 12:45,40,110
+Jogoo Road - City Stadium,1/6/2025 12:45,54,71
+Thika Road - Muthaiga,1/6/2025 13:00,56,69
+Uhuru Highway - Haile Selassie,1/6/2025 13:00,54,106
+Waiyaki Way - Westlands,1/6/2025 13:00,44,110
+Ngong Road - Adams Arcade,1/6/2025 13:00,44,80
+Jogoo Road - City Stadium,1/6/2025 13:00,48,97
+Thika Road - Muthaiga,1/6/2025 13:15,66,96
+Uhuru Highway - Haile Selassie,1/6/2025 13:15,58,115
+Waiyaki Way - Westlands,1/6/2025 13:15,50,76
+Ngong Road - Adams Arcade,1/6/2025 13:15,50,92
+Jogoo Road - City Stadium,1/6/2025 13:15,42,84
+Thika Road - Muthaiga,1/6/2025 13:30,64,81
+Uhuru Highway - Haile Selassie,1/6/2025 13:30,51,125
+Waiyaki Way - Westlands,1/6/2025 13:30,50,113
+Ngong Road - Adams Arcade,1/6/2025 13:30,43,83
+Jogoo Road - City Stadium,1/6/2025 13:30,50,106
+Thika Road - Muthaiga,1/6/2025 13:45,53,124
+Uhuru Highway - Haile Selassie,1/6/2025 13:45,50,117
+Waiyaki Way - Westlands,1/6/2025 13:45,49,86
+Ngong Road - Adams Arcade,1/6/2025 13:45,68,87
+Jogoo Road - City Stadium,1/6/2025 13:45,38,92
+Thika Road - Muthaiga,1/6/2025 14:00,43,94
+Uhuru Highway - Haile Selassie,1/6/2025 14:00,55,108
+Waiyaki Way - Westlands,1/6/2025 14:00,57,111
+Ngong Road - Adams Arcade,1/6/2025 14:00,43,77
+Jogoo Road - City Stadium,1/6/2025 14:00,38,83
+Thika Road - Muthaiga,1/6/2025 14:15,49,94
+Uhuru Highway - Haile Selassie,1/6/2025 14:15,47,103
+Waiyaki Way - Westlands,1/6/2025 14:15,64,108
+Ngong Road - Adams Arcade,1/6/2025 14:15,30,65
+Jogoo Road - City Stadium,1/6/2025 14:15,48,93
+Thika Road - Muthaiga,1/6/2025 14:30,56,93
+Uhuru Highway - Haile Selassie,1/6/2025 14:30,57,106
+Waiyaki Way - Westlands,1/6/2025 14:30,34,115
+Ngong Road - Adams Arcade,1/6/2025 14:30,46,79
+Jogoo Road - City Stadium,1/6/2025 14:30,61,81
+Thika Road - Muthaiga,1/6/2025 14:45,59,80
+Uhuru Highway - Haile Selassie,1/6/2025 14:45,50,118
+Waiyaki Way - Westlands,1/6/2025 14:45,46,72
+Ngong Road - Adams Arcade,1/6/2025 14:45,42,100
+Jogoo Road - City Stadium,1/6/2025 14:45,55,82
+Thika Road - Muthaiga,1/6/2025 15:00,55,85
+Uhuru Highway - Haile Selassie,1/6/2025 15:00,61,112
+Waiyaki Way - Westlands,1/6/2025 15:00,56,135
+Ngong Road - Adams Arcade,1/6/2025 15:00,40,102
+Jogoo Road - City Stadium,1/6/2025 15:00,48,79
+Thika Road - Muthaiga,1/6/2025 15:15,51,91
+Uhuru Highway - Haile Selassie,1/6/2025 15:15,58,107
+Waiyaki Way - Westlands,1/6/2025 15:15,54,105
+Ngong Road - Adams Arcade,1/6/2025 15:15,40,89
+Jogoo Road - City Stadium,1/6/2025 15:15,38,87
+Thika Road - Muthaiga,1/6/2025 15:30,60,116
+Uhuru Highway - Haile Selassie,1/6/2025 15:30,47,106
+Waiyaki Way - Westlands,1/6/2025 15:30,41,144
+Ngong Road - Adams Arcade,1/6/2025 15:30,48,78
+Jogoo Road - City Stadium,1/6/2025 15:30,55,104
+Thika Road - Muthaiga,1/6/2025 15:45,64,117
+Uhuru Highway - Haile Selassie,1/6/2025 15:45,52,94
+Waiyaki Way - Westlands,1/6/2025 15:45,66,104
+Ngong Road - Adams Arcade,1/6/2025 15:45,54,64
+Jogoo Road - City Stadium,1/6/2025 15:45,54,97
+Thika Road - Muthaiga,1/6/2025 16:00,30,142
+Uhuru Highway - Haile Selassie,1/6/2025 16:00,39,187
+Waiyaki Way - Westlands,1/6/2025 16:00,31,174
+Ngong Road - Adams Arcade,1/6/2025 16:00,15,127
+Jogoo Road - City Stadium,1/6/2025 16:00,33,164
+Thika Road - Muthaiga,1/6/2025 16:15,33,129
+Uhuru Highway - Haile Selassie,1/6/2025 16:15,22,168
+Waiyaki Way - Westlands,1/6/2025 16:15,22,147
+Ngong Road - Adams Arcade,1/6/2025 16:15,22,129
+Jogoo Road - City Stadium,1/6/2025 16:15,46,127
+Thika Road - Muthaiga,1/6/2025 16:30,31,162
+Uhuru Highway - Haile Selassie,1/6/2025 16:30,37,180
+Waiyaki Way - Westlands,1/6/2025 16:30,24,177
+Ngong Road - Adams Arcade,1/6/2025 16:30,23,152
+Jogoo Road - City Stadium,1/6/2025 16:30,35,131
+Thika Road - Muthaiga,1/6/2025 16:45,58,163
+Uhuru Highway - Haile Selassie,1/6/2025 16:45,39,158
+Waiyaki Way - Westlands,1/6/2025 16:45,37,153
+Ngong Road - Adams Arcade,1/6/2025 16:45,18,113
+Jogoo Road - City Stadium,1/6/2025 16:45,30,140
+Thika Road - Muthaiga,1/6/2025 17:00,42,134
+Uhuru Highway - Haile Selassie,1/6/2025 17:00,39,191
+Waiyaki Way - Westlands,1/6/2025 17:00,34,184
+Ngong Road - Adams Arcade,1/6/2025 17:00,39,117
+Jogoo Road - City Stadium,1/6/2025 17:00,37,142
+Thika Road - Muthaiga,1/6/2025 17:15,41,167
+Uhuru Highway - Haile Selassie,1/6/2025 17:15,27,153
+Waiyaki Way - Westlands,1/6/2025 17:15,29,179
+Ngong Road - Adams Arcade,1/6/2025 17:15,34,137
+Jogoo Road - City Stadium,1/6/2025 17:15,32,162
+Thika Road - Muthaiga,1/6/2025 17:30,34,140
+Uhuru Highway - Haile Selassie,1/6/2025 17:30,38,188
+Waiyaki Way - Westlands,1/6/2025 17:30,39,156
+Ngong Road - Adams Arcade,1/6/2025 17:30,21,134
+Jogoo Road - City Stadium,1/6/2025 17:30,22,140
+Thika Road - Muthaiga,1/6/2025 17:45,47,139
+Uhuru Highway - Haile Selassie,1/6/2025 17:45,35,163
+Waiyaki Way - Westlands,1/6/2025 17:45,29,150
+Ngong Road - Adams Arcade,1/6/2025 17:45,26,113
+Jogoo Road - City Stadium,1/6/2025 17:45,34,149
+Thika Road - Muthaiga,1/6/2025 18:00,27,147
+Uhuru Highway - Haile Selassie,1/6/2025 18:00,36,192
+Waiyaki Way - Westlands,1/6/2025 18:00,31,162
+Ngong Road - Adams Arcade,1/6/2025 18:00,29,128
+Jogoo Road - City Stadium,1/6/2025 18:00,16,159
+Thika Road - Muthaiga,1/6/2025 18:15,35,135
+Uhuru Highway - Haile Selassie,1/6/2025 18:15,43,179
+Waiyaki Way - Westlands,1/6/2025 18:15,27,148
+Ngong Road - Adams Arcade,1/6/2025 18:15,21,128
+Jogoo Road - City Stadium,1/6/2025 18:15,36,146
+Thika Road - Muthaiga,1/6/2025 18:30,40,128
+Uhuru Highway - Haile Selassie,1/6/2025 18:30,29,150
+Waiyaki Way - Westlands,1/6/2025 18:30,44,155
+Ngong Road - Adams Arcade,1/6/2025 18:30,10,131
+Jogoo Road - City Stadium,1/6/2025 18:30,30,122
+Thika Road - Muthaiga,1/6/2025 18:45,40,153
+Uhuru Highway - Haile Selassie,1/6/2025 18:45,43,178
+Waiyaki Way - Westlands,1/6/2025 18:45,38,151
+Ngong Road - Adams Arcade,1/6/2025 18:45,20,111
+Jogoo Road - City Stadium,1/6/2025 18:45,27,124
+Thika Road - Muthaiga,1/6/2025 19:00,38,143
+Uhuru Highway - Haile Selassie,1/6/2025 19:00,26,176
+Waiyaki Way - Westlands,1/6/2025 19:00,19,157
+Ngong Road - Adams Arcade,1/6/2025 19:00,25,156
+Jogoo Road - City Stadium,1/6/2025 19:00,42,144
+Thika Road - Muthaiga,1/6/2025 19:15,28,125
+Uhuru Highway - Haile Selassie,1/6/2025 19:15,33,159
+Waiyaki Way - Westlands,1/6/2025 19:15,37,166
+Ngong Road - Adams Arcade,1/6/2025 19:15,10,174
+Jogoo Road - City Stadium,1/6/2025 19:15,25,161
+Thika Road - Muthaiga,1/6/2025 19:30,32,135
+Uhuru Highway - Haile Selassie,1/6/2025 19:30,47,162
+Waiyaki Way - Westlands,1/6/2025 19:30,31,172
+Ngong Road - Adams Arcade,1/6/2025 19:30,16,156
+Jogoo Road - City Stadium,1/6/2025 19:30,12,132
+Thika Road - Muthaiga,1/6/2025 19:45,38,133
+Uhuru Highway - Haile Selassie,1/6/2025 19:45,35,177
+Waiyaki Way - Westlands,1/6/2025 19:45,37,138
+Ngong Road - Adams Arcade,1/6/2025 19:45,33,139
+Jogoo Road - City Stadium,1/6/2025 19:45,32,123
+Thika Road - Muthaiga,1/6/2025 20:00,56,72
+Uhuru Highway - Haile Selassie,1/6/2025 20:00,55,118
+Waiyaki Way - Westlands,1/6/2025 20:00,50,87
+Ngong Road - Adams Arcade,1/6/2025 20:00,54,62
+Jogoo Road - City Stadium,1/6/2025 20:00,56,91
+Thika Road - Muthaiga,1/6/2025 20:15,55,82
+Uhuru Highway - Haile Selassie,1/6/2025 20:15,62,98
+Waiyaki Way - Westlands,1/6/2025 20:15,55,89
+Ngong Road - Adams Arcade,1/6/2025 20:15,29,79
+Jogoo Road - City Stadium,1/6/2025 20:15,38,86
+Thika Road - Muthaiga,1/6/2025 20:30,50,90
+Uhuru Highway - Haile Selassie,1/6/2025 20:30,54,123
+Waiyaki Way - Westlands,1/6/2025 20:30,55,97
+Ngong Road - Adams Arcade,1/6/2025 20:30,44,99
+Jogoo Road - City Stadium,1/6/2025 20:30,33,83
+Thika Road - Muthaiga,1/6/2025 20:45,55,79
+Uhuru Highway - Haile Selassie,1/6/2025 20:45,52,111
+Waiyaki Way - Westlands,1/6/2025 20:45,45,110
+Ngong Road - Adams Arcade,1/6/2025 20:45,54,84
+Jogoo Road - City Stadium,1/6/2025 20:45,47,100
+Thika Road - Muthaiga,1/6/2025 21:00,54,80
+Uhuru Highway - Haile Selassie,1/6/2025 21:00,50,97
+Waiyaki Way - Westlands,1/6/2025 21:00,48,111
+Ngong Road - Adams Arcade,1/6/2025 21:00,59,64
+Jogoo Road - City Stadium,1/6/2025 21:00,36,99
+Thika Road - Muthaiga,1/6/2025 21:15,60,83
+Uhuru Highway - Haile Selassie,1/6/2025 21:15,46,135
+Waiyaki Way - Westlands,1/6/2025 21:15,61,114
+Ngong Road - Adams Arcade,1/6/2025 21:15,42,75
+Jogoo Road - City Stadium,1/6/2025 21:15,46,79
+Thika Road - Muthaiga,1/6/2025 21:30,65,89
+Uhuru Highway - Haile Selassie,1/6/2025 21:30,49,126
+Waiyaki Way - Westlands,1/6/2025 21:30,49,70
+Ngong Road - Adams Arcade,1/6/2025 21:30,46,89
+Jogoo Road - City Stadium,1/6/2025 21:30,48,90
+Thika Road - Muthaiga,1/6/2025 21:45,63,112
+Uhuru Highway - Haile Selassie,1/6/2025 21:45,50,104
+Waiyaki Way - Westlands,1/6/2025 21:45,63,97
+Ngong Road - Adams Arcade,1/6/2025 21:45,44,82
+Jogoo Road - City Stadium,1/6/2025 21:45,56,87
+Thika Road - Muthaiga,1/6/2025 22:00,63,119
+Uhuru Highway - Haile Selassie,1/6/2025 22:00,55,111
+Waiyaki Way - Westlands,1/6/2025 22:00,55,64
+Ngong Road - Adams Arcade,1/6/2025 22:00,48,87
+Jogoo Road - City Stadium,1/6/2025 22:00,44,84
+Thika Road - Muthaiga,1/6/2025 22:15,68,83
+Uhuru Highway - Haile Selassie,1/6/2025 22:15,71,104
+Waiyaki Way - Westlands,1/6/2025 22:15,39,106
+Ngong Road - Adams Arcade,1/6/2025 22:15,39,83
+Jogoo Road - City Stadium,1/6/2025 22:15,60,62
+Thika Road - Muthaiga,1/6/2025 22:30,64,100
+Uhuru Highway - Haile Selassie,1/6/2025 22:30,43,112
+Waiyaki Way - Westlands,1/6/2025 22:30,56,92
+Ngong Road - Adams Arcade,1/6/2025 22:30,24,69
+Jogoo Road - City Stadium,1/6/2025 22:30,46,91
+Thika Road - Muthaiga,1/6/2025 22:45,65,92
+Uhuru Highway - Haile Selassie,1/6/2025 22:45,57,119
+Waiyaki Way - Westlands,1/6/2025 22:45,37,117
+Ngong Road - Adams Arcade,1/6/2025 22:45,50,92
+Jogoo Road - City Stadium,1/6/2025 22:45,35,76
+Thika Road - Muthaiga,1/6/2025 23:00,54,78
+Uhuru Highway - Haile Selassie,1/6/2025 23:00,50,121
+Waiyaki Way - Westlands,1/6/2025 23:00,45,87
+Ngong Road - Adams Arcade,1/6/2025 23:00,45,101
+Jogoo Road - City Stadium,1/6/2025 23:00,47,92
+Thika Road - Muthaiga,1/6/2025 23:15,54,109
+Uhuru Highway - Haile Selassie,1/6/2025 23:15,56,129
+Waiyaki Way - Westlands,1/6/2025 23:15,70,97
+Ngong Road - Adams Arcade,1/6/2025 23:15,42,69
+Jogoo Road - City Stadium,1/6/2025 23:15,55,76
+Thika Road - Muthaiga,1/6/2025 23:30,73,115
+Uhuru Highway - Haile Selassie,1/6/2025 23:30,53,128
+Waiyaki Way - Westlands,1/6/2025 23:30,36,94
+Ngong Road - Adams Arcade,1/6/2025 23:30,48,115
+Jogoo Road - City Stadium,1/6/2025 23:30,58,87
+Thika Road - Muthaiga,1/6/2025 23:45,63,75
+Uhuru Highway - Haile Selassie,1/6/2025 23:45,60,107
+Waiyaki Way - Westlands,1/6/2025 23:45,38,99
+Ngong Road - Adams Arcade,1/6/2025 23:45,53,86
+Jogoo Road - City Stadium,1/6/2025 23:45,54,94
+Thika Road - Muthaiga,1/7/2025 0:00,59,74
+Uhuru Highway - Haile Selassie,1/7/2025 0:00,60,100
+Waiyaki Way - Westlands,1/7/2025 0:00,55,100
+Ngong Road - Adams Arcade,1/7/2025 0:00,50,101
+Jogoo Road - City Stadium,1/7/2025 0:00,40,99
+Thika Road - Muthaiga,1/7/2025 0:15,55,89
+Uhuru Highway - Haile Selassie,1/7/2025 0:15,52,104
+Waiyaki Way - Westlands,1/7/2025 0:15,34,85
+Ngong Road - Adams Arcade,1/7/2025 0:15,46,74
+Jogoo Road - City Stadium,1/7/2025 0:15,48,74
+Thika Road - Muthaiga,1/7/2025 0:30,68,118
+Uhuru Highway - Haile Selassie,1/7/2025 0:30,58,134
+Waiyaki Way - Westlands,1/7/2025 0:30,44,117
+Ngong Road - Adams Arcade,1/7/2025 0:30,23,75
+Jogoo Road - City Stadium,1/7/2025 0:30,60,112
+Thika Road - Muthaiga,1/7/2025 0:45,57,81
+Uhuru Highway - Haile Selassie,1/7/2025 0:45,58,98
+Waiyaki Way - Westlands,1/7/2025 0:45,36,116
+Ngong Road - Adams Arcade,1/7/2025 0:45,42,91
+Jogoo Road - City Stadium,1/7/2025 0:45,51,96
+Thika Road - Muthaiga,1/7/2025 1:00,59,87
+Uhuru Highway - Haile Selassie,1/7/2025 1:00,62,106
+Waiyaki Way - Westlands,1/7/2025 1:00,51,106
+Ngong Road - Adams Arcade,1/7/2025 1:00,41,65
+Jogoo Road - City Stadium,1/7/2025 1:00,48,108
+Thika Road - Muthaiga,1/7/2025 1:15,74,99
+Uhuru Highway - Haile Selassie,1/7/2025 1:15,55,125
+Waiyaki Way - Westlands,1/7/2025 1:15,29,92
+Ngong Road - Adams Arcade,1/7/2025 1:15,42,82
+Jogoo Road - City Stadium,1/7/2025 1:15,46,100
+Thika Road - Muthaiga,1/7/2025 1:30,45,85
+Uhuru Highway - Haile Selassie,1/7/2025 1:30,58,95
+Waiyaki Way - Westlands,1/7/2025 1:30,49,125
+Ngong Road - Adams Arcade,1/7/2025 1:30,52,89
+Jogoo Road - City Stadium,1/7/2025 1:30,50,82
+Thika Road - Muthaiga,1/7/2025 1:45,66,78
+Uhuru Highway - Haile Selassie,1/7/2025 1:45,57,112
+Waiyaki Way - Westlands,1/7/2025 1:45,55,88
+Ngong Road - Adams Arcade,1/7/2025 1:45,36,116
+Jogoo Road - City Stadium,1/7/2025 1:45,49,89
+Thika Road - Muthaiga,1/7/2025 2:00,55,101
+Uhuru Highway - Haile Selassie,1/7/2025 2:00,65,67
+Waiyaki Way - Westlands,1/7/2025 2:00,36,111
+Ngong Road - Adams Arcade,1/7/2025 2:00,57,75
+Jogoo Road - City Stadium,1/7/2025 2:00,55,116
+Thika Road - Muthaiga,1/7/2025 2:15,60,87
+Uhuru Highway - Haile Selassie,1/7/2025 2:15,64,108
+Waiyaki Way - Westlands,1/7/2025 2:15,43,86
+Ngong Road - Adams Arcade,1/7/2025 2:15,44,100
+Jogoo Road - City Stadium,1/7/2025 2:15,42,115
+Thika Road - Muthaiga,1/7/2025 2:30,52,89
+Uhuru Highway - Haile Selassie,1/7/2025 2:30,43,110
+Waiyaki Way - Westlands,1/7/2025 2:30,38,92
+Ngong Road - Adams Arcade,1/7/2025 2:30,50,95
+Jogoo Road - City Stadium,1/7/2025 2:30,58,69
+Thika Road - Muthaiga,1/7/2025 2:45,60,127
+Uhuru Highway - Haile Selassie,1/7/2025 2:45,77,100
+Waiyaki Way - Westlands,1/7/2025 2:45,50,80
+Ngong Road - Adams Arcade,1/7/2025 2:45,55,87
+Jogoo Road - City Stadium,1/7/2025 2:45,44,100
+Thika Road - Muthaiga,1/7/2025 3:00,57,75
+Uhuru Highway - Haile Selassie,1/7/2025 3:00,55,94
+Waiyaki Way - Westlands,1/7/2025 3:00,38,91
+Ngong Road - Adams Arcade,1/7/2025 3:00,41,103
+Jogoo Road - City Stadium,1/7/2025 3:00,46,75
+Thika Road - Muthaiga,1/7/2025 3:15,46,91
+Uhuru Highway - Haile Selassie,1/7/2025 3:15,46,114
+Waiyaki Way - Westlands,1/7/2025 3:15,54,125
+Ngong Road - Adams Arcade,1/7/2025 3:15,39,79
+Jogoo Road - City Stadium,1/7/2025 3:15,52,93
+Thika Road - Muthaiga,1/7/2025 3:30,58,89
+Uhuru Highway - Haile Selassie,1/7/2025 3:30,50,110
+Waiyaki Way - Westlands,1/7/2025 3:30,33,94
+Ngong Road - Adams Arcade,1/7/2025 3:30,47,99
+Jogoo Road - City Stadium,1/7/2025 3:30,63,83
+Thika Road - Muthaiga,1/7/2025 3:45,51,91
+Uhuru Highway - Haile Selassie,1/7/2025 3:45,58,122
+Waiyaki Way - Westlands,1/7/2025 3:45,46,105
+Ngong Road - Adams Arcade,1/7/2025 3:45,42,91
+Jogoo Road - City Stadium,1/7/2025 3:45,32,103
+Thika Road - Muthaiga,1/7/2025 4:00,73,83
+Uhuru Highway - Haile Selassie,1/7/2025 4:00,50,98
+Waiyaki Way - Westlands,1/7/2025 4:00,40,93
+Ngong Road - Adams Arcade,1/7/2025 4:00,43,51
+Jogoo Road - City Stadium,1/7/2025 4:00,47,97
+Thika Road - Muthaiga,1/7/2025 4:15,60,87
+Uhuru Highway - Haile Selassie,1/7/2025 4:15,53,125
+Waiyaki Way - Westlands,1/7/2025 4:15,47,91
+Ngong Road - Adams Arcade,1/7/2025 4:15,56,93
+Jogoo Road - City Stadium,1/7/2025 4:15,48,85
+Thika Road - Muthaiga,1/7/2025 4:30,52,95
+Uhuru Highway - Haile Selassie,1/7/2025 4:30,43,110
+Waiyaki Way - Westlands,1/7/2025 4:30,52,73
+Ngong Road - Adams Arcade,1/7/2025 4:30,46,79
+Jogoo Road - City Stadium,1/7/2025 4:30,40,94
+Thika Road - Muthaiga,1/7/2025 4:45,50,89
+Uhuru Highway - Haile Selassie,1/7/2025 4:45,44,130
+Waiyaki Way - Westlands,1/7/2025 4:45,41,97
+Ngong Road - Adams Arcade,1/7/2025 4:45,42,93
+Jogoo Road - City Stadium,1/7/2025 4:45,54,87
+Thika Road - Muthaiga,1/7/2025 5:00,64,90
+Uhuru Highway - Haile Selassie,1/7/2025 5:00,43,95
+Waiyaki Way - Westlands,1/7/2025 5:00,47,101
+Ngong Road - Adams Arcade,1/7/2025 5:00,44,94
+Jogoo Road - City Stadium,1/7/2025 5:00,35,98
+Thika Road - Muthaiga,1/7/2025 5:15,58,118
+Uhuru Highway - Haile Selassie,1/7/2025 5:15,48,120
+Waiyaki Way - Westlands,1/7/2025 5:15,39,104
+Ngong Road - Adams Arcade,1/7/2025 5:15,42,91
+Jogoo Road - City Stadium,1/7/2025 5:15,53,95
+Thika Road - Muthaiga,1/7/2025 5:30,54,71
+Uhuru Highway - Haile Selassie,1/7/2025 5:30,71,116
+Waiyaki Way - Westlands,1/7/2025 5:30,54,97
+Ngong Road - Adams Arcade,1/7/2025 5:30,60,83
+Jogoo Road - City Stadium,1/7/2025 5:30,48,68
+Thika Road - Muthaiga,1/7/2025 5:45,39,65
+Uhuru Highway - Haile Selassie,1/7/2025 5:45,56,114
+Waiyaki Way - Westlands,1/7/2025 5:45,49,95
+Ngong Road - Adams Arcade,1/7/2025 5:45,42,131
+Jogoo Road - City Stadium,1/7/2025 5:45,42,102
+Thika Road - Muthaiga,1/7/2025 6:00,58,94
+Uhuru Highway - Haile Selassie,1/7/2025 6:00,69,103
+Waiyaki Way - Westlands,1/7/2025 6:00,51,117
+Ngong Road - Adams Arcade,1/7/2025 6:00,42,50
+Jogoo Road - City Stadium,1/7/2025 6:00,46,135
+Thika Road - Muthaiga,1/7/2025 6:15,71,106
+Uhuru Highway - Haile Selassie,1/7/2025 6:15,48,113
+Waiyaki Way - Westlands,1/7/2025 6:15,55,63
+Ngong Road - Adams Arcade,1/7/2025 6:15,46,72
+Jogoo Road - City Stadium,1/7/2025 6:15,45,76
+Thika Road - Muthaiga,1/7/2025 6:30,62,90
+Uhuru Highway - Haile Selassie,1/7/2025 6:30,64,93
+Waiyaki Way - Westlands,1/7/2025 6:30,36,91
+Ngong Road - Adams Arcade,1/7/2025 6:30,45,83
+Jogoo Road - City Stadium,1/7/2025 6:30,58,97
+Thika Road - Muthaiga,1/7/2025 6:45,59,86
+Uhuru Highway - Haile Selassie,1/7/2025 6:45,61,93
+Waiyaki Way - Westlands,1/7/2025 6:45,46,102
+Ngong Road - Adams Arcade,1/7/2025 6:45,56,56
+Jogoo Road - City Stadium,1/7/2025 6:45,43,76
+Thika Road - Muthaiga,1/7/2025 7:00,27,149
+Uhuru Highway - Haile Selassie,1/7/2025 7:00,17,153
+Waiyaki Way - Westlands,1/7/2025 7:00,26,170
+Ngong Road - Adams Arcade,1/7/2025 7:00,20,179
+Jogoo Road - City Stadium,1/7/2025 7:00,25,138
+Thika Road - Muthaiga,1/7/2025 7:15,33,147
+Uhuru Highway - Haile Selassie,1/7/2025 7:15,26,185
+Waiyaki Way - Westlands,1/7/2025 7:15,16,139
+Ngong Road - Adams Arcade,1/7/2025 7:15,23,102
+Jogoo Road - City Stadium,1/7/2025 7:15,24,147
+Thika Road - Muthaiga,1/7/2025 7:30,47,162
+Uhuru Highway - Haile Selassie,1/7/2025 7:30,20,170
+Waiyaki Way - Westlands,1/7/2025 7:30,26,151
+Ngong Road - Adams Arcade,1/7/2025 7:30,22,126
+Jogoo Road - City Stadium,1/7/2025 7:30,26,142
+Thika Road - Muthaiga,1/7/2025 7:45,39,134
+Uhuru Highway - Haile Selassie,1/7/2025 7:45,27,181
+Waiyaki Way - Westlands,1/7/2025 7:45,23,179
+Ngong Road - Adams Arcade,1/7/2025 7:45,31,111
+Jogoo Road - City Stadium,1/7/2025 7:45,32,139
+Thika Road - Muthaiga,1/7/2025 8:00,48,107
+Uhuru Highway - Haile Selassie,1/7/2025 8:00,22,186
+Waiyaki Way - Westlands,1/7/2025 8:00,44,137
+Ngong Road - Adams Arcade,1/7/2025 8:00,21,124
+Jogoo Road - City Stadium,1/7/2025 8:00,27,118
+Thika Road - Muthaiga,1/7/2025 8:15,43,140
+Uhuru Highway - Haile Selassie,1/7/2025 8:15,22,155
+Waiyaki Way - Westlands,1/7/2025 8:15,39,166
+Ngong Road - Adams Arcade,1/7/2025 8:15,36,112
+Jogoo Road - City Stadium,1/7/2025 8:15,38,152
+Thika Road - Muthaiga,1/7/2025 8:30,17,142
+Uhuru Highway - Haile Selassie,1/7/2025 8:30,42,173
+Waiyaki Way - Westlands,1/7/2025 8:30,28,146
+Ngong Road - Adams Arcade,1/7/2025 8:30,5,133
+Jogoo Road - City Stadium,1/7/2025 8:30,22,177
+Thika Road - Muthaiga,1/7/2025 8:45,36,151
+Uhuru Highway - Haile Selassie,1/7/2025 8:45,37,194
+Waiyaki Way - Westlands,1/7/2025 8:45,24,156
+Ngong Road - Adams Arcade,1/7/2025 8:45,13,147
+Jogoo Road - City Stadium,1/7/2025 8:45,21,161
+Thika Road - Muthaiga,1/7/2025 9:00,38,162
+Uhuru Highway - Haile Selassie,1/7/2025 9:00,35,185
+Waiyaki Way - Westlands,1/7/2025 9:00,24,133
+Ngong Road - Adams Arcade,1/7/2025 9:00,29,146
+Jogoo Road - City Stadium,1/7/2025 9:00,33,169
+Thika Road - Muthaiga,1/7/2025 9:15,31,129
+Uhuru Highway - Haile Selassie,1/7/2025 9:15,15,177
+Waiyaki Way - Westlands,1/7/2025 9:15,34,185
+Ngong Road - Adams Arcade,1/7/2025 9:15,15,154
+Jogoo Road - City Stadium,1/7/2025 9:15,47,170
+Thika Road - Muthaiga,1/7/2025 9:30,43,124
+Uhuru Highway - Haile Selassie,1/7/2025 9:30,22,176
+Waiyaki Way - Westlands,1/7/2025 9:30,37,167
+Ngong Road - Adams Arcade,1/7/2025 9:30,37,126
+Jogoo Road - City Stadium,1/7/2025 9:30,18,126
+Thika Road - Muthaiga,1/7/2025 9:45,37,146
+Uhuru Highway - Haile Selassie,1/7/2025 9:45,40,165
+Waiyaki Way - Westlands,1/7/2025 9:45,38,167
+Ngong Road - Adams Arcade,1/7/2025 9:45,32,134
+Jogoo Road - City Stadium,1/7/2025 9:45,46,145
+Thika Road - Muthaiga,1/7/2025 10:00,76,77
+Uhuru Highway - Haile Selassie,1/7/2025 10:00,43,110
+Waiyaki Way - Westlands,1/7/2025 10:00,51,120
+Ngong Road - Adams Arcade,1/7/2025 10:00,54,97
+Jogoo Road - City Stadium,1/7/2025 10:00,43,100
+Thika Road - Muthaiga,1/7/2025 10:15,60,104
+Uhuru Highway - Haile Selassie,1/7/2025 10:15,37,120
+Waiyaki Way - Westlands,1/7/2025 10:15,44,106
+Ngong Road - Adams Arcade,1/7/2025 10:15,49,109
+Jogoo Road - City Stadium,1/7/2025 10:15,51,98
+Thika Road - Muthaiga,1/7/2025 10:30,72,75
+Uhuru Highway - Haile Selassie,1/7/2025 10:30,58,139
+Waiyaki Way - Westlands,1/7/2025 10:30,45,123
+Ngong Road - Adams Arcade,1/7/2025 10:30,45,73
+Jogoo Road - City Stadium,1/7/2025 10:30,44,101
+Thika Road - Muthaiga,1/7/2025 10:45,62,98
+Uhuru Highway - Haile Selassie,1/7/2025 10:45,59,95
+Waiyaki Way - Westlands,1/7/2025 10:45,51,112
+Ngong Road - Adams Arcade,1/7/2025 10:45,35,102
+Jogoo Road - City Stadium,1/7/2025 10:45,38,102
+Thika Road - Muthaiga,1/7/2025 11:00,54,73
+Uhuru Highway - Haile Selassie,1/7/2025 11:00,50,95
+Waiyaki Way - Westlands,1/7/2025 11:00,56,96
+Ngong Road - Adams Arcade,1/7/2025 11:00,32,80
+Jogoo Road - City Stadium,1/7/2025 11:00,41,112
+Thika Road - Muthaiga,1/7/2025 11:15,63,89
+Uhuru Highway - Haile Selassie,1/7/2025 11:15,63,112
+Waiyaki Way - Westlands,1/7/2025 11:15,43,107
+Ngong Road - Adams Arcade,1/7/2025 11:15,46,117
+Jogoo Road - City Stadium,1/7/2025 11:15,55,92
+Thika Road - Muthaiga,1/7/2025 11:30,63,93
+Uhuru Highway - Haile Selassie,1/7/2025 11:30,52,147
+Waiyaki Way - Westlands,1/7/2025 11:30,50,95
+Ngong Road - Adams Arcade,1/7/2025 11:30,32,101
+Jogoo Road - City Stadium,1/7/2025 11:30,43,65
+Thika Road - Muthaiga,1/7/2025 11:45,56,65
+Uhuru Highway - Haile Selassie,1/7/2025 11:45,47,117
+Waiyaki Way - Westlands,1/7/2025 11:45,50,78
+Ngong Road - Adams Arcade,1/7/2025 11:45,31,97
+Jogoo Road - City Stadium,1/7/2025 11:45,54,107
+Thika Road - Muthaiga,1/7/2025 12:00,69,104
+Uhuru Highway - Haile Selassie,1/7/2025 12:00,52,143
+Waiyaki Way - Westlands,1/7/2025 12:00,46,101
+Ngong Road - Adams Arcade,1/7/2025 12:00,57,85
+Jogoo Road - City Stadium,1/7/2025 12:00,41,74
+Thika Road - Muthaiga,1/7/2025 12:15,68,110
+Uhuru Highway - Haile Selassie,1/7/2025 12:15,61,104
+Waiyaki Way - Westlands,1/7/2025 12:15,62,105
+Ngong Road - Adams Arcade,1/7/2025 12:15,53,86
+Jogoo Road - City Stadium,1/7/2025 12:15,52,134
+Thika Road - Muthaiga,1/7/2025 12:30,65,90
+Uhuru Highway - Haile Selassie,1/7/2025 12:30,74,104
+Waiyaki Way - Westlands,1/7/2025 12:30,47,102
+Ngong Road - Adams Arcade,1/7/2025 12:30,53,72
+Jogoo Road - City Stadium,1/7/2025 12:30,44,108
+Thika Road - Muthaiga,1/7/2025 12:45,47,98
+Uhuru Highway - Haile Selassie,1/7/2025 12:45,58,112
+Waiyaki Way - Westlands,1/7/2025 12:45,43,125
+Ngong Road - Adams Arcade,1/7/2025 12:45,37,65
+Jogoo Road - City Stadium,1/7/2025 12:45,58,74
+Thika Road - Muthaiga,1/7/2025 13:00,62,113
+Uhuru Highway - Haile Selassie,1/7/2025 13:00,56,128
+Waiyaki Way - Westlands,1/7/2025 13:00,47,98
+Ngong Road - Adams Arcade,1/7/2025 13:00,32,80
+Jogoo Road - City Stadium,1/7/2025 13:00,47,98
+Thika Road - Muthaiga,1/7/2025 13:15,60,101
+Uhuru Highway - Haile Selassie,1/7/2025 13:15,48,107
+Waiyaki Way - Westlands,1/7/2025 13:15,55,101
+Ngong Road - Adams Arcade,1/7/2025 13:15,45,67
+Jogoo Road - City Stadium,1/7/2025 13:15,42,98
+Thika Road - Muthaiga,1/7/2025 13:30,61,81
+Uhuru Highway - Haile Selassie,1/7/2025 13:30,57,92
+Waiyaki Way - Westlands,1/7/2025 13:30,58,86
+Ngong Road - Adams Arcade,1/7/2025 13:30,38,120
+Jogoo Road - City Stadium,1/7/2025 13:30,42,103
+Thika Road - Muthaiga,1/7/2025 13:45,49,105
+Uhuru Highway - Haile Selassie,1/7/2025 13:45,48,117
+Waiyaki Way - Westlands,1/7/2025 13:45,41,96
+Ngong Road - Adams Arcade,1/7/2025 13:45,38,97
+Jogoo Road - City Stadium,1/7/2025 13:45,45,103
+Thika Road - Muthaiga,1/7/2025 14:00,61,88
+Uhuru Highway - Haile Selassie,1/7/2025 14:00,56,98
+Waiyaki Way - Westlands,1/7/2025 14:00,43,122
+Ngong Road - Adams Arcade,1/7/2025 14:00,56,102
+Jogoo Road - City Stadium,1/7/2025 14:00,36,82
+Thika Road - Muthaiga,1/7/2025 14:15,55,94
+Uhuru Highway - Haile Selassie,1/7/2025 14:15,55,138
+Waiyaki Way - Westlands,1/7/2025 14:15,40,87
+Ngong Road - Adams Arcade,1/7/2025 14:15,40,101
+Jogoo Road - City Stadium,1/7/2025 14:15,55,95
+Thika Road - Muthaiga,1/7/2025 14:30,59,82
+Uhuru Highway - Haile Selassie,1/7/2025 14:30,60,109
+Waiyaki Way - Westlands,1/7/2025 14:30,48,108
+Ngong Road - Adams Arcade,1/7/2025 14:30,42,85
+Jogoo Road - City Stadium,1/7/2025 14:30,50,72
+Thika Road - Muthaiga,1/7/2025 14:45,52,118
+Uhuru Highway - Haile Selassie,1/7/2025 14:45,48,98
+Waiyaki Way - Westlands,1/7/2025 14:45,53,110
+Ngong Road - Adams Arcade,1/7/2025 14:45,37,82
+Jogoo Road - City Stadium,1/7/2025 14:45,35,96
+Thika Road - Muthaiga,1/7/2025 15:00,66,92
+Uhuru Highway - Haile Selassie,1/7/2025 15:00,42,91
+Waiyaki Way - Westlands,1/7/2025 15:00,45,123
+Ngong Road - Adams Arcade,1/7/2025 15:00,43,102
+Jogoo Road - City Stadium,1/7/2025 15:00,51,92
+Thika Road - Muthaiga,1/7/2025 15:15,61,76
+Uhuru Highway - Haile Selassie,1/7/2025 15:15,44,104
+Waiyaki Way - Westlands,1/7/2025 15:15,47,105
+Ngong Road - Adams Arcade,1/7/2025 15:15,35,82
+Jogoo Road - City Stadium,1/7/2025 15:15,55,118
+Thika Road - Muthaiga,1/7/2025 15:30,57,104
+Uhuru Highway - Haile Selassie,1/7/2025 15:30,70,84
+Waiyaki Way - Westlands,1/7/2025 15:30,44,99
+Ngong Road - Adams Arcade,1/7/2025 15:30,54,91
+Jogoo Road - City Stadium,1/7/2025 15:30,58,94
+Thika Road - Muthaiga,1/7/2025 15:45,51,106
+Uhuru Highway - Haile Selassie,1/7/2025 15:45,62,99
+Waiyaki Way - Westlands,1/7/2025 15:45,48,59
+Ngong Road - Adams Arcade,1/7/2025 15:45,41,63
+Jogoo Road - City Stadium,1/7/2025 15:45,45,90
+Thika Road - Muthaiga,1/7/2025 16:00,28,135
+Uhuru Highway - Haile Selassie,1/7/2025 16:00,49,210
+Waiyaki Way - Westlands,1/7/2025 16:00,43,142
+Ngong Road - Adams Arcade,1/7/2025 16:00,29,130
+Jogoo Road - City Stadium,1/7/2025 16:00,24,151
+Thika Road - Muthaiga,1/7/2025 16:15,38,158
+Uhuru Highway - Haile Selassie,1/7/2025 16:15,23,168
+Waiyaki Way - Westlands,1/7/2025 16:15,18,146
+Ngong Road - Adams Arcade,1/7/2025 16:15,18,136
+Jogoo Road - City Stadium,1/7/2025 16:15,40,148
+Thika Road - Muthaiga,1/7/2025 16:30,37,161
+Uhuru Highway - Haile Selassie,1/7/2025 16:30,49,174
+Waiyaki Way - Westlands,1/7/2025 16:30,28,167
+Ngong Road - Adams Arcade,1/7/2025 16:30,31,114
+Jogoo Road - City Stadium,1/7/2025 16:30,24,164
+Thika Road - Muthaiga,1/7/2025 16:45,34,148
+Uhuru Highway - Haile Selassie,1/7/2025 16:45,14,173
+Waiyaki Way - Westlands,1/7/2025 16:45,39,156
+Ngong Road - Adams Arcade,1/7/2025 16:45,28,126
+Jogoo Road - City Stadium,1/7/2025 16:45,32,140
+Thika Road - Muthaiga,1/7/2025 17:00,29,140
+Uhuru Highway - Haile Selassie,1/7/2025 17:00,41,195
+Waiyaki Way - Westlands,1/7/2025 17:00,35,150
+Ngong Road - Adams Arcade,1/7/2025 17:00,33,144
+Jogoo Road - City Stadium,1/7/2025 17:00,38,126
+Thika Road - Muthaiga,1/7/2025 17:15,34,135
+Uhuru Highway - Haile Selassie,1/7/2025 17:15,36,215
+Waiyaki Way - Westlands,1/7/2025 17:15,13,154
+Ngong Road - Adams Arcade,1/7/2025 17:15,17,156
+Jogoo Road - City Stadium,1/7/2025 17:15,27,136
+Thika Road - Muthaiga,1/7/2025 17:30,43,165
+Uhuru Highway - Haile Selassie,1/7/2025 17:30,36,173
+Waiyaki Way - Westlands,1/7/2025 17:30,32,150
+Ngong Road - Adams Arcade,1/7/2025 17:30,35,137
+Jogoo Road - City Stadium,1/7/2025 17:30,33,166
+Thika Road - Muthaiga,1/7/2025 17:45,43,138
+Uhuru Highway - Haile Selassie,1/7/2025 17:45,25,174
+Waiyaki Way - Westlands,1/7/2025 17:45,31,153
+Ngong Road - Adams Arcade,1/7/2025 17:45,26,149
+Jogoo Road - City Stadium,1/7/2025 17:45,30,133
+Thika Road - Muthaiga,1/7/2025 18:00,38,145
+Uhuru Highway - Haile Selassie,1/7/2025 18:00,42,189
+Waiyaki Way - Westlands,1/7/2025 18:00,26,151
+Ngong Road - Adams Arcade,1/7/2025 18:00,33,120
+Jogoo Road - City Stadium,1/7/2025 18:00,27,173
+Thika Road - Muthaiga,1/7/2025 18:15,49,140
+Uhuru Highway - Haile Selassie,1/7/2025 18:15,37,183
+Waiyaki Way - Westlands,1/7/2025 18:15,36,142
+Ngong Road - Adams Arcade,1/7/2025 18:15,19,122
+Jogoo Road - City Stadium,1/7/2025 18:15,25,146
+Thika Road - Muthaiga,1/7/2025 18:30,25,140
+Uhuru Highway - Haile Selassie,1/7/2025 18:30,43,190
+Waiyaki Way - Westlands,1/7/2025 18:30,39,130
+Ngong Road - Adams Arcade,1/7/2025 18:30,34,123
+Jogoo Road - City Stadium,1/7/2025 18:30,30,150
+Thika Road - Muthaiga,1/7/2025 18:45,47,141
+Uhuru Highway - Haile Selassie,1/7/2025 18:45,39,157
+Waiyaki Way - Westlands,1/7/2025 18:45,36,176
+Ngong Road - Adams Arcade,1/7/2025 18:45,23,170
+Jogoo Road - City Stadium,1/7/2025 18:45,29,166
+Thika Road - Muthaiga,1/7/2025 19:00,37,162
+Uhuru Highway - Haile Selassie,1/7/2025 19:00,44,170
+Waiyaki Way - Westlands,1/7/2025 19:00,19,152
+Ngong Road - Adams Arcade,1/7/2025 19:00,33,128
+Jogoo Road - City Stadium,1/7/2025 19:00,30,172
+Thika Road - Muthaiga,1/7/2025 19:15,26,163
+Uhuru Highway - Haile Selassie,1/7/2025 19:15,32,169
+Waiyaki Way - Westlands,1/7/2025 19:15,31,158
+Ngong Road - Adams Arcade,1/7/2025 19:15,24,146
+Jogoo Road - City Stadium,1/7/2025 19:15,29,154
+Thika Road - Muthaiga,1/7/2025 19:30,36,130
+Uhuru Highway - Haile Selassie,1/7/2025 19:30,33,173
+Waiyaki Way - Westlands,1/7/2025 19:30,31,160
+Ngong Road - Adams Arcade,1/7/2025 19:30,38,129
+Jogoo Road - City Stadium,1/7/2025 19:30,24,134
+Thika Road - Muthaiga,1/7/2025 19:45,29,185
+Uhuru Highway - Haile Selassie,1/7/2025 19:45,40,155
+Waiyaki Way - Westlands,1/7/2025 19:45,29,128
+Ngong Road - Adams Arcade,1/7/2025 19:45,15,168
+Jogoo Road - City Stadium,1/7/2025 19:45,18,122
+Thika Road - Muthaiga,1/7/2025 20:00,68,103
+Uhuru Highway - Haile Selassie,1/7/2025 20:00,60,102
+Waiyaki Way - Westlands,1/7/2025 20:00,64,120
+Ngong Road - Adams Arcade,1/7/2025 20:00,26,81
+Jogoo Road - City Stadium,1/7/2025 20:00,44,82
+Thika Road - Muthaiga,1/7/2025 20:15,58,86
+Uhuru Highway - Haile Selassie,1/7/2025 20:15,65,126
+Waiyaki Way - Westlands,1/7/2025 20:15,58,97
+Ngong Road - Adams Arcade,1/7/2025 20:15,45,90
+Jogoo Road - City Stadium,1/7/2025 20:15,48,108
+Thika Road - Muthaiga,1/7/2025 20:30,48,120
+Uhuru Highway - Haile Selassie,1/7/2025 20:30,53,102
+Waiyaki Way - Westlands,1/7/2025 20:30,60,106
+Ngong Road - Adams Arcade,1/7/2025 20:30,33,84
+Jogoo Road - City Stadium,1/7/2025 20:30,54,107
+Thika Road - Muthaiga,1/7/2025 20:45,59,60
+Uhuru Highway - Haile Selassie,1/7/2025 20:45,49,86
+Waiyaki Way - Westlands,1/7/2025 20:45,56,86
+Ngong Road - Adams Arcade,1/7/2025 20:45,34,86
+Jogoo Road - City Stadium,1/7/2025 20:45,36,108
+Thika Road - Muthaiga,1/7/2025 21:00,53,94
+Uhuru Highway - Haile Selassie,1/7/2025 21:00,59,104
+Waiyaki Way - Westlands,1/7/2025 21:00,60,107
+Ngong Road - Adams Arcade,1/7/2025 21:00,47,83
+Jogoo Road - City Stadium,1/7/2025 21:00,49,88
+Thika Road - Muthaiga,1/7/2025 21:15,59,96
+Uhuru Highway - Haile Selassie,1/7/2025 21:15,57,82
+Waiyaki Way - Westlands,1/7/2025 21:15,44,105
+Ngong Road - Adams Arcade,1/7/2025 21:15,56,65
+Jogoo Road - City Stadium,1/7/2025 21:15,46,102
+Thika Road - Muthaiga,1/7/2025 21:30,53,72
+Uhuru Highway - Haile Selassie,1/7/2025 21:30,56,129
+Waiyaki Way - Westlands,1/7/2025 21:30,54,91
+Ngong Road - Adams Arcade,1/7/2025 21:30,57,72
+Jogoo Road - City Stadium,1/7/2025 21:30,44,115
+Thika Road - Muthaiga,1/7/2025 21:45,39,80
+Uhuru Highway - Haile Selassie,1/7/2025 21:45,44,87
+Waiyaki Way - Westlands,1/7/2025 21:45,47,102
+Ngong Road - Adams Arcade,1/7/2025 21:45,42,64
+Jogoo Road - City Stadium,1/7/2025 21:45,52,102
+Thika Road - Muthaiga,1/7/2025 22:00,58,61
+Uhuru Highway - Haile Selassie,1/7/2025 22:00,62,89
+Waiyaki Way - Westlands,1/7/2025 22:00,42,111
+Ngong Road - Adams Arcade,1/7/2025 22:00,41,73
+Jogoo Road - City Stadium,1/7/2025 22:00,50,61
+Thika Road - Muthaiga,1/7/2025 22:15,67,85
+Uhuru Highway - Haile Selassie,1/7/2025 22:15,50,93
+Waiyaki Way - Westlands,1/7/2025 22:15,41,77
+Ngong Road - Adams Arcade,1/7/2025 22:15,52,67
+Jogoo Road - City Stadium,1/7/2025 22:15,48,84
+Thika Road - Muthaiga,1/7/2025 22:30,49,84
+Uhuru Highway - Haile Selassie,1/7/2025 22:30,59,107
+Waiyaki Way - Westlands,1/7/2025 22:30,56,81
+Ngong Road - Adams Arcade,1/7/2025 22:30,41,72
+Jogoo Road - City Stadium,1/7/2025 22:30,42,102
+Thika Road - Muthaiga,1/7/2025 22:45,57,90
+Uhuru Highway - Haile Selassie,1/7/2025 22:45,35,111
+Waiyaki Way - Westlands,1/7/2025 22:45,54,72
+Ngong Road - Adams Arcade,1/7/2025 22:45,37,100
+Jogoo Road - City Stadium,1/7/2025 22:45,50,91
+Thika Road - Muthaiga,1/7/2025 23:00,43,100
+Uhuru Highway - Haile Selassie,1/7/2025 23:00,52,96
+Waiyaki Way - Westlands,1/7/2025 23:00,69,110
+Ngong Road - Adams Arcade,1/7/2025 23:00,33,81
+Jogoo Road - City Stadium,1/7/2025 23:00,58,101
+Thika Road - Muthaiga,1/7/2025 23:15,52,91
+Uhuru Highway - Haile Selassie,1/7/2025 23:15,60,124
+Waiyaki Way - Westlands,1/7/2025 23:15,53,84
+Ngong Road - Adams Arcade,1/7/2025 23:15,54,99
+Jogoo Road - City Stadium,1/7/2025 23:15,45,94
+Thika Road - Muthaiga,1/7/2025 23:30,50,108
+Uhuru Highway - Haile Selassie,1/7/2025 23:30,44,116
+Waiyaki Way - Westlands,1/7/2025 23:30,47,115
+Ngong Road - Adams Arcade,1/7/2025 23:30,48,104
+Jogoo Road - City Stadium,1/7/2025 23:30,59,76
+Thika Road - Muthaiga,1/7/2025 23:45,67,113
+Uhuru Highway - Haile Selassie,1/7/2025 23:45,52,98
+Waiyaki Way - Westlands,1/7/2025 23:45,44,102
+Ngong Road - Adams Arcade,1/7/2025 23:45,46,110
+Jogoo Road - City Stadium,1/7/2025 23:45,50,54
